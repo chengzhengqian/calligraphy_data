@@ -6,6 +6,7 @@ import h5py
 
 # filename="一_10-虞世南.svg.png"
 # file="./{style}/{file}".format(style=style,file=filename)
+# a=readfile(file);plt.imshow(a,cmap="gray");plt.show()
 
 def readImage(file):
     return 1.0-np.array(Image.open(file))/65535
@@ -40,7 +41,6 @@ directory="./{style}".format(style=style)
 processed_font_dict={}
 
 readAllInfo()
-# a=readfile(file);plt.imshow(a,cmap="gray");plt.show()
 
 for k in font_dict:
     print("processing {0}".format(k))
