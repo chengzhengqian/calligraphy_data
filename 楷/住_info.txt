@@ -1,0 +1,8 @@
+./classics_png/楷/住_0-褚遂良.svg.png
+./classics_png/楷/住_1-褚遂良.svg.png
+./classics_png/楷/住_2-道匠造像.svg.png
+./classics_png/楷/住_3-柳公权.svg.png
+./classics_png/楷/住_4-裴休.svg.png
+./classics_png/楷/住_5-颜真卿.svg.png
+./classics_png/楷/住_6-颜真卿.svg.png
+./classics_png/楷/住_7-赵孟頫.svg.png

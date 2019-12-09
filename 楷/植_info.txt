@@ -1,0 +1,7 @@
+./classics_png/楷/植_0-褚遂良.svg.png
+./classics_png/楷/植_1-褚遂良.svg.png
+./classics_png/楷/植_2-柳公权.svg.png
+./classics_png/楷/植_3-颜真卿.svg.png
+./classics_png/楷/植_4-赵孟頫.svg.png
+./classics_png/楷/植_5-智永.svg.png
+./classics_png/楷/植_6-智永.svg.png

@@ -1,0 +1,9 @@
+./classics_png/楷/仁_0-褚遂良.svg.png
+./classics_png/楷/仁_1-敬使君碑.svg.png
+./classics_png/楷/仁_2-李世民.svg.png
+./classics_png/楷/仁_3-柳公权.svg.png
+./classics_png/楷/仁_4-欧阳询.svg.png
+./classics_png/楷/仁_5-颜真卿.svg.png
+./classics_png/楷/仁_6-虞世南.svg.png
+./classics_png/楷/仁_7-元珍墓志.svg.png
+./classics_png/楷/仁_8-赵佶.svg.png

@@ -1,0 +1,3 @@
+./classics_png/楷/唱_0-颜真卿.svg.png
+./classics_png/楷/唱_1-颜真卿.svg.png
+./classics_png/楷/唱_2-智永.svg.png

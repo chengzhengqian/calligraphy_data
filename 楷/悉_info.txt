@@ -1,0 +1,7 @@
+./classics_png/楷/悉_0-高贞碑.svg.png
+./classics_png/楷/悉_1-柳公权.svg.png
+./classics_png/楷/悉_2-龙藏寺碑.svg.png
+./classics_png/楷/悉_3-颜真卿.svg.png
+./classics_png/楷/悉_4-颜真卿.svg.png
+./classics_png/楷/悉_5-张公礼.svg.png
+./classics_png/楷/悉_6-赵孟頫.svg.png

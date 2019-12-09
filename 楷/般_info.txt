@@ -1,0 +1,4 @@
+./classics_png/楷/般_0-柳公权.svg.png
+./classics_png/楷/般_1-欧阳询.svg.png
+./classics_png/楷/般_2-欧阳询.svg.png
+./classics_png/楷/般_3-颜真卿.svg.png

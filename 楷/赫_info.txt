@@ -1,0 +1,5 @@
+./classics_png/楷/赫_0-高贞碑.svg.png
+./classics_png/楷/赫_1-解伯达造像.svg.png
+./classics_png/楷/赫_2-李邕.svg.png
+./classics_png/楷/赫_3-颜真卿.svg.png
+./classics_png/楷/赫_4-虞世南.svg.png

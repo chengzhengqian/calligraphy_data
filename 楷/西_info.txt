@@ -1,0 +1,8 @@
+./classics_png/楷/西_0-褚遂良.svg.png
+./classics_png/楷/西_1-褚遂良.svg.png
+./classics_png/楷/西_2-褚遂良.svg.png
+./classics_png/楷/西_3-敬使君碑.svg.png
+./classics_png/楷/西_4-柳公权.svg.png
+./classics_png/楷/西_5-欧阳询.svg.png
+./classics_png/楷/西_6-颜真卿.svg.png
+./classics_png/楷/西_7-张从申.svg.png

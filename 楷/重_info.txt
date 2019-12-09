@@ -1,0 +1,10 @@
+./classics_png/楷/重_0-褚遂良.svg.png
+./classics_png/楷/重_1-李邕.svg.png
+./classics_png/楷/重_2-柳公权.svg.png
+./classics_png/楷/重_3-柳公权.svg.png
+./classics_png/楷/重_4-欧阳询.svg.png
+./classics_png/楷/重_5-欧阳询.svg.png
+./classics_png/楷/重_6-颜真卿.svg.png
+./classics_png/楷/重_7-颜真卿.svg.png
+./classics_png/楷/重_8-智永.svg.png
+./classics_png/楷/重_9-智永.svg.png

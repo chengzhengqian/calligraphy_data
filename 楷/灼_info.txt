@@ -1,0 +1,4 @@
+./classics_png/楷/灼_0-颜真卿.svg.png
+./classics_png/楷/灼_1-欧阳询.svg.png
+./classics_png/楷/灼_2-柳公权.svg.png
+./classics_png/楷/灼_3-智永.svg.png

@@ -1,0 +1,6 @@
+./classics_png/楷/宏_0-褚遂良.svg.png
+./classics_png/楷/宏_1-褚遂良.svg.png
+./classics_png/楷/宏_2-柳公权.svg.png
+./classics_png/楷/宏_3-史游.svg.png
+./classics_png/楷/宏_4-颜真卿.svg.png
+./classics_png/楷/宏_5-张裕钊.svg.png

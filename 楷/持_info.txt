@@ -1,0 +1,10 @@
+./classics_png/楷/持_0-褚遂良.svg.png
+./classics_png/楷/持_1-褚遂良.svg.png
+./classics_png/楷/持_2-贺兰汗造像.svg.png
+./classics_png/楷/持_3-柳公权.svg.png
+./classics_png/楷/持_4-王献之.svg.png
+./classics_png/楷/持_5-颜真卿.svg.png
+./classics_png/楷/持_6-元倪墓志.svg.png
+./classics_png/楷/持_7-元珍墓志.svg.png
+./classics_png/楷/持_8-张猛龙碑.svg.png
+./classics_png/楷/持_9-郑道昭.svg.png

@@ -1,0 +1,4 @@
+./classics_png/楷/丧_0-欧阳通.svg.png
+./classics_png/楷/丧_1-欧阳询.svg.png
+./classics_png/楷/丧_2-颜真卿.svg.png
+./classics_png/楷/丧_3-颜真卿.svg.png

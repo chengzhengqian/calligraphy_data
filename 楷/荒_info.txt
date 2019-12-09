@@ -1,0 +1,8 @@
+./classics_png/楷/荒_0-褚遂良.svg.png
+./classics_png/楷/荒_1-敬使君碑.svg.png
+./classics_png/楷/荒_2-王知敬.svg.png
+./classics_png/楷/荒_3-颜真卿.svg.png
+./classics_png/楷/荒_4-颜真卿.svg.png
+./classics_png/楷/荒_5-张公礼.svg.png
+./classics_png/楷/荒_6-智永.svg.png
+./classics_png/楷/荒_7-中岳灵庙碑.svg.png

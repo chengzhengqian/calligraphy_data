@@ -1,0 +1,7 @@
+./classics_png/楷/悦_0-褚遂良.svg.png
+./classics_png/楷/悦_1-褚遂良.svg.png
+./classics_png/楷/悦_2-董其昌.svg.png
+./classics_png/楷/悦_3-颜真卿.svg.png
+./classics_png/楷/悦_4-颜真卿.svg.png
+./classics_png/楷/悦_5-张玄墓志.svg.png
+./classics_png/楷/悦_6-郑道昭.svg.png

@@ -1,0 +1,4 @@
+./classics_png/楷/置_0-高元裕碑.svg.png
+./classics_png/楷/置_1-柳公权.svg.png
+./classics_png/楷/置_2-颜真卿.svg.png
+./classics_png/楷/置_3-颜真卿.svg.png

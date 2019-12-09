@@ -1,0 +1,6 @@
+./classics_png/楷/贺_0-褚遂良.svg.png
+./classics_png/楷/贺_1-褚遂良.svg.png
+./classics_png/楷/贺_2-褚遂良.svg.png
+./classics_png/楷/贺_3-贺兰汗造像.svg.png
+./classics_png/楷/贺_4-颜真卿.svg.png
+./classics_png/楷/贺_5-颜真卿.svg.png

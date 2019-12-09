@@ -1,0 +1,8 @@
+./classics_png/楷/继_0-褚遂良.svg.png
+./classics_png/楷/继_1-褚遂良.svg.png
+./classics_png/楷/继_2-欧阳通.svg.png
+./classics_png/楷/继_3-王知敬.svg.png
+./classics_png/楷/继_4-颜真卿.svg.png
+./classics_png/楷/继_5-颜真卿.svg.png
+./classics_png/楷/继_6-虞世南.svg.png
+./classics_png/楷/继_7-中岳灵庙碑.svg.png

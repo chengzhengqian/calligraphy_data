@@ -1,0 +1,3 @@
+./classics_png/楷/刷_0-翁闓运.svg.png
+./classics_png/楷/刷_1-颜真卿.svg.png
+./classics_png/楷/刷_2-昭仁寺碑.svg.png

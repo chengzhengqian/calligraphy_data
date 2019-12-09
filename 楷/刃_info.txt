@@ -1,0 +1,4 @@
+./classics_png/楷/刃_0-褚遂良.svg.png
+./classics_png/楷/刃_1-王知敬.svg.png
+./classics_png/楷/刃_2-颜真卿.svg.png
+./classics_png/楷/刃_3-钟繇.svg.png

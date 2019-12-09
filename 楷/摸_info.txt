@@ -1,0 +1,3 @@
+./classics_png/楷/摸_0-褚遂良.svg.png
+./classics_png/楷/摸_1-李邕.svg.png
+./classics_png/楷/摸_2-颜真卿.svg.png

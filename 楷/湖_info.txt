@@ -1,0 +1,3 @@
+./classics_png/楷/湖_0-爨宝子碑.svg.png
+./classics_png/楷/湖_1-颜真卿.svg.png
+./classics_png/楷/湖_2-张廉卿.svg.png

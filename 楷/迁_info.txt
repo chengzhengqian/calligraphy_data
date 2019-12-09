@@ -1,0 +1,8 @@
+./classics_png/楷/迁_0-褚遂良.svg.png
+./classics_png/楷/迁_1-柳公权.svg.png
+./classics_png/楷/迁_2-欧阳询.svg.png
+./classics_png/楷/迁_3-欧阳询.svg.png
+./classics_png/楷/迁_4-颜真卿.svg.png
+./classics_png/楷/迁_5-颜真卿.svg.png
+./classics_png/楷/迁_6-颜真卿.svg.png
+./classics_png/楷/迁_7-永板石埭.svg.png

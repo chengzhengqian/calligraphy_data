@@ -1,0 +1,7 @@
+./classics_png/楷/连_0-颜真卿.svg.png
+./classics_png/楷/连_1-颜真卿.svg.png
+./classics_png/楷/连_2-褚遂良.svg.png
+./classics_png/楷/连_3-虞世南.svg.png
+./classics_png/楷/连_4-王知敬.svg.png
+./classics_png/楷/连_5-张贵南墓志.svg.png
+./classics_png/楷/连_6-崔敬邕墓志.svg.png

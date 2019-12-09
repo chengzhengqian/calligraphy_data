@@ -1,0 +1,5 @@
+./classics_png/楷/疲_0-欧阳通.svg.png
+./classics_png/楷/疲_1-欧阳询.svg.png
+./classics_png/楷/疲_2-颜真卿.svg.png
+./classics_png/楷/疲_3-智永.svg.png
+./classics_png/楷/疲_4-智永.svg.png

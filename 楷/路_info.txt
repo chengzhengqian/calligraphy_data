@@ -1,0 +1,8 @@
+./classics_png/楷/路_0-褚遂良.svg.png
+./classics_png/楷/路_1-韩秀弼.svg.png
+./classics_png/楷/路_2-马振拜造像.svg.png
+./classics_png/楷/路_3-欧阳通.svg.png
+./classics_png/楷/路_4-颜真卿.svg.png
+./classics_png/楷/路_5-杨大眼造像.svg.png
+./classics_png/楷/路_6-张即之.svg.png
+./classics_png/楷/路_7-钟繇.svg.png

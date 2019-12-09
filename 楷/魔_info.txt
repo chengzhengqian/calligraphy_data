@@ -1,0 +1,2 @@
+./classics_png/楷/魔_0-圭峰禅师碑.svg.png
+./classics_png/楷/魔_1-颜真卿.svg.png

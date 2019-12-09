@@ -1,0 +1,7 @@
+./classics_png/楷/绝_0-褚遂良.svg.png
+./classics_png/楷/绝_1-牛橛造像.svg.png
+./classics_png/楷/绝_2-欧阳询.svg.png
+./classics_png/楷/绝_3-颜真卿.svg.png
+./classics_png/楷/绝_4-颜真卿.svg.png
+./classics_png/楷/绝_5-颜真卿.svg.png
+./classics_png/楷/绝_6-虞世南.svg.png

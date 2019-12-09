@@ -1,0 +1,4 @@
+./classics_png/楷/淮_0-褚遂良.svg.png
+./classics_png/楷/淮_1-敬使君碑.svg.png
+./classics_png/楷/淮_2-柳公权.svg.png
+./classics_png/楷/淮_3-颜真卿.svg.png

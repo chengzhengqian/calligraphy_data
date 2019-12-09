@@ -1,0 +1,4 @@
+./classics_png/楷/堕_0-颜真卿.svg.png
+./classics_png/楷/堕_1-颜真卿.svg.png
+./classics_png/楷/堕_2-颜真卿.svg.png
+./classics_png/楷/堕_3-兖公颂.svg.png

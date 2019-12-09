@@ -1,0 +1,4 @@
+./classics_png/楷/黍_0-褚遂良.svg.png
+./classics_png/楷/黍_1-颜真卿.svg.png
+./classics_png/楷/黍_2-赵佶.svg.png
+./classics_png/楷/黍_3-智永.svg.png

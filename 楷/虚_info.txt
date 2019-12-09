@@ -1,0 +1,7 @@
+./classics_png/楷/虚_0-褚遂良.svg.png
+./classics_png/楷/虚_1-褚遂良.svg.png
+./classics_png/楷/虚_2-褚遂良.svg.png
+./classics_png/楷/虚_3-李世民.svg.png
+./classics_png/楷/虚_4-欧阳通.svg.png
+./classics_png/楷/虚_5-颜真卿.svg.png
+./classics_png/楷/虚_6-虞世南.svg.png

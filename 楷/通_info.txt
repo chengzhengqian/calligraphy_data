@@ -1,0 +1,8 @@
+./classics_png/楷/通_0-褚遂良.svg.png
+./classics_png/楷/通_1-褚遂良.svg.png
+./classics_png/楷/通_2-褚遂良.svg.png
+./classics_png/楷/通_3-柳公权.svg.png
+./classics_png/楷/通_4-米芾.svg.png
+./classics_png/楷/通_5-欧阳通.svg.png
+./classics_png/楷/通_6-魏灵藏造像.svg.png
+./classics_png/楷/通_7-颜真卿.svg.png

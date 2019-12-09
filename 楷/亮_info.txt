@@ -1,0 +1,5 @@
+./classics_png/楷/亮_0-陆柬之.svg.png
+./classics_png/楷/亮_1-牛橛造像.svg.png
+./classics_png/楷/亮_2-欧阳询.svg.png
+./classics_png/楷/亮_3-颜真卿.svg.png
+./classics_png/楷/亮_4-赵孟頫.svg.png

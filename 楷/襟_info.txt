@@ -1,0 +1,3 @@
+./classics_png/楷/襟_0-欧阳询.svg.png
+./classics_png/楷/襟_1-颜真卿.svg.png
+./classics_png/楷/襟_2-张猛龙碑.svg.png

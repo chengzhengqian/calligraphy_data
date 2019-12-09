@@ -1,0 +1,9 @@
+./classics_png/楷/罪_0-褚遂良.svg.png
+./classics_png/楷/罪_1-褚遂良.svg.png
+./classics_png/楷/罪_2-柳公权.svg.png
+./classics_png/楷/罪_3-欧阳询.svg.png
+./classics_png/楷/罪_4-欧阳询.svg.png
+./classics_png/楷/罪_5-颜真卿.svg.png
+./classics_png/楷/罪_6-赵佶.svg.png
+./classics_png/楷/罪_7-智永.svg.png
+./classics_png/楷/罪_8-钟繇.svg.png

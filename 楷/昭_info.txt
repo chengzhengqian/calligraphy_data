@@ -1,0 +1,7 @@
+./classics_png/楷/昭_0-褚遂良.svg.png
+./classics_png/楷/昭_1-高庆碑.svg.png
+./classics_png/楷/昭_2-柳公权.svg.png
+./classics_png/楷/昭_3-欧阳通.svg.png
+./classics_png/楷/昭_4-欧阳通.svg.png
+./classics_png/楷/昭_5-石婉墓志.svg.png
+./classics_png/楷/昭_6-颜真卿.svg.png

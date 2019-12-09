@@ -1,0 +1,12 @@
+./classics_png/楷/变_0-陆柬之.svg.png
+./classics_png/楷/变_1-欧阳通.svg.png
+./classics_png/楷/变_2-欧阳通.svg.png
+./classics_png/楷/变_3-欧阳询.svg.png
+./classics_png/楷/变_4-欧阳询.svg.png
+./classics_png/楷/变_5-欧阳询.svg.png
+./classics_png/楷/变_6-苏轼.svg.png
+./classics_png/楷/变_7-颜真卿.svg.png
+./classics_png/楷/变_8-颜真卿.svg.png
+./classics_png/楷/变_9-颜真卿.svg.png
+./classics_png/楷/变_10-颜真卿.svg.png
+./classics_png/楷/变_11-颜真卿.svg.png

@@ -1,0 +1,9 @@
+./classics_png/楷/合_0-褚遂良.svg.png
+./classics_png/楷/合_1-褚遂良.svg.png
+./classics_png/楷/合_2-柳公权.svg.png
+./classics_png/楷/合_3-柳公权.svg.png
+./classics_png/楷/合_4-颜真卿.svg.png
+./classics_png/楷/合_5-颜真卿.svg.png
+./classics_png/楷/合_6-颜真卿.svg.png
+./classics_png/楷/合_7-赵佶.svg.png
+./classics_png/楷/合_8-智永.svg.png

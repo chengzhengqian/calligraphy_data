@@ -1,0 +1,2 @@
+./classics_png/楷/逐_0-颜真卿.svg.png
+./classics_png/楷/逐_1-智永.svg.png

@@ -1,0 +1,7 @@
+./classics_png/楷/损_0-高贞碑.svg.png
+./classics_png/楷/损_1-欧阳询.svg.png
+./classics_png/楷/损_2-欧阳询.svg.png
+./classics_png/楷/损_3-王献之.svg.png
+./classics_png/楷/损_4-颜真卿.svg.png
+./classics_png/楷/损_5-颜真卿.svg.png
+./classics_png/楷/损_6-颜真卿.svg.png

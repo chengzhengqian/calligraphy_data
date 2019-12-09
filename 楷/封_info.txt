@@ -1,0 +1,9 @@
+./classics_png/楷/封_0-高正臣.svg.png
+./classics_png/楷/封_1-欧阳询.svg.png
+./classics_png/楷/封_2-欧阳询.svg.png
+./classics_png/楷/封_3-苏孝慈墓志.svg.png
+./classics_png/楷/封_4-颜真卿.svg.png
+./classics_png/楷/封_5-元珍墓志.svg.png
+./classics_png/楷/封_6-赵佶.svg.png
+./classics_png/楷/封_7-赵孟頫.svg.png
+./classics_png/楷/封_8-郑道昭.svg.png

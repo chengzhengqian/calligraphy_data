@@ -1,0 +1,5 @@
+./classics_png/楷/鲜_0-黄清老.svg.png
+./classics_png/楷/鲜_1-陆柬之.svg.png
+./classics_png/楷/鲜_2-颜真卿.svg.png
+./classics_png/楷/鲜_3-颜真卿.svg.png
+./classics_png/楷/鲜_4-郑板桥.svg.png

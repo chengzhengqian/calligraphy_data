@@ -1,0 +1,6 @@
+./classics_png/楷/拜_0-高贞碑.svg.png
+./classics_png/楷/拜_1-苏轼.svg.png
+./classics_png/楷/拜_2-谢安.svg.png
+./classics_png/楷/拜_3-颜真卿.svg.png
+./classics_png/楷/拜_4-颜真卿.svg.png
+./classics_png/楷/拜_5-虞世南.svg.png

@@ -1,0 +1,6 @@
+./classics_png/楷/殉_0-褚遂良.svg.png
+./classics_png/楷/殉_1-褚遂良.svg.png
+./classics_png/楷/殉_2-高湛墓志.svg.png
+./classics_png/楷/殉_3-欧阳询.svg.png
+./classics_png/楷/殉_4-欧阳询.svg.png
+./classics_png/楷/殉_5-颜真卿.svg.png

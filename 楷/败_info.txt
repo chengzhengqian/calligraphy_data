@@ -1,0 +1,7 @@
+./classics_png/楷/败_0-褚遂良.svg.png
+./classics_png/楷/败_1-高元裕碑.svg.png
+./classics_png/楷/败_2-柳公权.svg.png
+./classics_png/楷/败_3-苏轼.svg.png
+./classics_png/楷/败_4-苏轼.svg.png
+./classics_png/楷/败_5-颜真卿.svg.png
+./classics_png/楷/败_6-颜真卿.svg.png

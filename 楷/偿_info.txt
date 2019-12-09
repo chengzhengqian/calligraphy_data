@@ -1,0 +1,4 @@
+./classics_png/楷/偿_0-裴休.svg.png
+./classics_png/楷/偿_1-颜真卿.svg.png
+./classics_png/楷/偿_2-颜真卿.svg.png
+./classics_png/楷/偿_3-张即之.svg.png

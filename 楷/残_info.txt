@@ -1,0 +1,6 @@
+./classics_png/楷/残_0-敬使君碑.svg.png
+./classics_png/楷/残_1-柳公权.svg.png
+./classics_png/楷/残_2-欧阳通.svg.png
+./classics_png/楷/残_3-欧阳询.svg.png
+./classics_png/楷/残_4-颜真卿.svg.png
+./classics_png/楷/残_5-颜真卿.svg.png

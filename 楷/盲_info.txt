@@ -1,0 +1,4 @@
+./classics_png/楷/盲_0-残莲花经.svg.png
+./classics_png/楷/盲_1-胡长孺.svg.png
+./classics_png/楷/盲_2-颜真卿.svg.png
+./classics_png/楷/盲_3-赵孟頫.svg.png

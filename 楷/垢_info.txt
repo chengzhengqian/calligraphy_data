@@ -1,0 +1,4 @@
+./classics_png/楷/垢_0-颜真卿.svg.png
+./classics_png/楷/垢_1-颜真卿.svg.png
+./classics_png/楷/垢_2-智永.svg.png
+./classics_png/楷/垢_3-智永.svg.png

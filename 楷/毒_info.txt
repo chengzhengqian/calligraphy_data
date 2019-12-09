@@ -1,0 +1,4 @@
+./classics_png/楷/毒_0-高正臣.svg.png
+./classics_png/楷/毒_1-欧阳通.svg.png
+./classics_png/楷/毒_2-欧阳询.svg.png
+./classics_png/楷/毒_3-颜真卿.svg.png

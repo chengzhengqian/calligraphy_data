@@ -1,0 +1,5 @@
+./classics_png/楷/谅_0-欧阳通.svg.png
+./classics_png/楷/谅_1-欧阳询.svg.png
+./classics_png/楷/谅_2-山涛.svg.png
+./classics_png/楷/谅_3-颜真卿.svg.png
+./classics_png/楷/谅_4-颜真卿.svg.png

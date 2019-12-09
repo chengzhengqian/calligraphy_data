@@ -1,0 +1,6 @@
+./classics_png/楷/夺_0-褚遂良.svg.png
+./classics_png/楷/夺_1-欧阳询.svg.png
+./classics_png/楷/夺_2-欧阳询.svg.png
+./classics_png/楷/夺_3-王蒙.svg.png
+./classics_png/楷/夺_4-颜真卿.svg.png
+./classics_png/楷/夺_5-颜真卿.svg.png

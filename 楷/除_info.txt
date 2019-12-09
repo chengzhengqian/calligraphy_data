@@ -1,0 +1,4 @@
+./classics_png/楷/除_0-高贞碑.svg.png
+./classics_png/楷/除_1-柳公权.svg.png
+./classics_png/楷/除_2-欧阳询.svg.png
+./classics_png/楷/除_3-颜真卿.svg.png

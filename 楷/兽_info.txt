@@ -1,0 +1,8 @@
+./classics_png/楷/兽_0-欧阳通.svg.png
+./classics_png/楷/兽_1-鲜于枢.svg.png
+./classics_png/楷/兽_2-颜真卿.svg.png
+./classics_png/楷/兽_3-颜真卿.svg.png
+./classics_png/楷/兽_4-虞世南.svg.png
+./classics_png/楷/兽_5-赵孟頫.svg.png
+./classics_png/楷/兽_6-智永.svg.png
+./classics_png/楷/兽_7-智永.svg.png

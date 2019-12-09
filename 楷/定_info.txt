@@ -1,0 +1,7 @@
+./classics_png/楷/定_0-褚遂良.svg.png
+./classics_png/楷/定_1-褚遂良.svg.png
+./classics_png/楷/定_2-褚遂良.svg.png
+./classics_png/楷/定_3-柳公权.svg.png
+./classics_png/楷/定_4-孙秋生造像.svg.png
+./classics_png/楷/定_5-颜真卿.svg.png
+./classics_png/楷/定_6-智永.svg.png

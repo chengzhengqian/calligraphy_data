@@ -1,0 +1,5 @@
+./classics_png/楷/标_0-欧阳询.svg.png
+./classics_png/楷/标_1-孙秋生造像.svg.png
+./classics_png/楷/标_2-魏灵藏造像.svg.png
+./classics_png/楷/标_3-颜真卿.svg.png
+./classics_png/楷/标_4-颜真卿.svg.png

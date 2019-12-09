@@ -1,0 +1,3 @@
+./classics_png/楷/盏_0-苏轼.svg.png
+./classics_png/楷/盏_1-颜真卿.svg.png
+./classics_png/楷/盏_2-颜真卿.svg.png

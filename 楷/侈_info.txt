@@ -1,0 +1,8 @@
+./classics_png/楷/侈_0-揭傒斯.svg.png
+./classics_png/楷/侈_1-柳公权.svg.png
+./classics_png/楷/侈_2-欧阳询.svg.png
+./classics_png/楷/侈_3-欧阳询.svg.png
+./classics_png/楷/侈_4-欧阳询.svg.png
+./classics_png/楷/侈_5-颜真卿.svg.png
+./classics_png/楷/侈_6-赵孟頫.svg.png
+./classics_png/楷/侈_7-智永.svg.png

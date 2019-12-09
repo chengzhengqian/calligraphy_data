@@ -1,0 +1,8 @@
+./classics_png/楷/刺_0-高贞碑.svg.png
+./classics_png/楷/刺_1-王知敬.svg.png
+./classics_png/楷/刺_2-颜真卿.svg.png
+./classics_png/楷/刺_3-颜真卿.svg.png
+./classics_png/楷/刺_4-元倪墓志.svg.png
+./classics_png/楷/刺_5-元珍墓志.svg.png
+./classics_png/楷/刺_6-张猛龙碑.svg.png
+./classics_png/楷/刺_7-朱君山墓志.svg.png

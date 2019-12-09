@@ -1,0 +1,4 @@
+./classics_png/楷/阵_0-文皇哀册.svg.png
+./classics_png/楷/阵_1-颜真卿.svg.png
+./classics_png/楷/阵_2-颜真卿.svg.png
+./classics_png/楷/阵_3-张公礼.svg.png

@@ -1,0 +1,4 @@
+./classics_png/楷/假_0-欧阳询.svg.png
+./classics_png/楷/假_1-张玄墓志.svg.png
+./classics_png/楷/假_2-智永.svg.png
+./classics_png/楷/假_3-智永.svg.png

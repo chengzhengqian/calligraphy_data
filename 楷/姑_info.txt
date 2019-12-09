@@ -1,0 +1,4 @@
+./classics_png/楷/姑_0-颜真卿.svg.png
+./classics_png/楷/姑_1-元瑛墓志.svg.png
+./classics_png/楷/姑_2-智永.svg.png
+./classics_png/楷/姑_3-智永.svg.png

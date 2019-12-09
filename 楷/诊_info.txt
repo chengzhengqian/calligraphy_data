@@ -1,0 +1,3 @@
+./classics_png/楷/诊_0-安乐王墓志.svg.png
+./classics_png/楷/诊_1-颜真卿.svg.png
+./classics_png/楷/诊_2-颜真卿.svg.png

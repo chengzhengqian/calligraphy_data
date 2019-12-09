@@ -1,0 +1,7 @@
+./classics_png/楷/诵_0-程幼博.svg.png
+./classics_png/楷/诵_1-李邕.svg.png
+./classics_png/楷/诵_2-柳公权.svg.png
+./classics_png/楷/诵_3-颜真卿.svg.png
+./classics_png/楷/诵_4-颜真卿.svg.png
+./classics_png/楷/诵_5-颜真卿.svg.png
+./classics_png/楷/诵_6-张玄墓志.svg.png

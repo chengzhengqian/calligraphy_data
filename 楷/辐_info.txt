@@ -1,0 +1,5 @@
+./classics_png/楷/辐_0-褚遂良.svg.png
+./classics_png/楷/辐_1-敬使君碑.svg.png
+./classics_png/楷/辐_2-柳公权.svg.png
+./classics_png/楷/辐_3-颜真卿.svg.png
+./classics_png/楷/辐_4-颜真卿.svg.png

@@ -1,0 +1,6 @@
+./classics_png/楷/婆_0-褚遂良.svg.png
+./classics_png/楷/婆_1-敬使君碑.svg.png
+./classics_png/楷/婆_2-吏部南曹幢.svg.png
+./classics_png/楷/婆_3-柳公权.svg.png
+./classics_png/楷/婆_4-颜真卿.svg.png
+./classics_png/楷/婆_5-赵之谦.svg.png

@@ -1,0 +1,3 @@
+./classics_png/楷/贩_0-褚遂良.svg.png
+./classics_png/楷/贩_1-柳公权.svg.png
+./classics_png/楷/贩_2-僧义福塔铭.svg.png

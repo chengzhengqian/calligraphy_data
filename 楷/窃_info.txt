@@ -1,0 +1,8 @@
+./classics_png/楷/窃_0-褚遂良.svg.png
+./classics_png/楷/窃_1-陆柬之.svg.png
+./classics_png/楷/窃_2-王庭筠.svg.png
+./classics_png/楷/窃_3-颜真卿.svg.png
+./classics_png/楷/窃_4-颜真卿.svg.png
+./classics_png/楷/窃_5-颜真卿.svg.png
+./classics_png/楷/窃_6-张琮碑.svg.png
+./classics_png/楷/窃_7-钟繇.svg.png

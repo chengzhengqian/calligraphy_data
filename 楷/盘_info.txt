@@ -1,0 +1,8 @@
+./classics_png/楷/盘_0-敬客.svg.png
+./classics_png/楷/盘_1-王敬客.svg.png
+./classics_png/楷/盘_2-王知敬.svg.png
+./classics_png/楷/盘_3-颜真卿.svg.png
+./classics_png/楷/盘_4-颜真卿.svg.png
+./classics_png/楷/盘_5-颜真卿.svg.png
+./classics_png/楷/盘_6-赵佶.svg.png
+./classics_png/楷/盘_7-赵之谦.svg.png

@@ -1,0 +1,3 @@
+./classics_png/楷/笋_0-褚遂良.svg.png
+./classics_png/楷/笋_1-欧阳询.svg.png
+./classics_png/楷/笋_2-颜真卿.svg.png

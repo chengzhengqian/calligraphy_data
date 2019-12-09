@@ -1,0 +1,4 @@
+./classics_png/楷/搜_0-欧阳通.svg.png
+./classics_png/楷/搜_1-颜真卿.svg.png
+./classics_png/楷/搜_2-张旭.svg.png
+./classics_png/楷/搜_3-赵之谦.svg.png

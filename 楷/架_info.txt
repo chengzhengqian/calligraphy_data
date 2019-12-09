@@ -1,0 +1,4 @@
+./classics_png/楷/架_0-欧阳询.svg.png
+./classics_png/楷/架_1-孙过庭.svg.png
+./classics_png/楷/架_2-颜真卿.svg.png
+./classics_png/楷/架_3-颜真卿.svg.png

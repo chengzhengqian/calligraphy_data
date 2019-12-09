@@ -1,0 +1,4 @@
+./classics_png/楷/价_0-蔡襄.svg.png
+./classics_png/楷/价_1-颜真卿.svg.png
+./classics_png/楷/价_2-颜真卿.svg.png
+./classics_png/楷/价_3-殷令名.svg.png

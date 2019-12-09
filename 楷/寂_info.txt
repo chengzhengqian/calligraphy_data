@@ -1,0 +1,8 @@
+./classics_png/楷/寂_0-褚遂良.svg.png
+./classics_png/楷/寂_1-黄庭坚.svg.png
+./classics_png/楷/寂_2-欧阳通.svg.png
+./classics_png/楷/寂_3-颜真卿.svg.png
+./classics_png/楷/寂_4-颜真卿.svg.png
+./classics_png/楷/寂_5-颜真卿.svg.png
+./classics_png/楷/寂_6-智永.svg.png
+./classics_png/楷/寂_7-智永.svg.png

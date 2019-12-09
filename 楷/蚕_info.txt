@@ -1,0 +1,4 @@
+./classics_png/楷/蚕_0-石经礼记.svg.png
+./classics_png/楷/蚕_1-唐寅.svg.png
+./classics_png/楷/蚕_2-颜真卿.svg.png
+./classics_png/楷/蚕_3-颜真卿.svg.png

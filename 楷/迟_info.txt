@@ -1,0 +1,7 @@
+./classics_png/楷/迟_0-褚遂良.svg.png
+./classics_png/楷/迟_1-褚遂良.svg.png
+./classics_png/楷/迟_2-牛橛造像.svg.png
+./classics_png/楷/迟_3-王行满圣教序.svg.png
+./classics_png/楷/迟_4-颜真卿.svg.png
+./classics_png/楷/迟_5-颜真卿.svg.png
+./classics_png/楷/迟_6-张猛龙碑.svg.png

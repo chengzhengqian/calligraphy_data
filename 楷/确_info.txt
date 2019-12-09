@@ -1,0 +1,4 @@
+./classics_png/楷/确_0-充公颂.svg.png
+./classics_png/楷/确_1-欧阳通.svg.png
+./classics_png/楷/确_2-颜真卿.svg.png
+./classics_png/楷/确_3-颜真卿.svg.png

@@ -1,0 +1,5 @@
+./classics_png/楷/倾_0-李璧碑.svg.png
+./classics_png/楷/倾_1-柳公权.svg.png
+./classics_png/楷/倾_2-颜真卿.svg.png
+./classics_png/楷/倾_3-智永.svg.png
+./classics_png/楷/倾_4-智永.svg.png

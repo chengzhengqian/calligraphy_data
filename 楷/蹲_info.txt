@@ -1,0 +1,3 @@
+./classics_png/楷/蹲_0-欧阳通.svg.png
+./classics_png/楷/蹲_1-颜真卿.svg.png
+./classics_png/楷/蹲_2-虞世南.svg.png

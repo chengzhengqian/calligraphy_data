@@ -1,0 +1,8 @@
+./classics_png/楷/宫_0-褚遂良.svg.png
+./classics_png/楷/宫_1-符璘碑.svg.png
+./classics_png/楷/宫_2-高贞碑.svg.png
+./classics_png/楷/宫_3-欧阳询.svg.png
+./classics_png/楷/宫_4-欧阳询.svg.png
+./classics_png/楷/宫_5-颜真卿.svg.png
+./classics_png/楷/宫_6-虞世南.svg.png
+./classics_png/楷/宫_7-张裕钊.svg.png

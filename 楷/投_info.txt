@@ -1,0 +1,6 @@
+./classics_png/楷/投_0-褚遂良.svg.png
+./classics_png/楷/投_1-房山佛经.svg.png
+./classics_png/楷/投_2-柳公权.svg.png
+./classics_png/楷/投_3-欧阳询.svg.png
+./classics_png/楷/投_4-颜真卿.svg.png
+./classics_png/楷/投_5-颜真卿.svg.png

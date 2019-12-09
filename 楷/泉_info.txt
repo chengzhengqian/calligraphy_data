@@ -1,0 +1,8 @@
+./classics_png/楷/泉_0-黄庭坚.svg.png
+./classics_png/楷/泉_1-柳公权.svg.png
+./classics_png/楷/泉_2-欧阳询.svg.png
+./classics_png/楷/泉_3-欧阳询.svg.png
+./classics_png/楷/泉_4-颜真卿.svg.png
+./classics_png/楷/泉_5-虞世南.svg.png
+./classics_png/楷/泉_6-元珍墓志.svg.png
+./classics_png/楷/泉_7-张猛龙碑.svg.png

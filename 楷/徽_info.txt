@@ -1,0 +1,9 @@
+./classics_png/楷/徽_0-褚遂良.svg.png
+./classics_png/楷/徽_1-高贞碑.svg.png
+./classics_png/楷/徽_2-柳公权.svg.png
+./classics_png/楷/徽_3-柳公权.svg.png
+./classics_png/楷/徽_4-欧阳询.svg.png
+./classics_png/楷/徽_5-颜真卿.svg.png
+./classics_png/楷/徽_6-颜真卿.svg.png
+./classics_png/楷/徽_7-虞世南.svg.png
+./classics_png/楷/徽_8-张猛龙碑.svg.png

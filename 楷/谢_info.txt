@@ -1,0 +1,5 @@
+./classics_png/楷/谢_0-褚遂良.svg.png
+./classics_png/楷/谢_1-邓石如.svg.png
+./classics_png/楷/谢_2-王知敬.svg.png
+./classics_png/楷/谢_3-颜真卿.svg.png
+./classics_png/楷/谢_4-颜真卿.svg.png

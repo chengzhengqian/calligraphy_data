@@ -1,0 +1,4 @@
+./classics_png/楷/零_0-李璧碑.svg.png
+./classics_png/楷/零_1-薛绍彭.svg.png
+./classics_png/楷/零_2-颜真卿.svg.png
+./classics_png/楷/零_3-张俊允碑.svg.png

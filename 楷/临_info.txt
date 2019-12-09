@@ -1,0 +1,7 @@
+./classics_png/楷/临_0-蔡襄.svg.png
+./classics_png/楷/临_1-欧阳询.svg.png
+./classics_png/楷/临_2-颜真卿.svg.png
+./classics_png/楷/临_3-颜真卿.svg.png
+./classics_png/楷/临_4-颜真卿.svg.png
+./classics_png/楷/临_5-虞世南.svg.png
+./classics_png/楷/临_6-张猛龙碑.svg.png

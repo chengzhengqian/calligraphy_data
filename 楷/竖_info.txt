@@ -1,0 +1,5 @@
+./classics_png/楷/竖_0-褚遂良.svg.png
+./classics_png/楷/竖_1-褚遂良.svg.png
+./classics_png/楷/竖_2-陆柬之.svg.png
+./classics_png/楷/竖_3-颜真卿.svg.png
+./classics_png/楷/竖_4-颜真卿.svg.png

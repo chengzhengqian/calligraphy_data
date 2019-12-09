@@ -1,0 +1,4 @@
+./classics_png/楷/米_0-欧阳询.svg.png
+./classics_png/楷/米_1-欧阳询.svg.png
+./classics_png/楷/米_2-鲜于枢.svg.png
+./classics_png/楷/米_3-颜真卿.svg.png

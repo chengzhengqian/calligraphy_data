@@ -1,0 +1,8 @@
+./classics_png/楷/寝_0-褚遂良.svg.png
+./classics_png/楷/寝_1-韩琦.svg.png
+./classics_png/楷/寝_2-敬客.svg.png
+./classics_png/楷/寝_3-卢藏用.svg.png
+./classics_png/楷/寝_4-欧阳通.svg.png
+./classics_png/楷/寝_5-欧阳询.svg.png
+./classics_png/楷/寝_6-颜真卿.svg.png
+./classics_png/楷/寝_7-赵之谦.svg.png

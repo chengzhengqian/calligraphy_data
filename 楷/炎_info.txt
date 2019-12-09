@@ -1,0 +1,5 @@
+./classics_png/楷/炎_0-高贞碑.svg.png
+./classics_png/楷/炎_1-欧阳询.svg.png
+./classics_png/楷/炎_2-颜真卿.svg.png
+./classics_png/楷/炎_3-虞世南.svg.png
+./classics_png/楷/炎_4-虞世南.svg.png

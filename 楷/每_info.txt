@@ -1,0 +1,8 @@
+./classics_png/楷/每_0-欧阳询.svg.png
+./classics_png/楷/每_1-王羲之.svg.png
+./classics_png/楷/每_2-王知敬.svg.png
+./classics_png/楷/每_3-颜真卿.svg.png
+./classics_png/楷/每_4-殷令名.svg.png
+./classics_png/楷/每_5-张猛龙碑.svg.png
+./classics_png/楷/每_6-智永.svg.png
+./classics_png/楷/每_7-钟繇.svg.png

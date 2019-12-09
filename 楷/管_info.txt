@@ -1,0 +1,4 @@
+./classics_png/楷/管_0-苏孝慈墓志.svg.png
+./classics_png/楷/管_1-王羲之.svg.png
+./classics_png/楷/管_2-王知敬.svg.png
+./classics_png/楷/管_3-颜真卿.svg.png

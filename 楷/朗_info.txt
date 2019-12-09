@@ -1,0 +1,9 @@
+./classics_png/楷/朗_0-褚遂良.svg.png
+./classics_png/楷/朗_1-褚遂良.svg.png
+./classics_png/楷/朗_2-冯承素.svg.png
+./classics_png/楷/朗_3-高正臣.svg.png
+./classics_png/楷/朗_4-欧阳通.svg.png
+./classics_png/楷/朗_5-王羲之.svg.png
+./classics_png/楷/朗_6-颜真卿.svg.png
+./classics_png/楷/朗_7-赵孟頫.svg.png
+./classics_png/楷/朗_8-智永.svg.png

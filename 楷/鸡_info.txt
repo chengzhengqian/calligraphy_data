@@ -1,0 +1,5 @@
+./classics_png/楷/鸡_0-颜真卿.svg.png
+./classics_png/楷/鸡_1-颜真卿.svg.png
+./classics_png/楷/鸡_2-颜真卿.svg.png
+./classics_png/楷/鸡_3-赵佶.svg.png
+./classics_png/楷/鸡_4-智永.svg.png

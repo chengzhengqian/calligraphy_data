@@ -1,0 +1,4 @@
+./classics_png/楷/避_0-白道生碑.svg.png
+./classics_png/楷/避_1-欧阳询.svg.png
+./classics_png/楷/避_2-欧阳询.svg.png
+./classics_png/楷/避_3-颜真卿.svg.png

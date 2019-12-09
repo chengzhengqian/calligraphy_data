@@ -1,0 +1,4 @@
+./classics_png/楷/答_0-翁闓运.svg.png
+./classics_png/楷/答_1-颜真卿.svg.png
+./classics_png/楷/答_2-智永.svg.png
+./classics_png/楷/答_3-智永.svg.png

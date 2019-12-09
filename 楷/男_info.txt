@@ -1,0 +1,6 @@
+./classics_png/楷/男_0-柳公权.svg.png
+./classics_png/楷/男_1-欧阳询.svg.png
+./classics_png/楷/男_2-司马敬墓志.svg.png
+./classics_png/楷/男_3-颜真卿.svg.png
+./classics_png/楷/男_4-颜真卿.svg.png
+./classics_png/楷/男_5-智永.svg.png

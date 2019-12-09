@@ -1,0 +1,10 @@
+./classics_png/楷/星_0-褚遂良.svg.png
+./classics_png/楷/星_1-褚遂良.svg.png
+./classics_png/楷/星_2-揭傒斯.svg.png
+./classics_png/楷/星_3-柯九思.svg.png
+./classics_png/楷/星_4-柳公权.svg.png
+./classics_png/楷/星_5-欧阳询.svg.png
+./classics_png/楷/星_6-王知敬.svg.png
+./classics_png/楷/星_7-颜真卿.svg.png
+./classics_png/楷/星_8-张旭.svg.png
+./classics_png/楷/星_9-智永.svg.png

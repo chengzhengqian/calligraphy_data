@@ -1,0 +1,5 @@
+./classics_png/楷/耻_0-敬使君碑.svg.png
+./classics_png/楷/耻_1-孙义普墓志.svg.png
+./classics_png/楷/耻_2-颜真卿.svg.png
+./classics_png/楷/耻_3-张裕钊.svg.png
+./classics_png/楷/耻_4-智永.svg.png

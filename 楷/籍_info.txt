@@ -1,0 +1,7 @@
+./classics_png/楷/籍_0-欧阳通.svg.png
+./classics_png/楷/籍_1-欧阳询.svg.png
+./classics_png/楷/籍_2-颜真卿.svg.png
+./classics_png/楷/籍_3-颜真卿.svg.png
+./classics_png/楷/籍_4-虞世南.svg.png
+./classics_png/楷/籍_5-虞世南.svg.png
+./classics_png/楷/籍_6-智永.svg.png

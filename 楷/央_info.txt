@@ -1,0 +1,3 @@
+./classics_png/楷/央_0-薛稷.svg.png
+./classics_png/楷/央_1-颜真卿.svg.png
+./classics_png/楷/央_2-元倪墓志.svg.png

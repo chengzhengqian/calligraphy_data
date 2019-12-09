@@ -1,0 +1,4 @@
+./classics_png/楷/遣_0-陆柬之.svg.png
+./classics_png/楷/遣_1-颜真卿.svg.png
+./classics_png/楷/遣_2-智永.svg.png
+./classics_png/楷/遣_3-钟繇.svg.png

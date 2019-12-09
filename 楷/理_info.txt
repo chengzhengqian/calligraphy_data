@@ -1,0 +1,9 @@
+./classics_png/楷/理_0-蔡襄.svg.png
+./classics_png/楷/理_1-褚遂良.svg.png
+./classics_png/楷/理_2-高贞碑.svg.png
+./classics_png/楷/理_3-柳公权.svg.png
+./classics_png/楷/理_4-柳公权.svg.png
+./classics_png/楷/理_5-欧阳询.svg.png
+./classics_png/楷/理_6-欧阳询.svg.png
+./classics_png/楷/理_7-颜真卿.svg.png
+./classics_png/楷/理_8-颜真卿.svg.png

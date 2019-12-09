@@ -1,0 +1,3 @@
+./classics_png/楷/垄_0-颜真卿.svg.png
+./classics_png/楷/垄_1-颜真卿.svg.png
+./classics_png/楷/垄_2-张即之.svg.png

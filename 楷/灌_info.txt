@@ -1,0 +1,4 @@
+./classics_png/楷/灌_0-欧阳通.svg.png
+./classics_png/楷/灌_1-魏栖梧.svg.png
+./classics_png/楷/灌_2-信法寺碑.svg.png
+./classics_png/楷/灌_3-颜真卿.svg.png

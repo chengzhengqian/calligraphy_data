@@ -1,0 +1,9 @@
+./classics_png/楷/坏_0-褚遂良.svg.png
+./classics_png/楷/坏_1-褚遂良.svg.png
+./classics_png/楷/坏_2-褚遂良.svg.png
+./classics_png/楷/坏_3-李邕.svg.png
+./classics_png/楷/坏_4-龙藏寺碑.svg.png
+./classics_png/楷/坏_5-颜真卿.svg.png
+./classics_png/楷/坏_6-颜真卿.svg.png
+./classics_png/楷/坏_7-虞世南.svg.png
+./classics_png/楷/坏_8-中岳灵庙碑.svg.png

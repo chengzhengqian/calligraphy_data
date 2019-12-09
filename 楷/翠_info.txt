@@ -1,0 +1,5 @@
+./classics_png/楷/翠_0-褚遂良.svg.png
+./classics_png/楷/翠_1-吴通徵.svg.png
+./classics_png/楷/翠_2-颜真卿.svg.png
+./classics_png/楷/翠_3-智永.svg.png
+./classics_png/楷/翠_4-智永.svg.png

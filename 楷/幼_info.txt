@@ -1,0 +1,6 @@
+./classics_png/楷/幼_0-褚遂良.svg.png
+./classics_png/楷/幼_1-褚遂良.svg.png
+./classics_png/楷/幼_2-褚遂良.svg.png
+./classics_png/楷/幼_3-高贞碑.svg.png
+./classics_png/楷/幼_4-颜真卿.svg.png
+./classics_png/楷/幼_5-颜真卿.svg.png

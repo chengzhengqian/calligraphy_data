@@ -1,0 +1,5 @@
+./classics_png/楷/匪_0-欧阳通.svg.png
+./classics_png/楷/匪_1-欧阳询.svg.png
+./classics_png/楷/匪_2-颜真卿.svg.png
+./classics_png/楷/匪_3-张公礼.svg.png
+./classics_png/楷/匪_4-赵佶.svg.png

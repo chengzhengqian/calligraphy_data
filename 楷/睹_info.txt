@@ -1,0 +1,6 @@
+./classics_png/楷/睹_0-褚遂良.svg.png
+./classics_png/楷/睹_1-褚遂良.svg.png
+./classics_png/楷/睹_2-柳公权.svg.png
+./classics_png/楷/睹_3-欧阳询.svg.png
+./classics_png/楷/睹_4-苏孝慈墓志.svg.png
+./classics_png/楷/睹_5-颜真卿.svg.png

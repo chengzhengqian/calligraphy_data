@@ -1,0 +1,3 @@
+./classics_png/楷/厅_0-颜真卿.svg.png
+./classics_png/楷/厅_1-颜真卿.svg.png
+./classics_png/楷/厅_2-张旭.svg.png

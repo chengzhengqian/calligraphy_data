@@ -1,0 +1,4 @@
+./classics_png/楷/屋_0-欧阳询.svg.png
+./classics_png/楷/屋_1-欧阳询.svg.png
+./classics_png/楷/屋_2-颜真卿.svg.png
+./classics_png/楷/屋_3-张猛龙碑.svg.png

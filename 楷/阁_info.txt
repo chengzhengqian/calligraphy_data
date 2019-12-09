@@ -1,0 +1,7 @@
+./classics_png/楷/阁_0-高贞碑.svg.png
+./classics_png/楷/阁_1-欧阳询.svg.png
+./classics_png/楷/阁_2-欧阳询.svg.png
+./classics_png/楷/阁_3-唐寅.svg.png
+./classics_png/楷/阁_4-颜真卿.svg.png
+./classics_png/楷/阁_5-颜真卿.svg.png
+./classics_png/楷/阁_6-颜真卿.svg.png

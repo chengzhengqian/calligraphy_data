@@ -1,0 +1,5 @@
+./classics_png/楷/敛_0-褚遂良.svg.png
+./classics_png/楷/敛_1-褚遂良.svg.png
+./classics_png/楷/敛_2-颜真卿.svg.png
+./classics_png/楷/敛_3-颜真卿.svg.png
+./classics_png/楷/敛_4-赵之谦.svg.png

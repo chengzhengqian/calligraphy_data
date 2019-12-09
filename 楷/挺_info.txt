@@ -1,0 +1,5 @@
+./classics_png/楷/挺_0-褚遂良.svg.png
+./classics_png/楷/挺_1-魏灵藏造像.svg.png
+./classics_png/楷/挺_2-颜真卿.svg.png
+./classics_png/楷/挺_3-杨大眼造像.svg.png
+./classics_png/楷/挺_4-虞世南.svg.png

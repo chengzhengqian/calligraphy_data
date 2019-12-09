@@ -1,0 +1,10 @@
+./classics_png/楷/归_0-褚遂良.svg.png
+./classics_png/楷/归_1-褚遂良.svg.png
+./classics_png/楷/归_2-柳公权.svg.png
+./classics_png/楷/归_3-欧阳通.svg.png
+./classics_png/楷/归_4-欧阳询.svg.png
+./classics_png/楷/归_5-苏孝慈墓志.svg.png
+./classics_png/楷/归_6-颜真卿.svg.png
+./classics_png/楷/归_7-颜真卿.svg.png
+./classics_png/楷/归_8-颜真卿.svg.png
+./classics_png/楷/归_9-虞世南.svg.png

@@ -1,0 +1,6 @@
+./classics_png/楷/伟_0-欧阳询.svg.png
+./classics_png/楷/伟_1-欧阳询.svg.png
+./classics_png/楷/伟_2-颜真卿.svg.png
+./classics_png/楷/伟_3-颜真卿.svg.png
+./classics_png/楷/伟_4-张公礼.svg.png
+./classics_png/楷/伟_5-张旭.svg.png

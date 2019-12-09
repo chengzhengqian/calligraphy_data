@@ -1,0 +1,7 @@
+./classics_png/楷/仆_0-褚遂良.svg.png
+./classics_png/楷/仆_1-褚遂良.svg.png
+./classics_png/楷/仆_2-褚遂良.svg.png
+./classics_png/楷/仆_3-王羲之.svg.png
+./classics_png/楷/仆_4-颜真卿.svg.png
+./classics_png/楷/仆_5-颜真卿.svg.png
+./classics_png/楷/仆_6-张贵南墓志.svg.png

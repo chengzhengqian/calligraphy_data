@@ -1,0 +1,7 @@
+./classics_png/楷/翼_0-褚遂良.svg.png
+./classics_png/楷/翼_1-褚遂良.svg.png
+./classics_png/楷/翼_2-李璧碑.svg.png
+./classics_png/楷/翼_3-欧阳询.svg.png
+./classics_png/楷/翼_4-萧憺碑.svg.png
+./classics_png/楷/翼_5-颜真卿.svg.png
+./classics_png/楷/翼_6-赵孟頫.svg.png

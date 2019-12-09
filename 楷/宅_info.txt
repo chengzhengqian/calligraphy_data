@@ -1,0 +1,5 @@
+./classics_png/楷/宅_0-褚遂良.svg.png
+./classics_png/楷/宅_1-褚遂良.svg.png
+./classics_png/楷/宅_2-欧阳通.svg.png
+./classics_png/楷/宅_3-颜真卿.svg.png
+./classics_png/楷/宅_4-智永.svg.png

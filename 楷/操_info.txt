@@ -1,0 +1,4 @@
+./classics_png/楷/操_0-褚遂良.svg.png
+./classics_png/楷/操_1-欧阳通.svg.png
+./classics_png/楷/操_2-颜真卿.svg.png
+./classics_png/楷/操_3-颜真卿.svg.png

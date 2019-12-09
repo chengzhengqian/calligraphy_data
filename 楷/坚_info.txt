@@ -1,0 +1,6 @@
+./classics_png/楷/坚_0-褚遂良.svg.png
+./classics_png/楷/坚_1-颜真卿.svg.png
+./classics_png/楷/坚_2-颜真卿.svg.png
+./classics_png/楷/坚_3-张玄墓志.svg.png
+./classics_png/楷/坚_4-智永.svg.png
+./classics_png/楷/坚_5-智永.svg.png

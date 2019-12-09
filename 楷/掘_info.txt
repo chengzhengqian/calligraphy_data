@@ -1,0 +1,4 @@
+./classics_png/楷/掘_0-某法师行记.svg.png
+./classics_png/楷/掘_1-颜真卿.svg.png
+./classics_png/楷/掘_2-赵之谦.svg.png
+./classics_png/楷/掘_3-周之训.svg.png

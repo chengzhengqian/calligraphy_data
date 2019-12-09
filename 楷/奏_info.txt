@@ -1,0 +1,7 @@
+./classics_png/楷/奏_0-空海.svg.png
+./classics_png/楷/奏_1-王羲之.svg.png
+./classics_png/楷/奏_2-颜真卿.svg.png
+./classics_png/楷/奏_3-虞世南.svg.png
+./classics_png/楷/奏_4-智永.svg.png
+./classics_png/楷/奏_5-智永.svg.png
+./classics_png/楷/奏_6-钟繇.svg.png

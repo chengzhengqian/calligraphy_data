@@ -1,0 +1,8 @@
+./classics_png/楷/赡_0-褚遂良.svg.png
+./classics_png/楷/赡_1-柳公权.svg.png
+./classics_png/楷/赡_2-吕公弼.svg.png
+./classics_png/楷/赡_3-欧阳通.svg.png
+./classics_png/楷/赡_4-欧阳通.svg.png
+./classics_png/楷/赡_5-颜真卿.svg.png
+./classics_png/楷/赡_6-颜真卿.svg.png
+./classics_png/楷/赡_7-颜真卿.svg.png

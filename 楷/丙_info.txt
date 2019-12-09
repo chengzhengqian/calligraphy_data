@@ -1,0 +1,5 @@
+./classics_png/楷/丙_0-褚遂良.svg.png
+./classics_png/楷/丙_1-褚遂良.svg.png
+./classics_png/楷/丙_2-揭傒斯.svg.png
+./classics_png/楷/丙_3-颜真卿.svg.png
+./classics_png/楷/丙_4-智永.svg.png

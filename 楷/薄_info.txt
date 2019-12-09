@@ -1,0 +1,4 @@
+./classics_png/楷/薄_0-梦英.svg.png
+./classics_png/楷/薄_1-颜真卿.svg.png
+./classics_png/楷/薄_2-赵孟頫.svg.png
+./classics_png/楷/薄_3-智永.svg.png

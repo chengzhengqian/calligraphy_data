@@ -1,0 +1,8 @@
+./classics_png/楷/邪_0-褚遂良.svg.png
+./classics_png/楷/邪_1-褚遂良.svg.png
+./classics_png/楷/邪_2-房山佛经.svg.png
+./classics_png/楷/邪_3-刘岳申.svg.png
+./classics_png/楷/邪_4-柳公权.svg.png
+./classics_png/楷/邪_5-颜真卿.svg.png
+./classics_png/楷/邪_6-颜真卿.svg.png
+./classics_png/楷/邪_7-赵孟頫.svg.png

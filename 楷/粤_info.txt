@@ -1,0 +1,6 @@
+./classics_png/楷/粤_0-褚遂良.svg.png
+./classics_png/楷/粤_1-褚遂良.svg.png
+./classics_png/楷/粤_2-欧阳询.svg.png
+./classics_png/楷/粤_3-欧阳询.svg.png
+./classics_png/楷/粤_4-欧阳询.svg.png
+./classics_png/楷/粤_5-颜真卿.svg.png

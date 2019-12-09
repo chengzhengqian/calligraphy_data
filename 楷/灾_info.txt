@@ -1,0 +1,6 @@
+./classics_png/楷/灾_0-黄庭坚.svg.png
+./classics_png/楷/灾_1-柳公权.svg.png
+./classics_png/楷/灾_2-欧阳询.svg.png
+./classics_png/楷/灾_3-欧阳询.svg.png
+./classics_png/楷/灾_4-颜真卿.svg.png
+./classics_png/楷/灾_5-元珍墓志.svg.png

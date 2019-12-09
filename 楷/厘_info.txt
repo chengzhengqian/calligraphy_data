@@ -1,0 +1,3 @@
+./classics_png/楷/厘_0-褚遂良.svg.png
+./classics_png/楷/厘_1-唐寅.svg.png
+./classics_png/楷/厘_2-颜真卿.svg.png

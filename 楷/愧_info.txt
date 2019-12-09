@@ -1,0 +1,6 @@
+./classics_png/楷/愧_0-褚遂良.svg.png
+./classics_png/楷/愧_1-柳公权.svg.png
+./classics_png/楷/愧_2-柳公权.svg.png
+./classics_png/楷/愧_3-欧阳询.svg.png
+./classics_png/楷/愧_4-石婉墓志.svg.png
+./classics_png/楷/愧_5-颜真卿.svg.png

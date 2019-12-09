@@ -1,0 +1,6 @@
+./classics_png/楷/团_0-柳公权.svg.png
+./classics_png/楷/团_1-柳公权.svg.png
+./classics_png/楷/团_2-颜真卿.svg.png
+./classics_png/楷/团_3-颜真卿.svg.png
+./classics_png/楷/团_4-颜真卿.svg.png
+./classics_png/楷/团_5-颜真卿.svg.png

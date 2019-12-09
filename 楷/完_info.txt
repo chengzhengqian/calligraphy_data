@@ -1,0 +1,2 @@
+./classics_png/楷/完_0-沈右.svg.png
+./classics_png/楷/完_1-颜真卿.svg.png

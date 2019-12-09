@@ -1,0 +1,4 @@
+./classics_png/楷/佩_0-蔡襄.svg.png
+./classics_png/楷/佩_1-颜真卿.svg.png
+./classics_png/楷/佩_2-虞世南.svg.png
+./classics_png/楷/佩_3-赵之谦.svg.png

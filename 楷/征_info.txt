@@ -1,0 +1,8 @@
+./classics_png/楷/征_0-褚遂良.svg.png
+./classics_png/楷/征_1-褚遂良.svg.png
+./classics_png/楷/征_2-狄知县残碑.svg.png
+./classics_png/楷/征_3-符麟碑.svg.png
+./classics_png/楷/征_4-贺兰汗造像.svg.png
+./classics_png/楷/征_5-柳公权.svg.png
+./classics_png/楷/征_6-颜真卿.svg.png
+./classics_png/楷/征_7-元马璁墓志.svg.png

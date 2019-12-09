@@ -1,0 +1,4 @@
+./classics_png/楷/革_0-颜真卿.svg.png
+./classics_png/楷/革_1-颜真卿.svg.png
+./classics_png/楷/革_2-殷令名.svg.png
+./classics_png/楷/革_3-殷令名.svg.png

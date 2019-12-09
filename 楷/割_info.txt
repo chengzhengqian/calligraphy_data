@@ -1,0 +1,4 @@
+./classics_png/楷/割_0-褚遂良.svg.png
+./classics_png/楷/割_1-褚遂良.svg.png
+./classics_png/楷/割_2-颜真卿.svg.png
+./classics_png/楷/割_3-锺繇.svg.png

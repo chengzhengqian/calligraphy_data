@@ -1,0 +1,6 @@
+./classics_png/楷/寥_0-颜真卿.svg.png
+./classics_png/楷/寥_1-颜真卿.svg.png
+./classics_png/楷/寥_2-颜真卿.svg.png
+./classics_png/楷/寥_3-赵孟頫.svg.png
+./classics_png/楷/寥_4-智永.svg.png
+./classics_png/楷/寥_5-智永.svg.png

@@ -1,0 +1,3 @@
+./classics_png/楷/侄_0-翁闓运.svg.png
+./classics_png/楷/侄_1-薛收碑.svg.png
+./classics_png/楷/侄_2-颜真卿.svg.png

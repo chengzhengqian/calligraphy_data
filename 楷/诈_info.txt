@@ -1,0 +1,4 @@
+./classics_png/楷/诈_0-柳公权.svg.png
+./classics_png/楷/诈_1-颜真卿.svg.png
+./classics_png/楷/诈_2-颜真卿.svg.png
+./classics_png/楷/诈_3-佚名.svg.png

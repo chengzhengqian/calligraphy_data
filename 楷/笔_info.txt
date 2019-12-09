@@ -1,0 +1,8 @@
+./classics_png/楷/笔_0-李邕.svg.png
+./classics_png/楷/笔_1-陆柬之.svg.png
+./classics_png/楷/笔_2-欧阳询.svg.png
+./classics_png/楷/笔_3-王知敬.svg.png
+./classics_png/楷/笔_4-卫夫人.svg.png
+./classics_png/楷/笔_5-颜真卿.svg.png
+./classics_png/楷/笔_6-颜真卿.svg.png
+./classics_png/楷/笔_7-智永.svg.png

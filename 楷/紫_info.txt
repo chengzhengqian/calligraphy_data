@@ -1,0 +1,5 @@
+./classics_png/楷/紫_0-欧阳询.svg.png
+./classics_png/楷/紫_1-欧阳询.svg.png
+./classics_png/楷/紫_2-颜真卿.svg.png
+./classics_png/楷/紫_3-虞世南.svg.png
+./classics_png/楷/紫_4-张猛龙碑.svg.png

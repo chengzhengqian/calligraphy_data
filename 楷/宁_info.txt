@@ -1,0 +1,6 @@
+./classics_png/楷/宁_0-褚遂良.svg.png
+./classics_png/楷/宁_1-柳公权.svg.png
+./classics_png/楷/宁_2-欧阳询.svg.png
+./classics_png/楷/宁_3-颜真卿.svg.png
+./classics_png/楷/宁_4-颜真卿.svg.png
+./classics_png/楷/宁_5-张思文造象.svg.png

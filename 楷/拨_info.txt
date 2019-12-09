@@ -1,0 +1,5 @@
+./classics_png/楷/拨_0-褚遂良.svg.png
+./classics_png/楷/拨_1-褚遂良.svg.png
+./classics_png/楷/拨_2-钱南园.svg.png
+./classics_png/楷/拨_3-颜真卿.svg.png
+./classics_png/楷/拨_4-颜真卿.svg.png

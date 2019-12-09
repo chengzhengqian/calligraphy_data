@@ -1,0 +1,6 @@
+./classics_png/楷/杂_0-欧阳询.svg.png
+./classics_png/楷/杂_1-欧阳询.svg.png
+./classics_png/楷/杂_2-王僧虞.svg.png
+./classics_png/楷/杂_3-王献之.svg.png
+./classics_png/楷/杂_4-颜真卿.svg.png
+./classics_png/楷/杂_5-颜真卿.svg.png

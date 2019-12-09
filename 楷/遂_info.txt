@@ -1,0 +1,6 @@
+./classics_png/楷/遂_0-褚遂良.svg.png
+./classics_png/楷/遂_1-褚遂良.svg.png
+./classics_png/楷/遂_2-欧阳询.svg.png
+./classics_png/楷/遂_3-颜真卿.svg.png
+./classics_png/楷/遂_4-杨大眼造像.svg.png
+./classics_png/楷/遂_5-虞世南.svg.png

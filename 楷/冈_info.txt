@@ -1,0 +1,8 @@
+./classics_png/楷/冈_0-李邕.svg.png
+./classics_png/楷/冈_1-欧阳通.svg.png
+./classics_png/楷/冈_2-颜真卿.svg.png
+./classics_png/楷/冈_3-颜真卿.svg.png
+./classics_png/楷/冈_4-颜真卿.svg.png
+./classics_png/楷/冈_5-虞世南.svg.png
+./classics_png/楷/冈_6-赵孟頫.svg.png
+./classics_png/楷/冈_7-赵孟頫.svg.png

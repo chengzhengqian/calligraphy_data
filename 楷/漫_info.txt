@@ -1,0 +1,3 @@
+./classics_png/楷/漫_0-薛曜.svg.png
+./classics_png/楷/漫_1-颜真卿.svg.png
+./classics_png/楷/漫_2-颜真卿.svg.png

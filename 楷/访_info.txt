@@ -1,0 +1,5 @@
+./classics_png/楷/访_0-颜真卿.svg.png
+./classics_png/楷/访_1-颜真卿.svg.png
+./classics_png/楷/访_2-虞世南.svg.png
+./classics_png/楷/访_3-虞世南.svg.png
+./classics_png/楷/访_4-朱君山墓志.svg.png

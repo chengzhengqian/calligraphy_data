@@ -1,0 +1,6 @@
+./classics_png/楷/亿_0-柳公权.svg.png
+./classics_png/楷/亿_1-柳公权.svg.png
+./classics_png/楷/亿_2-欧阳询.svg.png
+./classics_png/楷/亿_3-欧阳询.svg.png
+./classics_png/楷/亿_4-颜真卿.svg.png
+./classics_png/楷/亿_5-颜真卿.svg.png

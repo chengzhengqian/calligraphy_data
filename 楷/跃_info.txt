@@ -1,0 +1,7 @@
+./classics_png/楷/跃_0-颜真卿.svg.png
+./classics_png/楷/跃_1-颜真卿.svg.png
+./classics_png/楷/跃_2-虞世南.svg.png
+./classics_png/楷/跃_3-虞世南.svg.png
+./classics_png/楷/跃_4-赵佶.svg.png
+./classics_png/楷/跃_5-智永.svg.png
+./classics_png/楷/跃_6-钟繇.svg.png

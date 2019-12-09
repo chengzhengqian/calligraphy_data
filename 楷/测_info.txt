@@ -1,0 +1,6 @@
+./classics_png/楷/测_0-褚遂良.svg.png
+./classics_png/楷/测_1-欧阳通.svg.png
+./classics_png/楷/测_2-欧阳询.svg.png
+./classics_png/楷/测_3-石夫人墓志.svg.png
+./classics_png/楷/测_4-虞世南.svg.png
+./classics_png/楷/测_5-虞世南.svg.png

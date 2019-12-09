@@ -1,0 +1,9 @@
+./classics_png/楷/闲_0-李璧碑.svg.png
+./classics_png/楷/闲_1-龙藏寺碑.svg.png
+./classics_png/楷/闲_2-欧阳询.svg.png
+./classics_png/楷/闲_3-颜真卿.svg.png
+./classics_png/楷/闲_4-颜真卿.svg.png
+./classics_png/楷/闲_5-张公礼.svg.png
+./classics_png/楷/闲_6-赵孟頫.svg.png
+./classics_png/楷/闲_7-郑道昭.svg.png
+./classics_png/楷/闲_8-智永.svg.png

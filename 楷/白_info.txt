@@ -1,0 +1,8 @@
+./classics_png/楷/白_0-褚遂良.svg.png
+./classics_png/楷/白_1-褚遂良.svg.png
+./classics_png/楷/白_2-柳公权.svg.png
+./classics_png/楷/白_3-柳公权.svg.png
+./classics_png/楷/白_4-颜真卿.svg.png
+./classics_png/楷/白_5-颜真卿.svg.png
+./classics_png/楷/白_6-张猛龙碑.svg.png
+./classics_png/楷/白_7-钟繇.svg.png

@@ -1,0 +1,4 @@
+./classics_png/楷/腰_0-徐浩.svg.png
+./classics_png/楷/腰_1-薛曜.svg.png
+./classics_png/楷/腰_2-颜真卿.svg.png
+./classics_png/楷/腰_3-智果.svg.png

@@ -1,0 +1,2 @@
+./classics_png/楷/饺_0-颜真卿.svg.png
+./classics_png/楷/饺_1-颜真卿.svg.png

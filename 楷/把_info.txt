@@ -1,0 +1,4 @@
+./classics_png/楷/把_0-皇象.svg.png
+./classics_png/楷/把_1-文征明.svg.png
+./classics_png/楷/把_2-颜真卿.svg.png
+./classics_png/楷/把_3-赵子昂.svg.png

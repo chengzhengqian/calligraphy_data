@@ -1,0 +1,8 @@
+./classics_png/楷/灯_0-褚遂良.svg.png
+./classics_png/楷/灯_1-褚遂良.svg.png
+./classics_png/楷/灯_2-柳公权.svg.png
+./classics_png/楷/灯_3-柳公权.svg.png
+./classics_png/楷/灯_4-颜真卿.svg.png
+./classics_png/楷/灯_5-颜真卿.svg.png
+./classics_png/楷/灯_6-颜真卿.svg.png
+./classics_png/楷/灯_7-赵之谦.svg.png

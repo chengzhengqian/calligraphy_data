@@ -1,0 +1,3 @@
+./classics_png/楷/偏_0-李秀残碑.svg.png
+./classics_png/楷/偏_1-柳公权.svg.png
+./classics_png/楷/偏_2-颜真卿.svg.png

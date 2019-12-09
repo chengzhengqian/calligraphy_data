@@ -1,0 +1,7 @@
+./classics_png/楷/尉_0-柳公权.svg.png
+./classics_png/楷/尉_1-牛橛造像.svg.png
+./classics_png/楷/尉_2-欧阳询.svg.png
+./classics_png/楷/尉_3-欧阳询.svg.png
+./classics_png/楷/尉_4-颜真卿.svg.png
+./classics_png/楷/尉_5-张猛龙碑.svg.png
+./classics_png/楷/尉_6-钟繇.svg.png

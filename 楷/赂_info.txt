@@ -1,0 +1,4 @@
+./classics_png/楷/赂_0-褚遂良.svg.png
+./classics_png/楷/赂_1-颜真卿.svg.png
+./classics_png/楷/赂_2-颜真卿.svg.png
+./classics_png/楷/赂_3-颜真卿.svg.png

@@ -1,0 +1,4 @@
+./classics_png/楷/的_0-欧阳询.svg.png
+./classics_png/楷/的_1-颜真卿.svg.png
+./classics_png/楷/的_2-智永.svg.png
+./classics_png/楷/的_3-智永.svg.png

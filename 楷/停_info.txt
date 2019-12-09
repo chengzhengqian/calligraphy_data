@@ -1,0 +1,6 @@
+./classics_png/楷/停_0-褚遂良.svg.png
+./classics_png/楷/停_1-李世民.svg.png
+./classics_png/楷/停_2-欧阳通.svg.png
+./classics_png/楷/停_3-欧阳询.svg.png
+./classics_png/楷/停_4-欧阳询.svg.png
+./classics_png/楷/停_5-颜真卿.svg.png

@@ -1,0 +1,7 @@
+./classics_png/楷/泽_0-褚遂良.svg.png
+./classics_png/楷/泽_1-褚遂良.svg.png
+./classics_png/楷/泽_2-柳公权.svg.png
+./classics_png/楷/泽_3-王知敬.svg.png
+./classics_png/楷/泽_4-颜真卿.svg.png
+./classics_png/楷/泽_5-颜真卿.svg.png
+./classics_png/楷/泽_6-张旭.svg.png

@@ -1,0 +1,8 @@
+./classics_png/楷/关_0-李邕.svg.png
+./classics_png/楷/关_1-欧阳通.svg.png
+./classics_png/楷/关_2-苏轼.svg.png
+./classics_png/楷/关_3-颜真卿.svg.png
+./classics_png/楷/关_4-颜真卿.svg.png
+./classics_png/楷/关_5-颜真卿.svg.png
+./classics_png/楷/关_6-虞世南.svg.png
+./classics_png/楷/关_7-钟繇.svg.png

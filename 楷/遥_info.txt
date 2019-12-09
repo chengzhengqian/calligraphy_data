@@ -1,0 +1,5 @@
+./classics_png/楷/遥_0-古写经.svg.png
+./classics_png/楷/遥_1-欧阳询.svg.png
+./classics_png/楷/遥_2-颜真卿.svg.png
+./classics_png/楷/遥_3-张公礼.svg.png
+./classics_png/楷/遥_4-智永.svg.png

@@ -1,0 +1,6 @@
+./classics_png/楷/松_0-褚遂良.svg.png
+./classics_png/楷/松_1-褚遂良.svg.png
+./classics_png/楷/松_2-李璧碑.svg.png
+./classics_png/楷/松_3-王知敬.svg.png
+./classics_png/楷/松_4-颜真卿.svg.png
+./classics_png/楷/松_5-颜真卿.svg.png

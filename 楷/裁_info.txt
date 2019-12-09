@@ -1,0 +1,3 @@
+./classics_png/楷/裁_0-王知敬.svg.png
+./classics_png/楷/裁_1-颜真卿.svg.png
+./classics_png/楷/裁_2-赵之谦.svg.png

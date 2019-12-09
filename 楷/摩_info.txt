@@ -1,0 +1,4 @@
+./classics_png/楷/摩_0-李邕.svg.png
+./classics_png/楷/摩_1-柳公权.svg.png
+./classics_png/楷/摩_2-颜真卿.svg.png
+./classics_png/楷/摩_3-智永.svg.png

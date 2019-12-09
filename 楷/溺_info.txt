@@ -1,0 +1,4 @@
+./classics_png/楷/溺_0-欧阳通.svg.png
+./classics_png/楷/溺_1-颜真卿.svg.png
+./classics_png/楷/溺_2-虞世南.svg.png
+./classics_png/楷/溺_3-赵之谦.svg.png

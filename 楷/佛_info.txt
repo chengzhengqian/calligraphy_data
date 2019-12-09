@@ -1,0 +1,8 @@
+./classics_png/楷/佛_0-不空和尚碑.svg.png
+./classics_png/楷/佛_1-褚遂良.svg.png
+./classics_png/楷/佛_2-李邕.svg.png
+./classics_png/楷/佛_3-李治.svg.png
+./classics_png/楷/佛_4-柳公权.svg.png
+./classics_png/楷/佛_5-柳公权.svg.png
+./classics_png/楷/佛_6-欧阳通.svg.png
+./classics_png/楷/佛_7-颜真卿.svg.png

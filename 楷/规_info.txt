@@ -1,0 +1,9 @@
+./classics_png/楷/规_0-欧阳通.svg.png
+./classics_png/楷/规_1-颜真卿.svg.png
+./classics_png/楷/规_2-颜真卿.svg.png
+./classics_png/楷/规_3-虞世南.svg.png
+./classics_png/楷/规_4-虞世南.svg.png
+./classics_png/楷/规_5-元详造像.svg.png
+./classics_png/楷/规_6-张旭.svg.png
+./classics_png/楷/规_7-赵佶.svg.png
+./classics_png/楷/规_8-朱君山墓志.svg.png

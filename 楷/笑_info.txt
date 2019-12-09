@@ -1,0 +1,4 @@
+./classics_png/楷/笑_0-唐寅.svg.png
+./classics_png/楷/笑_1-颜真卿.svg.png
+./classics_png/楷/笑_2-张廉卿.svg.png
+./classics_png/楷/笑_3-智永.svg.png

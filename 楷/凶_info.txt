@@ -1,0 +1,5 @@
+./classics_png/楷/凶_0-褚遂良.svg.png
+./classics_png/楷/凶_1-石经周易.svg.png
+./classics_png/楷/凶_2-王知敬.svg.png
+./classics_png/楷/凶_3-颜真卿.svg.png
+./classics_png/楷/凶_4-张源墓志.svg.png

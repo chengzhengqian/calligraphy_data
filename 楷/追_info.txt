@@ -1,0 +1,4 @@
+./classics_png/楷/追_0-高贞碑.svg.png
+./classics_png/楷/追_1-王知敬.svg.png
+./classics_png/楷/追_2-颜真卿.svg.png
+./classics_png/楷/追_3-虞世南.svg.png

@@ -1,0 +1,6 @@
+./classics_png/楷/研_0-欧阳询.svg.png
+./classics_png/楷/研_1-颜真卿.svg.png
+./classics_png/楷/研_2-颜真卿.svg.png
+./classics_png/楷/研_3-郑道昭.svg.png
+./classics_png/楷/研_4-智永.svg.png
+./classics_png/楷/研_5-智永.svg.png

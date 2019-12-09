@@ -1,0 +1,10 @@
+./classics_png/楷/求_0-褚遂良.svg.png
+./classics_png/楷/求_1-褚遂良.svg.png
+./classics_png/楷/求_2-敬客.svg.png
+./classics_png/楷/求_3-柳公权.svg.png
+./classics_png/楷/求_4-欧阳通.svg.png
+./classics_png/楷/求_5-欧阳询.svg.png
+./classics_png/楷/求_6-颜真卿.svg.png
+./classics_png/楷/求_7-颜真卿.svg.png
+./classics_png/楷/求_8-颜真卿.svg.png
+./classics_png/楷/求_9-张从申.svg.png

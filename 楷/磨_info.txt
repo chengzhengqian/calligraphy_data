@@ -1,0 +1,9 @@
+./classics_png/楷/磨_0-高贞碑.svg.png
+./classics_png/楷/磨_1-黄庭坚.svg.png
+./classics_png/楷/磨_2-欧阳通.svg.png
+./classics_png/楷/磨_3-欧阳询.svg.png
+./classics_png/楷/磨_4-始平公造像.svg.png
+./classics_png/楷/磨_5-颜真卿.svg.png
+./classics_png/楷/磨_6-赵孟頫.svg.png
+./classics_png/楷/磨_7-智永.svg.png
+./classics_png/楷/磨_8-智永.svg.png

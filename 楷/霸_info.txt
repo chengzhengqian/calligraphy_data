@@ -1,0 +1,5 @@
+./classics_png/楷/霸_0-褚遂良.svg.png
+./classics_png/楷/霸_1-褚遂良.svg.png
+./classics_png/楷/霸_2-颜真卿.svg.png
+./classics_png/楷/霸_3-赵佶.svg.png
+./classics_png/楷/霸_4-智永.svg.png

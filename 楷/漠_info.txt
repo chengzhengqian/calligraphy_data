@@ -1,0 +1,4 @@
+./classics_png/楷/漠_0-苏孝慈墓志.svg.png
+./classics_png/楷/漠_1-颜真卿.svg.png
+./classics_png/楷/漠_2-虞世南.svg.png
+./classics_png/楷/漠_3-智永.svg.png

@@ -1,0 +1,7 @@
+./classics_png/楷/死_0-褚遂良.svg.png
+./classics_png/楷/死_1-欧阳询.svg.png
+./classics_png/楷/死_2-王庭筠.svg.png
+./classics_png/楷/死_3-王知敬.svg.png
+./classics_png/楷/死_4-颜真卿.svg.png
+./classics_png/楷/死_5-颜真卿.svg.png
+./classics_png/楷/死_6-张猛龙碑.svg.png

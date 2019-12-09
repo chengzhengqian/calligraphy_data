@@ -1,0 +1,5 @@
+./classics_png/楷/略_0-褚遂良.svg.png
+./classics_png/楷/略_1-欧阳询.svg.png
+./classics_png/楷/略_2-王知敬.svg.png
+./classics_png/楷/略_3-颜真卿.svg.png
+./classics_png/楷/略_4-颜真卿.svg.png

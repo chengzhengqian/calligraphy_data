@@ -1,0 +1,7 @@
+./classics_png/楷/栖_0-褚遂良.svg.png
+./classics_png/楷/栖_1-褚遂良.svg.png
+./classics_png/楷/栖_2-褚遂良.svg.png
+./classics_png/楷/栖_3-欧阳通.svg.png
+./classics_png/楷/栖_4-苏轼.svg.png
+./classics_png/楷/栖_5-颜真卿.svg.png
+./classics_png/楷/栖_6-颜真卿.svg.png

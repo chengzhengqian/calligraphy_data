@@ -1,0 +1,6 @@
+./classics_png/楷/环_0-欧阳通.svg.png
+./classics_png/楷/环_1-颜真卿.svg.png
+./classics_png/楷/环_2-颜真卿.svg.png
+./classics_png/楷/环_3-颜真卿.svg.png
+./classics_png/楷/环_4-颜真卿.svg.png
+./classics_png/楷/环_5-智永.svg.png

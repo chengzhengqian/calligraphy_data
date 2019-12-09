@@ -1,0 +1,6 @@
+./classics_png/楷/半_0-褚遂良.svg.png
+./classics_png/楷/半_1-褚遂良.svg.png
+./classics_png/楷/半_2-褚遂良.svg.png
+./classics_png/楷/半_3-钱南园.svg.png
+./classics_png/楷/半_4-颜真卿.svg.png
+./classics_png/楷/半_5-颜真卿.svg.png

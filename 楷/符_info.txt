@@ -1,0 +1,5 @@
+./classics_png/楷/符_0-柳公权.svg.png
+./classics_png/楷/符_1-欧阳询.svg.png
+./classics_png/楷/符_2-颜真卿.svg.png
+./classics_png/楷/符_3-虞世南.svg.png
+./classics_png/楷/符_4-虞世南.svg.png

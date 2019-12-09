@@ -1,0 +1,8 @@
+./classics_png/楷/习_0-褚遂良.svg.png
+./classics_png/楷/习_1-褚遂良.svg.png
+./classics_png/楷/习_2-褚遂良.svg.png
+./classics_png/楷/习_3-欧阳通.svg.png
+./classics_png/楷/习_4-颜真卿.svg.png
+./classics_png/楷/习_5-颜真卿.svg.png
+./classics_png/楷/习_6-颜真卿.svg.png
+./classics_png/楷/习_7-虞世南.svg.png

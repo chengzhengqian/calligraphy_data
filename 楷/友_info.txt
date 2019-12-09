@@ -1,0 +1,6 @@
+./classics_png/楷/友_0-柳公权.svg.png
+./classics_png/楷/友_1-钱南园.svg.png
+./classics_png/楷/友_2-颜真卿.svg.png
+./classics_png/楷/友_3-颜真卿.svg.png
+./classics_png/楷/友_4-智永.svg.png
+./classics_png/楷/友_5-钟繇.svg.png

@@ -1,0 +1,7 @@
+./classics_png/楷/执_0-褚遂良.svg.png
+./classics_png/楷/执_1-王知敬.svg.png
+./classics_png/楷/执_2-颜真卿.svg.png
+./classics_png/楷/执_3-颜真卿.svg.png
+./classics_png/楷/执_4-颜真卿.svg.png
+./classics_png/楷/执_5-羊欣.svg.png
+./classics_png/楷/执_6-智永.svg.png

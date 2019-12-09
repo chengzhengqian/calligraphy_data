@@ -1,0 +1,4 @@
+./classics_png/楷/削_0-蒲宗孟.svg.png
+./classics_png/楷/削_1-王知敬.svg.png
+./classics_png/楷/削_2-颜真卿.svg.png
+./classics_png/楷/削_3-虞世南.svg.png

@@ -1,0 +1,8 @@
+./classics_png/楷/早_0-褚遂良.svg.png
+./classics_png/楷/早_1-褚遂良.svg.png
+./classics_png/楷/早_2-太妃侯造像.svg.png
+./classics_png/楷/早_3-徐浩.svg.png
+./classics_png/楷/早_4-颜真卿.svg.png
+./classics_png/楷/早_5-赵孟頫.svg.png
+./classics_png/楷/早_6-郑道昭.svg.png
+./classics_png/楷/早_7-智永.svg.png

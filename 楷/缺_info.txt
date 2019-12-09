@@ -1,0 +1,8 @@
+./classics_png/楷/缺_0-褚遂良.svg.png
+./classics_png/楷/缺_1-褚遂良.svg.png
+./classics_png/楷/缺_2-李璧碑.svg.png
+./classics_png/楷/缺_3-苏轼.svg.png
+./classics_png/楷/缺_4-苏轼.svg.png
+./classics_png/楷/缺_5-颜真卿.svg.png
+./classics_png/楷/缺_6-虞世南.svg.png
+./classics_png/楷/缺_7-虞世南.svg.png

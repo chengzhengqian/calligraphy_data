@@ -1,0 +1,5 @@
+./classics_png/楷/蓝_0-欧阳询.svg.png
+./classics_png/楷/蓝_1-颜真卿.svg.png
+./classics_png/楷/蓝_2-颜真卿.svg.png
+./classics_png/楷/蓝_3-智永.svg.png
+./classics_png/楷/蓝_4-智永.svg.png

@@ -1,0 +1,4 @@
+./classics_png/楷/帅_0-颜真卿.svg.png
+./classics_png/楷/帅_1-颜真卿.svg.png
+./classics_png/楷/帅_2-姚辩墓志.svg.png
+./classics_png/楷/帅_3-赵孟頫.svg.png

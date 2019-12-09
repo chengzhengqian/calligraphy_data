@@ -1,0 +1,6 @@
+./classics_png/楷/抽_0-褚遂良.svg.png
+./classics_png/楷/抽_1-高湛墓志.svg.png
+./classics_png/楷/抽_2-颜真卿.svg.png
+./classics_png/楷/抽_3-赵佶.svg.png
+./classics_png/楷/抽_4-智永.svg.png
+./classics_png/楷/抽_5-钟繇.svg.png

@@ -1,0 +1,3 @@
+./classics_png/楷/返_0-康玢陀罗尼经.svg.png
+./classics_png/楷/返_1-颜真卿.svg.png
+./classics_png/楷/返_2-张即之.svg.png

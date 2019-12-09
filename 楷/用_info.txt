@@ -1,0 +1,8 @@
+./classics_png/楷/用_0-褚遂良.svg.png
+./classics_png/楷/用_1-褚遂良.svg.png
+./classics_png/楷/用_2-褚遂良.svg.png
+./classics_png/楷/用_3-柳公权.svg.png
+./classics_png/楷/用_4-颜真卿.svg.png
+./classics_png/楷/用_5-颜真卿.svg.png
+./classics_png/楷/用_6-虞世南.svg.png
+./classics_png/楷/用_7-元倪墓志.svg.png

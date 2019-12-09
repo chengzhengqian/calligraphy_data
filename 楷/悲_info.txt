@@ -1,0 +1,8 @@
+./classics_png/楷/悲_0-褚遂良.svg.png
+./classics_png/楷/悲_1-褚遂良.svg.png
+./classics_png/楷/悲_2-褚遂良.svg.png
+./classics_png/楷/悲_3-柳公权.svg.png
+./classics_png/楷/悲_4-苏孝慈墓志.svg.png
+./classics_png/楷/悲_5-魏灵藏造像.svg.png
+./classics_png/楷/悲_6-颜真卿.svg.png
+./classics_png/楷/悲_7-颜真卿.svg.png

@@ -1,0 +1,8 @@
+./classics_png/楷/帐_0-揭傒斯.svg.png
+./classics_png/楷/帐_1-薛稷.svg.png
+./classics_png/楷/帐_2-颜真卿.svg.png
+./classics_png/楷/帐_3-颜真卿.svg.png
+./classics_png/楷/帐_4-赵佶.svg.png
+./classics_png/楷/帐_5-智永.svg.png
+./classics_png/楷/帐_6-智永.svg.png
+./classics_png/楷/帐_7-钟繇.svg.png

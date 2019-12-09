@@ -1,0 +1,8 @@
+./classics_png/楷/独_0-蔡襄.svg.png
+./classics_png/楷/独_1-褚遂良.svg.png
+./classics_png/楷/独_2-褚遂良.svg.png
+./classics_png/楷/独_3-柳公权.svg.png
+./classics_png/楷/独_4-王羲之.svg.png
+./classics_png/楷/独_5-颜真卿.svg.png
+./classics_png/楷/独_6-颜真卿.svg.png
+./classics_png/楷/独_7-张猛龙碑.svg.png

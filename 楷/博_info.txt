@@ -1,0 +1,6 @@
+./classics_png/楷/博_0-黄庭坚.svg.png
+./classics_png/楷/博_1-龙藏寺碑.svg.png
+./classics_png/楷/博_2-欧阳通.svg.png
+./classics_png/楷/博_3-欧阳询.svg.png
+./classics_png/楷/博_4-颜真卿.svg.png
+./classics_png/楷/博_5-殷令名.svg.png

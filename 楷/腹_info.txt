@@ -1,0 +1,6 @@
+./classics_png/楷/腹_0-褚遂良.svg.png
+./classics_png/楷/腹_1-柳公权.svg.png
+./classics_png/楷/腹_2-柳公权.svg.png
+./classics_png/楷/腹_3-陶大举碑.svg.png
+./classics_png/楷/腹_4-颜真卿.svg.png
+./classics_png/楷/腹_5-钟繇.svg.png

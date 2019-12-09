@@ -1,0 +1,7 @@
+./classics_png/楷/歼_0-欧阳询.svg.png
+./classics_png/楷/歼_1-颜真卿.svg.png
+./classics_png/楷/歼_2-颜真卿.svg.png
+./classics_png/楷/歼_3-张玄墓志.svg.png
+./classics_png/楷/歼_4-昭仁寺碑.svg.png
+./classics_png/楷/歼_5-赵之谦.svg.png
+./classics_png/楷/歼_6-中岳灵庙碑.svg.png

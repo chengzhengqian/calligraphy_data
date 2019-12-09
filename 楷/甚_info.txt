@@ -1,0 +1,8 @@
+./classics_png/楷/甚_0-柳公权.svg.png
+./classics_png/楷/甚_1-柳公权.svg.png
+./classics_png/楷/甚_2-欧阳询.svg.png
+./classics_png/楷/甚_3-欧阳询.svg.png
+./classics_png/楷/甚_4-薛稷.svg.png
+./classics_png/楷/甚_5-颜真卿.svg.png
+./classics_png/楷/甚_6-赵孟頫.svg.png
+./classics_png/楷/甚_7-智永.svg.png

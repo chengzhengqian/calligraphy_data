@@ -1,0 +1,3 @@
+./classics_png/楷/整_0-颜真卿.svg.png
+./classics_png/楷/整_1-姚辩墓志.svg.png
+./classics_png/楷/整_2-虞世南.svg.png

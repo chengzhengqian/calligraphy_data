@@ -1,0 +1,4 @@
+./classics_png/楷/衰_0-褚遂良.svg.png
+./classics_png/楷/衰_1-颜真卿.svg.png
+./classics_png/楷/衰_2-虞世南.svg.png
+./classics_png/楷/衰_3-虞世南.svg.png

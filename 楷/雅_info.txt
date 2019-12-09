@@ -1,0 +1,12 @@
+./classics_png/楷/雅_0-褚遂良.svg.png
+./classics_png/楷/雅_1-褚遂良.svg.png
+./classics_png/楷/雅_2-褚遂良.svg.png
+./classics_png/楷/雅_3-陆柬之.svg.png
+./classics_png/楷/雅_4-颜真卿.svg.png
+./classics_png/楷/雅_5-颜真卿.svg.png
+./classics_png/楷/雅_6-虞世南.svg.png
+./classics_png/楷/雅_7-元珍墓志.svg.png
+./classics_png/楷/雅_8-张公礼.svg.png
+./classics_png/楷/雅_9-张猛龙碑.svg.png
+./classics_png/楷/雅_10-智永.svg.png
+./classics_png/楷/雅_11-朱君山墓志.svg.png

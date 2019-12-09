@@ -1,0 +1,6 @@
+./classics_png/楷/俯_0-褚遂良.svg.png
+./classics_png/楷/俯_1-欧阳询.svg.png
+./classics_png/楷/俯_2-苏轼.svg.png
+./classics_png/楷/俯_3-颜真卿.svg.png
+./classics_png/楷/俯_4-赵孟頫.svg.png
+./classics_png/楷/俯_5-智永.svg.png

@@ -1,0 +1,6 @@
+./classics_png/楷/慎_0-褚遂良.svg.png
+./classics_png/楷/慎_1-石婉墓志.svg.png
+./classics_png/楷/慎_2-苏孝慈墓志.svg.png
+./classics_png/楷/慎_3-颜真卿.svg.png
+./classics_png/楷/慎_4-智永.svg.png
+./classics_png/楷/慎_5-智永.svg.png

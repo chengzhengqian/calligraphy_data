@@ -1,0 +1,6 @@
+./classics_png/楷/昧_0-褚遂良.svg.png
+./classics_png/楷/昧_1-褚遂良.svg.png
+./classics_png/楷/昧_2-李璧碑.svg.png
+./classics_png/楷/昧_3-柳公权.svg.png
+./classics_png/楷/昧_4-颜真卿.svg.png
+./classics_png/楷/昧_5-颜真卿.svg.png

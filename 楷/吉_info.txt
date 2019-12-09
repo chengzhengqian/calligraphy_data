@@ -1,0 +1,5 @@
+./classics_png/楷/吉_0-褚遂良.svg.png
+./classics_png/楷/吉_1-褚遂良.svg.png
+./classics_png/楷/吉_2-苏孝慈墓志.svg.png
+./classics_png/楷/吉_3-颜真卿.svg.png
+./classics_png/楷/吉_4-智永.svg.png

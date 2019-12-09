@@ -1,0 +1,6 @@
+./classics_png/楷/羊_0-褚遂良.svg.png
+./classics_png/楷/羊_1-褚遂良.svg.png
+./classics_png/楷/羊_2-揭傒斯.svg.png
+./classics_png/楷/羊_3-颜真卿.svg.png
+./classics_png/楷/羊_4-虞世南.svg.png
+./classics_png/楷/羊_5-虞世南.svg.png

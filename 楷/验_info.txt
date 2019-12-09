@@ -1,0 +1,6 @@
+./classics_png/楷/验_0-隶辨.svg.png
+./classics_png/楷/验_1-欧阳询.svg.png
+./classics_png/楷/验_2-欧阳询.svg.png
+./classics_png/楷/验_3-欧阳询.svg.png
+./classics_png/楷/验_4-颜真卿.svg.png
+./classics_png/楷/验_5-颜真卿.svg.png

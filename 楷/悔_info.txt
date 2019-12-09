@@ -1,0 +1,5 @@
+./classics_png/楷/悔_0-褚遂良.svg.png
+./classics_png/楷/悔_1-贺若谊碑.svg.png
+./classics_png/楷/悔_2-寂照和尚碑.svg.png
+./classics_png/楷/悔_3-柳公权.svg.png
+./classics_png/楷/悔_4-颜真卿.svg.png

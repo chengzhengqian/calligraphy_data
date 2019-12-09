@@ -1,0 +1,6 @@
+./classics_png/楷/旁_0-蔡襄.svg.png
+./classics_png/楷/旁_1-褚遂良.svg.png
+./classics_png/楷/旁_2-何绍基.svg.png
+./classics_png/楷/旁_3-柯九思.svg.png
+./classics_png/楷/旁_4-颜真卿.svg.png
+./classics_png/楷/旁_5-颜真卿.svg.png

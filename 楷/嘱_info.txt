@@ -1,0 +1,5 @@
+./classics_png/楷/嘱_0-苏轼.svg.png
+./classics_png/楷/嘱_1-太妃侯造像.svg.png
+./classics_png/楷/嘱_2-颜真卿.svg.png
+./classics_png/楷/嘱_3-颜真卿.svg.png
+./classics_png/楷/嘱_4-赵孟頫.svg.png

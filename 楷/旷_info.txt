@@ -1,0 +1,8 @@
+./classics_png/楷/旷_0-褚遂良.svg.png
+./classics_png/楷/旷_1-褚遂良.svg.png
+./classics_png/楷/旷_2-欧阳通.svg.png
+./classics_png/楷/旷_3-太妃侯造像.svg.png
+./classics_png/楷/旷_4-王羲之.svg.png
+./classics_png/楷/旷_5-魏灵藏造像.svg.png
+./classics_png/楷/旷_6-颜真卿.svg.png
+./classics_png/楷/旷_7-智永.svg.png

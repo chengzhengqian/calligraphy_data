@@ -1,0 +1,6 @@
+./classics_png/楷/抗_0-欧阳询.svg.png
+./classics_png/楷/抗_1-王献之.svg.png
+./classics_png/楷/抗_2-颜真卿.svg.png
+./classics_png/楷/抗_3-殷今名.svg.png
+./classics_png/楷/抗_4-张裕钊.svg.png
+./classics_png/楷/抗_5-智永.svg.png

@@ -1,0 +1,6 @@
+./classics_png/楷/失_0-褚遂良.svg.png
+./classics_png/楷/失_1-褚遂良.svg.png
+./classics_png/楷/失_2-颜真卿.svg.png
+./classics_png/楷/失_3-虞世南.svg.png
+./classics_png/楷/失_4-虞世南.svg.png
+./classics_png/楷/失_5-赵孟頫.svg.png

@@ -1,0 +1,8 @@
+./classics_png/楷/谋_0-蔡襄.svg.png
+./classics_png/楷/谋_1-褚遂良.svg.png
+./classics_png/楷/谋_2-黄庭坚.svg.png
+./classics_png/楷/谋_3-李璧碑.svg.png
+./classics_png/楷/谋_4-欧阳询.svg.png
+./classics_png/楷/谋_5-颜真卿.svg.png
+./classics_png/楷/谋_6-颜真卿.svg.png
+./classics_png/楷/谋_7-赵之谦.svg.png

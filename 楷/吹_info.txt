@@ -1,0 +1,5 @@
+./classics_png/楷/吹_0-李邕.svg.png
+./classics_png/楷/吹_1-米芾.svg.png
+./classics_png/楷/吹_2-王知敬.svg.png
+./classics_png/楷/吹_3-颜真卿.svg.png
+./classics_png/楷/吹_4-张猛龙碑.svg.png

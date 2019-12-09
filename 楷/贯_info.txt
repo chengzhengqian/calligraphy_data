@@ -1,0 +1,5 @@
+./classics_png/楷/贯_0-颜真卿.svg.png
+./classics_png/楷/贯_1-颜真卿.svg.png
+./classics_png/楷/贯_2-佚名.svg.png
+./classics_png/楷/贯_3-虞世南.svg.png
+./classics_png/楷/贯_4-虞世南.svg.png

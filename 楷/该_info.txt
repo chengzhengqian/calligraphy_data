@@ -1,0 +1,4 @@
+./classics_png/楷/该_0-颜真卿.svg.png
+./classics_png/楷/该_1-颜真卿.svg.png
+./classics_png/楷/该_2-颜真卿.svg.png
+./classics_png/楷/该_3-虞世南.svg.png

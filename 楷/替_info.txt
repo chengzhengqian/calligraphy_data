@@ -1,0 +1,5 @@
+./classics_png/楷/替_0-褚遂良.svg.png
+./classics_png/楷/替_1-褚遂良.svg.png
+./classics_png/楷/替_2-尉富娘墓志.svg.png
+./classics_png/楷/替_3-颜真卿.svg.png
+./classics_png/楷/替_4-颜真卿.svg.png

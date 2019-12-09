@@ -1,0 +1,4 @@
+./classics_png/楷/毫_0-陆柬之.svg.png
+./classics_png/楷/毫_1-颜真卿.svg.png
+./classics_png/楷/毫_2-颜真卿.svg.png
+./classics_png/楷/毫_3-颜真卿.svg.png

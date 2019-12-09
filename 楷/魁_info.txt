@@ -1,0 +1,2 @@
+./classics_png/楷/魁_0-颜真卿.svg.png
+./classics_png/楷/魁_1-中岳灵庙碑.svg.png

@@ -1,0 +1,6 @@
+./classics_png/楷/切_0-北海王造像.svg.png
+./classics_png/楷/切_1-柳公权.svg.png
+./classics_png/楷/切_2-牛橛造像.svg.png
+./classics_png/楷/切_3-欧阳询.svg.png
+./classics_png/楷/切_4-颜真卿.svg.png
+./classics_png/楷/切_5-智永.svg.png

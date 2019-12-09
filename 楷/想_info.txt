@@ -1,0 +1,6 @@
+./classics_png/楷/想_0-颜真卿.svg.png
+./classics_png/楷/想_1-颜真卿.svg.png
+./classics_png/楷/想_2-昭陵陀罗尼经.svg.png
+./classics_png/楷/想_3-赵孟頫.svg.png
+./classics_png/楷/想_4-智永.svg.png
+./classics_png/楷/想_5-智永.svg.png

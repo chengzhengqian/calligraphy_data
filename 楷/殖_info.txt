@@ -1,0 +1,5 @@
+./classics_png/楷/殖_0-蔡襄.svg.png
+./classics_png/楷/殖_1-褚遂良.svg.png
+./classics_png/楷/殖_2-龙藏寺碑.svg.png
+./classics_png/楷/殖_3-颜真卿.svg.png
+./classics_png/楷/殖_4-元珍墓志.svg.png

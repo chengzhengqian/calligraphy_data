@@ -1,0 +1,4 @@
+./classics_png/楷/排_0-褚遂良.svg.png
+./classics_png/楷/排_1-宁质碑.svg.png
+./classics_png/楷/排_2-颜真卿.svg.png
+./classics_png/楷/排_3-张旭.svg.png

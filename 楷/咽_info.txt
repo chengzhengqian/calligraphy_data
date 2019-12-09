@@ -1,0 +1,2 @@
+./classics_png/楷/咽_0-墓志.svg.png
+./classics_png/楷/咽_1-颜真卿.svg.png

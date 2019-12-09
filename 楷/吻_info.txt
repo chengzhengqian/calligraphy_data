@@ -1,0 +1,3 @@
+./classics_png/楷/吻_0-褚遂良.svg.png
+./classics_png/楷/吻_1-倪瓒.svg.png
+./classics_png/楷/吻_2-颜真卿.svg.png

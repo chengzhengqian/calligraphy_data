@@ -1,0 +1,3 @@
+./classics_png/楷/派_0-王知敬.svg.png
+./classics_png/楷/派_1-颜真卿.svg.png
+./classics_png/楷/派_2-殷令名.svg.png

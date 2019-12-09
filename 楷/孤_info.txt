@@ -1,0 +1,12 @@
+./classics_png/楷/孤_0-褚遂良.svg.png
+./classics_png/楷/孤_1-褚遂良.svg.png
+./classics_png/楷/孤_2-李倜.svg.png
+./classics_png/楷/孤_3-苏轼.svg.png
+./classics_png/楷/孤_4-太妃侯造像.svg.png
+./classics_png/楷/孤_5-王知敬.svg.png
+./classics_png/楷/孤_6-薛稷.svg.png
+./classics_png/楷/孤_7-颜真卿.svg.png
+./classics_png/楷/孤_8-元倪墓志.svg.png
+./classics_png/楷/孤_9-张猛龙碑.svg.png
+./classics_png/楷/孤_10-赵孟頫.svg.png
+./classics_png/楷/孤_11-智永.svg.png

@@ -1,0 +1,8 @@
+./classics_png/楷/寡_0-褚遂良.svg.png
+./classics_png/楷/寡_1-褚遂良.svg.png
+./classics_png/楷/寡_2-欧阳询.svg.png
+./classics_png/楷/寡_3-欧阳询.svg.png
+./classics_png/楷/寡_4-石经左碑.svg.png
+./classics_png/楷/寡_5-文征明.svg.png
+./classics_png/楷/寡_6-颜真卿.svg.png
+./classics_png/楷/寡_7-智永.svg.png

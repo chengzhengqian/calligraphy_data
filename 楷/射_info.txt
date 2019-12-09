@@ -1,0 +1,9 @@
+./classics_png/楷/射_0-褚遂良.svg.png
+./classics_png/楷/射_1-褚遂良.svg.png
+./classics_png/楷/射_2-揭傒斯.svg.png
+./classics_png/楷/射_3-欧阳询.svg.png
+./classics_png/楷/射_4-颜真卿.svg.png
+./classics_png/楷/射_5-元珍墓志.svg.png
+./classics_png/楷/射_6-赵孟頫.svg.png
+./classics_png/楷/射_7-智永.svg.png
+./classics_png/楷/射_8-智永.svg.png

@@ -1,0 +1,10 @@
+./classics_png/楷/魏_0-白珽.svg.png
+./classics_png/楷/魏_1-褚遂良.svg.png
+./classics_png/楷/魏_2-敬客.svg.png
+./classics_png/楷/魏_3-王元佑造像.svg.png
+./classics_png/楷/魏_4-魏灵藏造像.svg.png
+./classics_png/楷/魏_5-颜真卿.svg.png
+./classics_png/楷/魏_6-元珍墓志.svg.png
+./classics_png/楷/魏_7-赵孟頫.svg.png
+./classics_png/楷/魏_8-中岳灵庙碑.svg.png
+./classics_png/楷/魏_9-钟繇.svg.png

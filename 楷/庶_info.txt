@@ -1,0 +1,5 @@
+./classics_png/楷/庶_0-欧阳询.svg.png
+./classics_png/楷/庶_1-王知敬.svg.png
+./classics_png/楷/庶_2-颜真卿.svg.png
+./classics_png/楷/庶_3-元珍墓志.svg.png
+./classics_png/楷/庶_4-智永.svg.png

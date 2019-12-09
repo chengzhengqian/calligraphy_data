@@ -1,0 +1,5 @@
+./classics_png/楷/塞_0-白道生碑.svg.png
+./classics_png/楷/塞_1-高贞碑.svg.png
+./classics_png/楷/塞_2-柳公权.svg.png
+./classics_png/楷/塞_3-欧阳询.svg.png
+./classics_png/楷/塞_4-颜真卿.svg.png

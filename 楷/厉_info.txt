@@ -1,0 +1,4 @@
+./classics_png/楷/厉_0-王献之.svg.png
+./classics_png/楷/厉_1-颜真卿.svg.png
+./classics_png/楷/厉_2-颜真卿.svg.png
+./classics_png/楷/厉_3-颜真卿.svg.png

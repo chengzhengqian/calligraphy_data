@@ -1,0 +1,6 @@
+./classics_png/楷/热_0-欧阳询.svg.png
+./classics_png/楷/热_1-颜真卿.svg.png
+./classics_png/楷/热_2-颜真卿.svg.png
+./classics_png/楷/热_3-颜真卿.svg.png
+./classics_png/楷/热_4-智永.svg.png
+./classics_png/楷/热_5-智永.svg.png

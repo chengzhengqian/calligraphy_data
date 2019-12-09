@@ -1,0 +1,5 @@
+./classics_png/楷/渠_0-高贞碑.svg.png
+./classics_png/楷/渠_1-欧阳询.svg.png
+./classics_png/楷/渠_2-苏孝慈墓志.svg.png
+./classics_png/楷/渠_3-颜真卿.svg.png
+./classics_png/楷/渠_4-颜真卿.svg.png

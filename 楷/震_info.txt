@@ -1,0 +1,6 @@
+./classics_png/楷/震_0-石经尔雅.svg.png
+./classics_png/楷/震_1-王僧虔.svg.png
+./classics_png/楷/震_2-颜真卿.svg.png
+./classics_png/楷/震_3-杨大眼造像.svg.png
+./classics_png/楷/震_4-元珍墓志.svg.png
+./classics_png/楷/震_5-昭仁寺碑.svg.png

@@ -1,0 +1,8 @@
+./classics_png/楷/前_0-褚遂良.svg.png
+./classics_png/楷/前_1-柳公权.svg.png
+./classics_png/楷/前_2-柳公权.svg.png
+./classics_png/楷/前_3-欧阳询.svg.png
+./classics_png/楷/前_4-欧阳询.svg.png
+./classics_png/楷/前_5-徐浩.svg.png
+./classics_png/楷/前_6-颜真卿.svg.png
+./classics_png/楷/前_7-颜真卿.svg.png

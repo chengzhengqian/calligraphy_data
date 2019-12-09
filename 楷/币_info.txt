@@ -1,0 +1,3 @@
+./classics_png/楷/币_0-颜真卿.svg.png
+./classics_png/楷/币_1-颜真卿.svg.png
+./classics_png/楷/币_2-姚夫人槿葬石表.svg.png

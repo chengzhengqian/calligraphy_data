@@ -1,0 +1,7 @@
+./classics_png/楷/尝_0-柳公权.svg.png
+./classics_png/楷/尝_1-颜真卿.svg.png
+./classics_png/楷/尝_2-颜真卿.svg.png
+./classics_png/楷/尝_3-颜真卿.svg.png
+./classics_png/楷/尝_4-智永.svg.png
+./classics_png/楷/尝_5-智永.svg.png
+./classics_png/楷/尝_6-钟繇.svg.png

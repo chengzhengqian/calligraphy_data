@@ -1,0 +1,8 @@
+./classics_png/楷/要_0-蔡襄.svg.png
+./classics_png/楷/要_1-褚遂良.svg.png
+./classics_png/楷/要_2-褚遂良.svg.png
+./classics_png/楷/要_3-王羲之.svg.png
+./classics_png/楷/要_4-颜真卿.svg.png
+./classics_png/楷/要_5-虞世南.svg.png
+./classics_png/楷/要_6-张旭.svg.png
+./classics_png/楷/要_7-智永.svg.png

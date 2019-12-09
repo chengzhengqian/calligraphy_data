@@ -1,0 +1,4 @@
+./classics_png/楷/个_0-代国公主碑.svg.png
+./classics_png/楷/个_1-李邕.svg.png
+./classics_png/楷/个_2-颜真卿.svg.png
+./classics_png/楷/个_3-颜真卿.svg.png

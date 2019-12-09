@@ -1,0 +1,8 @@
+./classics_png/楷/部_0-褚遂良.svg.png
+./classics_png/楷/部_1-欧阳询.svg.png
+./classics_png/楷/部_2-欧阳询.svg.png
+./classics_png/楷/部_3-王羲之.svg.png
+./classics_png/楷/部_4-颜真卿.svg.png
+./classics_png/楷/部_5-颜真卿.svg.png
+./classics_png/楷/部_6-元倪墓志.svg.png
+./classics_png/楷/部_7-张玄墓志.svg.png

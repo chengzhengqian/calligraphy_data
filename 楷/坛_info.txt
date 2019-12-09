@@ -1,0 +1,8 @@
+./classics_png/楷/坛_0-褚遂良.svg.png
+./classics_png/楷/坛_1-褚遂良.svg.png
+./classics_png/楷/坛_2-金仙公主造石经.svg.png
+./classics_png/楷/坛_3-颜真卿.svg.png
+./classics_png/楷/坛_4-颜真卿.svg.png
+./classics_png/楷/坛_5-颜真卿.svg.png
+./classics_png/楷/坛_6-颜真卿.svg.png
+./classics_png/楷/坛_7-张从申.svg.png

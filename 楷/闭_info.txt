@@ -1,0 +1,6 @@
+./classics_png/楷/闭_0-欧阳询.svg.png
+./classics_png/楷/闭_1-欧阳询.svg.png
+./classics_png/楷/闭_2-石经周易.svg.png
+./classics_png/楷/闭_3-颜真卿.svg.png
+./classics_png/楷/闭_4-颜真卿.svg.png
+./classics_png/楷/闭_5-张从申.svg.png

@@ -1,0 +1,7 @@
+./classics_png/楷/干_0-柳公权.svg.png
+./classics_png/楷/干_1-柳公权.svg.png
+./classics_png/楷/干_2-颜真卿.svg.png
+./classics_png/楷/干_3-颜真卿.svg.png
+./classics_png/楷/干_4-颜真卿.svg.png
+./classics_png/楷/干_5-虞世南.svg.png
+./classics_png/楷/干_6-虞世南.svg.png

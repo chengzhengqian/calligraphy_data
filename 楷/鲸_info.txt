@@ -1,0 +1,5 @@
+./classics_png/楷/鲸_0-欧阳通.svg.png
+./classics_png/楷/鲸_1-颜真卿.svg.png
+./classics_png/楷/鲸_2-颜真卿.svg.png
+./classics_png/楷/鲸_3-虞世南.svg.png
+./classics_png/楷/鲸_4-虞世南.svg.png

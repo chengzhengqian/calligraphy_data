@@ -1,0 +1,4 @@
+./classics_png/楷/拳_0-褚遂良.svg.png
+./classics_png/楷/拳_1-欧阳询.svg.png
+./classics_png/楷/拳_2-石经毛诗.svg.png
+./classics_png/楷/拳_3-颜真卿.svg.png

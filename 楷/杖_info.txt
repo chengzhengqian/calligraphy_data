@@ -1,0 +1,5 @@
+./classics_png/楷/杖_0-褚遂良.svg.png
+./classics_png/楷/杖_1-褚遂良.svg.png
+./classics_png/楷/杖_2-欧阳询.svg.png
+./classics_png/楷/杖_3-欧阳询.svg.png
+./classics_png/楷/杖_4-颜真卿.svg.png

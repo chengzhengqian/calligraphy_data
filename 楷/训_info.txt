@@ -1,0 +1,9 @@
+./classics_png/楷/训_0-褚遂良.svg.png
+./classics_png/楷/训_1-崔敬邕墓志.svg.png
+./classics_png/楷/训_2-李璧碑.svg.png
+./classics_png/楷/训_3-欧阳询.svg.png
+./classics_png/楷/训_4-颜真卿.svg.png
+./classics_png/楷/训_5-颜真卿.svg.png
+./classics_png/楷/训_6-赵孟頫.svg.png
+./classics_png/楷/训_7-智永.svg.png
+./classics_png/楷/训_8-智永.svg.png

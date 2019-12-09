@@ -1,0 +1,4 @@
+./classics_png/楷/匠_0-残造塔碑.svg.png
+./classics_png/楷/匠_1-高贞碑.svg.png
+./classics_png/楷/匠_2-李邕.svg.png
+./classics_png/楷/匠_3-颜真卿.svg.png

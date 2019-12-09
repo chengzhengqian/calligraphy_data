@@ -1,0 +1,5 @@
+./classics_png/楷/草_0-颜真卿.svg.png
+./classics_png/楷/草_1-张公礼.svg.png
+./classics_png/楷/草_2-张猛龙碑.svg.png
+./classics_png/楷/草_3-张玄墓志.svg.png
+./classics_png/楷/草_4-智永.svg.png

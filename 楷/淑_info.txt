@@ -1,0 +1,4 @@
+./classics_png/楷/淑_0-欧阳询.svg.png
+./classics_png/楷/淑_1-颜真卿.svg.png
+./classics_png/楷/淑_2-颜真卿.svg.png
+./classics_png/楷/淑_3-郑道昭.svg.png

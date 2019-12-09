@@ -1,0 +1,6 @@
+./classics_png/楷/糠_0-褚遂良.svg.png
+./classics_png/楷/糠_1-揭傒斯.svg.png
+./classics_png/楷/糠_2-颜真卿.svg.png
+./classics_png/楷/糠_3-赵孟頫.svg.png
+./classics_png/楷/糠_4-智永.svg.png
+./classics_png/楷/糠_5-智永.svg.png

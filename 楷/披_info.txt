@@ -1,0 +1,6 @@
+./classics_png/楷/披_0-颜真卿.svg.png
+./classics_png/楷/披_1-褚遂良.svg.png
+./classics_png/楷/披_2-褚遂良.svg.png
+./classics_png/楷/披_3-褚遂良.svg.png
+./classics_png/楷/披_4-欧阳通.svg.png
+./classics_png/楷/披_5-柳公权.svg.png

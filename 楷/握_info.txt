@@ -1,0 +1,5 @@
+./classics_png/楷/握_0-欧阳询.svg.png
+./classics_png/楷/握_1-欧阳询.svg.png
+./classics_png/楷/握_2-薛稷.svg.png
+./classics_png/楷/握_3-颜真卿.svg.png
+./classics_png/楷/握_4-颜真卿.svg.png

@@ -1,0 +1,4 @@
+./classics_png/楷/旭_0-颜真卿.svg.png
+./classics_png/楷/旭_1-颜真卿.svg.png
+./classics_png/楷/旭_2-御吏台碑阴.svg.png
+./classics_png/楷/旭_3-朱君山墓志.svg.png

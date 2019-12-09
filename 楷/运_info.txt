@@ -1,0 +1,6 @@
+./classics_png/楷/运_0-褚遂良.svg.png
+./classics_png/楷/运_1-欧阳询.svg.png
+./classics_png/楷/运_2-颜真卿.svg.png
+./classics_png/楷/运_3-颜真卿.svg.png
+./classics_png/楷/运_4-虞世南.svg.png
+./classics_png/楷/运_5-虞世南.svg.png

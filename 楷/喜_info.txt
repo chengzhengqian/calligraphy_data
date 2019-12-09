@@ -1,0 +1,6 @@
+./classics_png/楷/喜_0-柳公权.svg.png
+./classics_png/楷/喜_1-柳公权.svg.png
+./classics_png/楷/喜_2-薛稷.svg.png
+./classics_png/楷/喜_3-颜真卿.svg.png
+./classics_png/楷/喜_4-颜真卿.svg.png
+./classics_png/楷/喜_5-殷令名.svg.png

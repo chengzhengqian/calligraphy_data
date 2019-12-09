@@ -1,0 +1,5 @@
+./classics_png/楷/弃_0-欧阳询.svg.png
+./classics_png/楷/弃_1-欧阳询.svg.png
+./classics_png/楷/弃_2-颜真卿.svg.png
+./classics_png/楷/弃_3-颜真卿.svg.png
+./classics_png/楷/弃_4-张廉卿.svg.png

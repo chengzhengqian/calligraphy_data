@@ -1,0 +1,9 @@
+./classics_png/楷/采_0-褚遂良.svg.png
+./classics_png/楷/采_1-高贞碑.svg.png
+./classics_png/楷/采_2-绢本十三行.svg.png
+./classics_png/楷/采_3-陆柬之.svg.png
+./classics_png/楷/采_4-欧阳通.svg.png
+./classics_png/楷/采_5-王献之.svg.png
+./classics_png/楷/采_6-王献之.svg.png
+./classics_png/楷/采_7-颜真卿.svg.png
+./classics_png/楷/采_8-钟繇.svg.png

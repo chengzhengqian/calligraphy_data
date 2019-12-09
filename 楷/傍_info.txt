@@ -1,0 +1,9 @@
+./classics_png/楷/傍_0-揭傒斯.svg.png
+./classics_png/楷/傍_1-柳公权.svg.png
+./classics_png/楷/傍_2-欧阳询.svg.png
+./classics_png/楷/傍_3-颜真卿.svg.png
+./classics_png/楷/傍_4-颜真卿.svg.png
+./classics_png/楷/傍_5-颜真卿.svg.png
+./classics_png/楷/傍_6-赵孟頫.svg.png
+./classics_png/楷/傍_7-智永.svg.png
+./classics_png/楷/傍_8-智永.svg.png

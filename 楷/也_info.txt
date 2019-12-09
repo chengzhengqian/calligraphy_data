@@ -1,0 +1,10 @@
+./classics_png/楷/也_0-褚遂良.svg.png
+./classics_png/楷/也_1-褚遂良.svg.png
+./classics_png/楷/也_2-褚遂良.svg.png
+./classics_png/楷/也_3-敬客.svg.png
+./classics_png/楷/也_4-柳公权.svg.png
+./classics_png/楷/也_5-柳公权.svg.png
+./classics_png/楷/也_6-欧阳询.svg.png
+./classics_png/楷/也_7-颜真卿.svg.png
+./classics_png/楷/也_8-颜真卿.svg.png
+./classics_png/楷/也_9-钟繇.svg.png

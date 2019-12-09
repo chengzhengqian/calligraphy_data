@@ -1,0 +1,3 @@
+./classics_png/楷/逃_0-石经.svg.png
+./classics_png/楷/逃_1-颜真卿.svg.png
+./classics_png/楷/逃_2-张公礼.svg.png

@@ -1,0 +1,7 @@
+./classics_png/楷/吴_0-褚遂良.svg.png
+./classics_png/楷/吴_1-褚遂良.svg.png
+./classics_png/楷/吴_2-柳公权.svg.png
+./classics_png/楷/吴_3-柳公权.svg.png
+./classics_png/楷/吴_4-欧阳询.svg.png
+./classics_png/楷/吴_5-孙秋生造像.svg.png
+./classics_png/楷/吴_6-颜真卿.svg.png

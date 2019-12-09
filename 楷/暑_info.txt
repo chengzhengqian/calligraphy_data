@@ -1,0 +1,6 @@
+./classics_png/楷/暑_0-褚遂良.svg.png
+./classics_png/楷/暑_1-褚遂良.svg.png
+./classics_png/楷/暑_2-柳公权.svg.png
+./classics_png/楷/暑_3-欧阳询.svg.png
+./classics_png/楷/暑_4-欧阳询.svg.png
+./classics_png/楷/暑_5-颜真卿.svg.png

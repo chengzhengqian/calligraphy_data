@@ -1,0 +1,6 @@
+./classics_png/楷/政_0-柳公权.svg.png
+./classics_png/楷/政_1-柳公权.svg.png
+./classics_png/楷/政_2-颜真卿.svg.png
+./classics_png/楷/政_3-虞世南.svg.png
+./classics_png/楷/政_4-元倪墓志.svg.png
+./classics_png/楷/政_5-赵孟頫.svg.png

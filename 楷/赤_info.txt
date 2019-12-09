@@ -1,0 +1,5 @@
+./classics_png/楷/赤_0-柳公权.svg.png
+./classics_png/楷/赤_1-柳公权.svg.png
+./classics_png/楷/赤_2-欧阳通.svg.png
+./classics_png/楷/赤_3-王知敬.svg.png
+./classics_png/楷/赤_4-颜真卿.svg.png

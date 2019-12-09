@@ -1,0 +1,8 @@
+./classics_png/楷/澄_0-褚遂良.svg.png
+./classics_png/楷/澄_1-李邕.svg.png
+./classics_png/楷/澄_2-柳公权.svg.png
+./classics_png/楷/澄_3-颜真卿.svg.png
+./classics_png/楷/澄_4-元珍墓志.svg.png
+./classics_png/楷/澄_5-赵佶.svg.png
+./classics_png/楷/澄_6-智永.svg.png
+./classics_png/楷/澄_7-智永.svg.png

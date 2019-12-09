@@ -1,0 +1,7 @@
+./classics_png/楷/吏_0-李邕.svg.png
+./classics_png/楷/吏_1-颜真卿.svg.png
+./classics_png/楷/吏_2-颜真卿.svg.png
+./classics_png/楷/吏_3-庾翼.svg.png
+./classics_png/楷/吏_4-庾翼.svg.png
+./classics_png/楷/吏_5-元倪墓志.svg.png
+./classics_png/楷/吏_6-赵孟頫.svg.png

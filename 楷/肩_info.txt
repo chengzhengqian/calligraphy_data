@@ -1,0 +1,5 @@
+./classics_png/楷/肩_0-白鹤观碑.svg.png
+./classics_png/楷/肩_1-法门寺涅槃经.svg.png
+./classics_png/楷/肩_2-柳公权.svg.png
+./classics_png/楷/肩_3-欧阳通.svg.png
+./classics_png/楷/肩_4-颜真卿.svg.png

@@ -1,0 +1,4 @@
+./classics_png/楷/懦_0-褚遂良.svg.png
+./classics_png/楷/懦_1-黄庭坚.svg.png
+./classics_png/楷/懦_2-柳公权.svg.png
+./classics_png/楷/懦_3-颜真卿.svg.png

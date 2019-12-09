@@ -1,0 +1,3 @@
+./classics_png/楷/毡_0-黄庭坚.svg.png
+./classics_png/楷/毡_1-颜真卿.svg.png
+./classics_png/楷/毡_2-颜真卿.svg.png

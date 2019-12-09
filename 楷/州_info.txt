@@ -1,0 +1,7 @@
+./classics_png/楷/州_0-李璧碑.svg.png
+./classics_png/楷/州_1-欧阳通.svg.png
+./classics_png/楷/州_2-欧阳询.svg.png
+./classics_png/楷/州_3-颜真卿.svg.png
+./classics_png/楷/州_4-颜真卿.svg.png
+./classics_png/楷/州_5-元珍墓志.svg.png
+./classics_png/楷/州_6-张猛龙碑.svg.png

@@ -1,0 +1,3 @@
+./classics_png/楷/闽_0-颜真卿.svg.png
+./classics_png/楷/闽_1-颜真卿.svg.png
+./classics_png/楷/闽_2-翟汝文.svg.png

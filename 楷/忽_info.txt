@@ -1,0 +1,6 @@
+./classics_png/楷/忽_0-欧阳询.svg.png
+./classics_png/楷/忽_1-司马光.svg.png
+./classics_png/楷/忽_2-王羲之.svg.png
+./classics_png/楷/忽_3-王知敬.svg.png
+./classics_png/楷/忽_4-颜真卿.svg.png
+./classics_png/楷/忽_5-颜真卿.svg.png

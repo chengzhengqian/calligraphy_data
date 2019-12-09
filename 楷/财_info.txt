@@ -1,0 +1,7 @@
+./classics_png/楷/财_0-黄庭坚.svg.png
+./classics_png/楷/财_1-魏灵藏造像.svg.png
+./classics_png/楷/财_2-颜真卿.svg.png
+./classics_png/楷/财_3-颜真卿.svg.png
+./classics_png/楷/财_4-颜真卿.svg.png
+./classics_png/楷/财_5-颜真卿.svg.png
+./classics_png/楷/财_6-赵孟頫.svg.png

@@ -1,0 +1,6 @@
+./classics_png/楷/称_0-柳公权.svg.png
+./classics_png/楷/称_1-龙藏寺碑.svg.png
+./classics_png/楷/称_2-颜真卿.svg.png
+./classics_png/楷/称_3-颜真卿.svg.png
+./classics_png/楷/称_4-颜真卿.svg.png
+./classics_png/楷/称_5-赵佶.svg.png

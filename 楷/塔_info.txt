@@ -1,0 +1,8 @@
+./classics_png/楷/塔_0-敬客.svg.png
+./classics_png/楷/塔_1-柳公权.svg.png
+./classics_png/楷/塔_2-柳公权.svg.png
+./classics_png/楷/塔_3-龙藏寺碑.svg.png
+./classics_png/楷/塔_4-欧阳询.svg.png
+./classics_png/楷/塔_5-徐浩.svg.png
+./classics_png/楷/塔_6-颜真卿.svg.png
+./classics_png/楷/塔_7-颜真卿.svg.png

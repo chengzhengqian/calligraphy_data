@@ -1,0 +1,3 @@
+./classics_png/楷/聋_0-颜真卿.svg.png
+./classics_png/楷/聋_1-颜真卿.svg.png
+./classics_png/楷/聋_2-张公礼.svg.png

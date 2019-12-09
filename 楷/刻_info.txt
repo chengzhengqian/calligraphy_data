@@ -1,0 +1,8 @@
+./classics_png/楷/刻_0-褚遂良.svg.png
+./classics_png/楷/刻_1-欧阳通.svg.png
+./classics_png/楷/刻_2-苏轼.svg.png
+./classics_png/楷/刻_3-薛稷.svg.png
+./classics_png/楷/刻_4-颜真卿.svg.png
+./classics_png/楷/刻_5-颜真卿.svg.png
+./classics_png/楷/刻_6-颜真卿.svg.png
+./classics_png/楷/刻_7-赵佶.svg.png

@@ -1,0 +1,6 @@
+./classics_png/楷/贼_0-李璧碑.svg.png
+./classics_png/楷/贼_1-颜真卿.svg.png
+./classics_png/楷/贼_2-颜真卿.svg.png
+./classics_png/楷/贼_3-郑板桥.svg.png
+./classics_png/楷/贼_4-智永.svg.png
+./classics_png/楷/贼_5-智永.svg.png

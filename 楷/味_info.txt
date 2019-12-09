@@ -1,0 +1,8 @@
+./classics_png/楷/味_0-褚遂良.svg.png
+./classics_png/楷/味_1-褚遂良.svg.png
+./classics_png/楷/味_2-李璧碑.svg.png
+./classics_png/楷/味_3-柳公权.svg.png
+./classics_png/楷/味_4-欧阳询.svg.png
+./classics_png/楷/味_5-欧阳询.svg.png
+./classics_png/楷/味_6-王羲之.svg.png
+./classics_png/楷/味_7-颜真卿.svg.png

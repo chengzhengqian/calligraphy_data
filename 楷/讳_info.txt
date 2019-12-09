@@ -1,0 +1,10 @@
+./classics_png/楷/讳_0-褚遂良.svg.png
+./classics_png/楷/讳_1-褚遂良.svg.png
+./classics_png/楷/讳_2-爨宝子碑.svg.png
+./classics_png/楷/讳_3-爨龙颜碑.svg.png
+./classics_png/楷/讳_4-高贞碑.svg.png
+./classics_png/楷/讳_5-广武将军碑.svg.png
+./classics_png/楷/讳_6-欧阳询.svg.png
+./classics_png/楷/讳_7-颜真卿.svg.png
+./classics_png/楷/讳_8-颜真卿.svg.png
+./classics_png/楷/讳_9-元珍墓志.svg.png

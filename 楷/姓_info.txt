@@ -1,0 +1,8 @@
+./classics_png/楷/姓_0-褚遂良.svg.png
+./classics_png/楷/姓_1-褚遂良.svg.png
+./classics_png/楷/姓_2-李超墓志.svg.png
+./classics_png/楷/姓_3-欧阳询.svg.png
+./classics_png/楷/姓_4-欧阳询.svg.png
+./classics_png/楷/姓_5-嵩山陀罗尼经.svg.png
+./classics_png/楷/姓_6-颜真卿.svg.png
+./classics_png/楷/姓_7-颜真卿.svg.png

@@ -1,0 +1,12 @@
+./classics_png/楷/贞_0-褚遂良.svg.png
+./classics_png/楷/贞_1-褚遂良.svg.png
+./classics_png/楷/贞_2-褚遂良.svg.png
+./classics_png/楷/贞_3-高贞碑.svg.png
+./classics_png/楷/贞_4-揭傒斯.svg.png
+./classics_png/楷/贞_5-李璧碑.svg.png
+./classics_png/楷/贞_6-欧阳询.svg.png
+./classics_png/楷/贞_7-王羲之.svg.png
+./classics_png/楷/贞_8-颜真卿.svg.png
+./classics_png/楷/贞_9-颜真卿.svg.png
+./classics_png/楷/贞_10-颜真卿.svg.png
+./classics_png/楷/贞_11-张从申.svg.png

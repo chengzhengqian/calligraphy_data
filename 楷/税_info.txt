@@ -1,0 +1,5 @@
+./classics_png/楷/税_0-褚遂良.svg.png
+./classics_png/楷/税_1-欧阳通.svg.png
+./classics_png/楷/税_2-颜真卿.svg.png
+./classics_png/楷/税_3-赵孟頫.svg.png
+./classics_png/楷/税_4-智永.svg.png

@@ -1,0 +1,4 @@
+./classics_png/楷/羔_0-欧阳询.svg.png
+./classics_png/楷/羔_1-颜真卿.svg.png
+./classics_png/楷/羔_2-赵孟頫.svg.png
+./classics_png/楷/羔_3-智永.svg.png

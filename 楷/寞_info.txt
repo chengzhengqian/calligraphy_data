@@ -1,0 +1,2 @@
+./classics_png/楷/寞_0-石涛.svg.png
+./classics_png/楷/寞_1-颜真卿.svg.png

@@ -1,0 +1,7 @@
+./classics_png/楷/非_0-褚遂良.svg.png
+./classics_png/楷/非_1-褚遂良.svg.png
+./classics_png/楷/非_2-柳公权.svg.png
+./classics_png/楷/非_3-欧阳通.svg.png
+./classics_png/楷/非_4-欧阳询.svg.png
+./classics_png/楷/非_5-颜真卿.svg.png
+./classics_png/楷/非_6-张旭.svg.png

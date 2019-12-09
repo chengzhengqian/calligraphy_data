@@ -1,0 +1,4 @@
+./classics_png/楷/卧_0-古碑文.svg.png
+./classics_png/楷/卧_1-柳公权.svg.png
+./classics_png/楷/卧_2-柳公权.svg.png
+./classics_png/楷/卧_3-颜真卿.svg.png

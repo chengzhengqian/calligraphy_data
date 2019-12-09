@@ -1,0 +1,6 @@
+./classics_png/楷/束_0-褚遂良.svg.png
+./classics_png/楷/束_1-褚遂良.svg.png
+./classics_png/楷/束_2-爨宝子碑.svg.png
+./classics_png/楷/束_3-颜真卿.svg.png
+./classics_png/楷/束_4-张裕钊.svg.png
+./classics_png/楷/束_5-智永.svg.png

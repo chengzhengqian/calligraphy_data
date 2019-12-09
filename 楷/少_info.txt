@@ -1,0 +1,7 @@
+./classics_png/楷/少_0-贾使君碑.svg.png
+./classics_png/楷/少_1-柳公权.svg.png
+./classics_png/楷/少_2-欧阳通.svg.png
+./classics_png/楷/少_3-王庭筠.svg.png
+./classics_png/楷/少_4-颜真卿.svg.png
+./classics_png/楷/少_5-元珍墓志.svg.png
+./classics_png/楷/少_6-智永.svg.png

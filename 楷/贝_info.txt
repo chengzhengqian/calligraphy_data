@@ -1,0 +1,6 @@
+./classics_png/楷/贝_0-褚遂良.svg.png
+./classics_png/楷/贝_1-褚遂良.svg.png
+./classics_png/楷/贝_2-王羲之.svg.png
+./classics_png/楷/贝_3-魏栖梧.svg.png
+./classics_png/楷/贝_4-颜真卿.svg.png
+./classics_png/楷/贝_5-颜真卿.svg.png

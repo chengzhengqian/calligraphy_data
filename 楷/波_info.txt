@@ -1,0 +1,10 @@
+./classics_png/楷/波_0-颜真卿.svg.png
+./classics_png/楷/波_1-赵之谦.svg.png
+./classics_png/楷/波_2-褚遂良.svg.png
+./classics_png/楷/波_3-虞世南.svg.png
+./classics_png/楷/波_4-虞世南.svg.png
+./classics_png/楷/波_5-薛曜.svg.png
+./classics_png/楷/波_6-欧阳通.svg.png
+./classics_png/楷/波_7-欧阳询.svg.png
+./classics_png/楷/波_8-柳公权.svg.png
+./classics_png/楷/波_9-戴晓峰.svg.png

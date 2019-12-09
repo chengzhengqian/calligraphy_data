@@ -1,0 +1,2 @@
+./classics_png/楷/匕_0-皇象.svg.png
+./classics_png/楷/匕_1-颜真卿.svg.png

@@ -1,0 +1,7 @@
+./classics_png/楷/桑_0-褚遂良.svg.png
+./classics_png/楷/桑_1-褚遂良.svg.png
+./classics_png/楷/桑_2-颜真卿.svg.png
+./classics_png/楷/桑_3-颜真卿.svg.png
+./classics_png/楷/桑_4-虞世南.svg.png
+./classics_png/楷/桑_5-虞世南.svg.png
+./classics_png/楷/桑_6-张猛龙碑.svg.png

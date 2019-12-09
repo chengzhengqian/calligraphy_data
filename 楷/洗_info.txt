@@ -1,0 +1,6 @@
+./classics_png/楷/洗_0-褚遂良.svg.png
+./classics_png/楷/洗_1-高贞碑.svg.png
+./classics_png/楷/洗_2-柳公权.svg.png
+./classics_png/楷/洗_3-欧阳询.svg.png
+./classics_png/楷/洗_4-欧阳询.svg.png
+./classics_png/楷/洗_5-颜真卿.svg.png

@@ -1,0 +1,6 @@
+./classics_png/楷/钱_0-柳公权.svg.png
+./classics_png/楷/钱_1-薛稷.svg.png
+./classics_png/楷/钱_2-颜真卿.svg.png
+./classics_png/楷/钱_3-颜真卿.svg.png
+./classics_png/楷/钱_4-颜真卿.svg.png
+./classics_png/楷/钱_5-颜真卿.svg.png

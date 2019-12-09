@@ -1,0 +1,9 @@
+./classics_png/楷/功_0-褚遂良.svg.png
+./classics_png/楷/功_1-褚遂良.svg.png
+./classics_png/楷/功_2-柳公权.svg.png
+./classics_png/楷/功_3-欧阳询.svg.png
+./classics_png/楷/功_4-孙秋生造像.svg.png
+./classics_png/楷/功_5-颜真卿.svg.png
+./classics_png/楷/功_6-颜真卿.svg.png
+./classics_png/楷/功_7-虞世南.svg.png
+./classics_png/楷/功_8-张从申.svg.png

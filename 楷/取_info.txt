@@ -1,0 +1,7 @@
+./classics_png/楷/取_0-柳公权.svg.png
+./classics_png/楷/取_1-龙藏寺碑.svg.png
+./classics_png/楷/取_2-欧阳询.svg.png
+./classics_png/楷/取_3-欧阳询.svg.png
+./classics_png/楷/取_4-苏轼.svg.png
+./classics_png/楷/取_5-颜真卿.svg.png
+./classics_png/楷/取_6-钟繇.svg.png

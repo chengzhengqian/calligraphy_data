@@ -1,0 +1,7 @@
+./classics_png/楷/居_0-褚遂良.svg.png
+./classics_png/楷/居_1-崔敬邕墓志.svg.png
+./classics_png/楷/居_2-高庆碑.svg.png
+./classics_png/楷/居_3-王羲之.svg.png
+./classics_png/楷/居_4-颜真卿.svg.png
+./classics_png/楷/居_5-虞世南.svg.png
+./classics_png/楷/居_6-元珍墓志.svg.png

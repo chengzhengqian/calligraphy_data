@@ -1,0 +1,5 @@
+./classics_png/楷/捕_0-柳公权.svg.png
+./classics_png/楷/捕_1-欧阳询.svg.png
+./classics_png/楷/捕_2-欧阳询.svg.png
+./classics_png/楷/捕_3-颜真卿.svg.png
+./classics_png/楷/捕_4-智永.svg.png

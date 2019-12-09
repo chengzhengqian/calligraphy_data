@@ -1,0 +1,7 @@
+./classics_png/楷/岭_0-褚遂良.svg.png
+./classics_png/楷/岭_1-褚遂良.svg.png
+./classics_png/楷/岭_2-褚遂良.svg.png
+./classics_png/楷/岭_3-颜真卿.svg.png
+./classics_png/楷/岭_4-颜真卿.svg.png
+./classics_png/楷/岭_5-颜真卿.svg.png
+./classics_png/楷/岭_6-赵孟頫.svg.png

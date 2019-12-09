@@ -1,0 +1,5 @@
+./classics_png/楷/觉_0-寂照和尚碑.svg.png
+./classics_png/楷/觉_1-欧阳通.svg.png
+./classics_png/楷/觉_2-欧阳询.svg.png
+./classics_png/楷/觉_3-颜真卿.svg.png
+./classics_png/楷/觉_4-颜真卿.svg.png

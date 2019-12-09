@@ -1,0 +1,5 @@
+./classics_png/楷/伤_0-颜真卿.svg.png
+./classics_png/楷/伤_1-颜真卿.svg.png
+./classics_png/楷/伤_2-赵孟頫.svg.png
+./classics_png/楷/伤_3-智永.svg.png
+./classics_png/楷/伤_4-钟繇.svg.png

@@ -1,0 +1,6 @@
+./classics_png/楷/虫_0-残墓志.svg.png
+./classics_png/楷/虫_1-褚遂良.svg.png
+./classics_png/楷/虫_2-褚遂良.svg.png
+./classics_png/楷/虫_3-褚遂良.svg.png
+./classics_png/楷/虫_4-颜真卿.svg.png
+./classics_png/楷/虫_5-颜真卿.svg.png

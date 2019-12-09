@@ -1,0 +1,3 @@
+./classics_png/楷/鸭_0-沈传师.svg.png
+./classics_png/楷/鸭_1-颜真卿.svg.png
+./classics_png/楷/鸭_2-颜真卿.svg.png

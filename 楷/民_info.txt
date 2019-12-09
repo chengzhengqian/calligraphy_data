@@ -1,0 +1,9 @@
+./classics_png/楷/民_0-褚遂良.svg.png
+./classics_png/楷/民_1-褚遂良.svg.png
+./classics_png/楷/民_2-褚遂良.svg.png
+./classics_png/楷/民_3-米芾.svg.png
+./classics_png/楷/民_4-欧阳询.svg.png
+./classics_png/楷/民_5-颜真卿.svg.png
+./classics_png/楷/民_6-元倪墓志.svg.png
+./classics_png/楷/民_7-元珍墓志.svg.png
+./classics_png/楷/民_8-智永.svg.png

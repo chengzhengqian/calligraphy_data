@@ -1,0 +1,8 @@
+./classics_png/楷/亲_0-北海王造像.svg.png
+./classics_png/楷/亲_1-褚遂良.svg.png
+./classics_png/楷/亲_2-褚遂良.svg.png
+./classics_png/楷/亲_3-柳公权.svg.png
+./classics_png/楷/亲_4-颜真卿.svg.png
+./classics_png/楷/亲_5-颜真卿.svg.png
+./classics_png/楷/亲_6-颜真卿.svg.png
+./classics_png/楷/亲_7-张从申.svg.png

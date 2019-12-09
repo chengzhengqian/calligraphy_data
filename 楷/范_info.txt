@@ -1,0 +1,8 @@
+./classics_png/楷/范_0-欧阳通.svg.png
+./classics_png/楷/范_1-欧阳通.svg.png
+./classics_png/楷/范_2-欧阳询.svg.png
+./classics_png/楷/范_3-欧阳询.svg.png
+./classics_png/楷/范_4-王知敬.svg.png
+./classics_png/楷/范_5-颜真卿.svg.png
+./classics_png/楷/范_6-虞世南.svg.png
+./classics_png/楷/范_7-张裕钊.svg.png

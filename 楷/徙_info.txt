@@ -1,0 +1,7 @@
+./classics_png/楷/徙_0-褚遂良.svg.png
+./classics_png/楷/徙_1-蒋璨.svg.png
+./classics_png/楷/徙_2-李璧碑.svg.png
+./classics_png/楷/徙_3-龙藏寺碑.svg.png
+./classics_png/楷/徙_4-王献之.svg.png
+./classics_png/楷/徙_5-颜真卿.svg.png
+./classics_png/楷/徙_6-元珍墓志.svg.png

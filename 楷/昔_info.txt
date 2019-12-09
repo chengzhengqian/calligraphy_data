@@ -1,0 +1,8 @@
+./classics_png/楷/昔_0-褚遂良.svg.png
+./classics_png/楷/昔_1-褚遂良.svg.png
+./classics_png/楷/昔_2-李璧碑.svg.png
+./classics_png/楷/昔_3-柳公权.svg.png
+./classics_png/楷/昔_4-欧阳询.svg.png
+./classics_png/楷/昔_5-颜真卿.svg.png
+./classics_png/楷/昔_6-虞世南.svg.png
+./classics_png/楷/昔_7-虞世南.svg.png

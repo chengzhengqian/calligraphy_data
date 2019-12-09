@@ -1,0 +1,8 @@
+./classics_png/楷/力_0-褚遂良.svg.png
+./classics_png/楷/力_1-欧阳询.svg.png
+./classics_png/楷/力_2-王献之.svg.png
+./classics_png/楷/力_3-颜真卿.svg.png
+./classics_png/楷/力_4-颜真卿.svg.png
+./classics_png/楷/力_5-张猛龙碑.svg.png
+./classics_png/楷/力_6-智永.svg.png
+./classics_png/楷/力_7-钟繇.svg.png

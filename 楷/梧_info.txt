@@ -1,0 +1,6 @@
+./classics_png/楷/梧_0-褚遂良.svg.png
+./classics_png/楷/梧_1-柳公权.svg.png
+./classics_png/楷/梧_2-颜真卿.svg.png
+./classics_png/楷/梧_3-赵佶.svg.png
+./classics_png/楷/梧_4-智永.svg.png
+./classics_png/楷/梧_5-智永.svg.png

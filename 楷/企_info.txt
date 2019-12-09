@@ -1,0 +1,3 @@
+./classics_png/楷/企_0-欧阳通.svg.png
+./classics_png/楷/企_1-颜真卿.svg.png
+./classics_png/楷/企_2-昭仁寺碑.svg.png

@@ -1,0 +1,4 @@
+./classics_png/楷/羞_0-李邕.svg.png
+./classics_png/楷/羞_1-颜真卿.svg.png
+./classics_png/楷/羞_2-杨凝式.svg.png
+./classics_png/楷/羞_3-虞世南.svg.png

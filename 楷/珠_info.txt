@@ -1,0 +1,8 @@
+./classics_png/楷/珠_0-褚遂良.svg.png
+./classics_png/楷/珠_1-褚遂良.svg.png
+./classics_png/楷/珠_2-柳公权.svg.png
+./classics_png/楷/珠_3-欧阳询.svg.png
+./classics_png/楷/珠_4-欧阳询.svg.png
+./classics_png/楷/珠_5-石婉墓志.svg.png
+./classics_png/楷/珠_6-王献之.svg.png
+./classics_png/楷/珠_7-颜真卿.svg.png

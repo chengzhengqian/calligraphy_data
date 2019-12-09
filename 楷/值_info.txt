@@ -1,0 +1,4 @@
+./classics_png/楷/值_0-褚遂良.svg.png
+./classics_png/楷/值_1-褚遂良.svg.png
+./classics_png/楷/值_2-苏轼.svg.png
+./classics_png/楷/值_3-颜真卿.svg.png

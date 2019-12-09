@@ -1,0 +1,4 @@
+./classics_png/楷/魂_0-颜真卿.svg.png
+./classics_png/楷/魂_1-陆柬之.svg.png
+./classics_png/楷/魂_2-道匠造像.svg.png
+./classics_png/楷/魂_3-王知敬.svg.png

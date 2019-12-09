@@ -1,0 +1,4 @@
+./classics_png/楷/炬_0-褚遂良.svg.png
+./classics_png/楷/炬_1-褚遂良.svg.png
+./classics_png/楷/炬_2-柳公权.svg.png
+./classics_png/楷/炬_3-王羲之.svg.png

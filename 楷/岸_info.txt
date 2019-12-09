@@ -1,0 +1,5 @@
+./classics_png/楷/岸_0-褚遂良.svg.png
+./classics_png/楷/岸_1-褚遂良.svg.png
+./classics_png/楷/岸_2-欧阳通.svg.png
+./classics_png/楷/岸_3-王僧虔.svg.png
+./classics_png/楷/岸_4-颜真卿.svg.png

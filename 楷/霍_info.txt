@@ -1,0 +1,5 @@
+./classics_png/楷/霍_0-褚遂良.svg.png
+./classics_png/楷/霍_1-褚遂良.svg.png
+./classics_png/楷/霍_2-欧阳通.svg.png
+./classics_png/楷/霍_3-王羲之.svg.png
+./classics_png/楷/霍_4-颜真卿.svg.png

@@ -1,0 +1,7 @@
+./classics_png/楷/僧_0-柳公权.svg.png
+./classics_png/楷/僧_1-柳公权.svg.png
+./classics_png/楷/僧_2-王僧墓志.svg.png
+./classics_png/楷/僧_3-王僧虔.svg.png
+./classics_png/楷/僧_4-颜真卿.svg.png
+./classics_png/楷/僧_5-颜真卿.svg.png
+./classics_png/楷/僧_6-颜真卿.svg.png

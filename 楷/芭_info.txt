@@ -1,0 +1,4 @@
+./classics_png/楷/芭_0-李邕.svg.png
+./classics_png/楷/芭_1-柳公权.svg.png
+./classics_png/楷/芭_2-颜真卿.svg.png
+./classics_png/楷/芭_3-张公礼.svg.png

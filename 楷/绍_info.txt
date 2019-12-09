@@ -1,0 +1,7 @@
+./classics_png/楷/绍_0-褚遂良.svg.png
+./classics_png/楷/绍_1-高澍造像.svg.png
+./classics_png/楷/绍_2-欧阳通.svg.png
+./classics_png/楷/绍_3-欧阳通.svg.png
+./classics_png/楷/绍_4-魏灵藏造像.svg.png
+./classics_png/楷/绍_5-颜真卿.svg.png
+./classics_png/楷/绍_6-颜真卿.svg.png

@@ -1,0 +1,6 @@
+./classics_png/楷/痛_0-刁遵墓志.svg.png
+./classics_png/楷/痛_1-马鸣寺碑.svg.png
+./classics_png/楷/痛_2-欧阳询.svg.png
+./classics_png/楷/痛_3-王洽.svg.png
+./classics_png/楷/痛_4-颜真卿.svg.png
+./classics_png/楷/痛_5-元珍墓志.svg.png

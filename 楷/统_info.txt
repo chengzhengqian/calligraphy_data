@@ -1,0 +1,8 @@
+./classics_png/楷/统_0-褚遂良.svg.png
+./classics_png/楷/统_1-褚遂良.svg.png
+./classics_png/楷/统_2-柳公权.svg.png
+./classics_png/楷/统_3-宁质碑.svg.png
+./classics_png/楷/统_4-王知敬.svg.png
+./classics_png/楷/统_5-颜真卿.svg.png
+./classics_png/楷/统_6-颜真卿.svg.png
+./classics_png/楷/统_7-中岳灵庙碑.svg.png

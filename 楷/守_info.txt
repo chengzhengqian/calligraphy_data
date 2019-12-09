@@ -1,0 +1,7 @@
+./classics_png/楷/守_0-褚遂良.svg.png
+./classics_png/楷/守_1-褚遂良.svg.png
+./classics_png/楷/守_2-柳公权.svg.png
+./classics_png/楷/守_3-沈度.svg.png
+./classics_png/楷/守_4-颜真卿.svg.png
+./classics_png/楷/守_5-张玄墓志.svg.png
+./classics_png/楷/守_6-郑长猷造像.svg.png

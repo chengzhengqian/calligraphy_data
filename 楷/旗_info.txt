@@ -1,0 +1,7 @@
+./classics_png/楷/旗_0-李璧碑.svg.png
+./classics_png/楷/旗_1-李秀残碑.svg.png
+./classics_png/楷/旗_2-欧阳询.svg.png
+./classics_png/楷/旗_3-苏轼.svg.png
+./classics_png/楷/旗_4-苏轼.svg.png
+./classics_png/楷/旗_5-颜真卿.svg.png
+./classics_png/楷/旗_6-赵之谦.svg.png

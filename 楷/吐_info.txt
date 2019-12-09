@@ -1,0 +1,6 @@
+./classics_png/楷/吐_0-褚遂良.svg.png
+./classics_png/楷/吐_1-高正臣.svg.png
+./classics_png/楷/吐_2-敬使君碑.svg.png
+./classics_png/楷/吐_3-柳公权.svg.png
+./classics_png/楷/吐_4-王羲之.svg.png
+./classics_png/楷/吐_5-颜真卿.svg.png

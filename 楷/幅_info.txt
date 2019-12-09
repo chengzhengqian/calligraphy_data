@@ -1,0 +1,5 @@
+./classics_png/楷/幅_0-蔡襄.svg.png
+./classics_png/楷/幅_1-蔡襄.svg.png
+./classics_png/楷/幅_2-苏轼.svg.png
+./classics_png/楷/幅_3-王铎.svg.png
+./classics_png/楷/幅_4-颜真卿.svg.png

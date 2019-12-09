@@ -1,0 +1,7 @@
+./classics_png/楷/移_0-敬使君碑.svg.png
+./classics_png/楷/移_1-敬使君碑.svg.png
+./classics_png/楷/移_2-柳公权.svg.png
+./classics_png/楷/移_3-颜真卿.svg.png
+./classics_png/楷/移_4-张猛龙碑.svg.png
+./classics_png/楷/移_5-赵孟頫.svg.png
+./classics_png/楷/移_6-智永.svg.png

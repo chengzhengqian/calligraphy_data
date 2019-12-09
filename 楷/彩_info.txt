@@ -1,0 +1,8 @@
+./classics_png/楷/彩_0-褚遂良.svg.png
+./classics_png/楷/彩_1-褚遂良.svg.png
+./classics_png/楷/彩_2-敬善寺石象铭.svg.png
+./classics_png/楷/彩_3-柳公权.svg.png
+./classics_png/楷/彩_4-柳公权.svg.png
+./classics_png/楷/彩_5-颜真卿.svg.png
+./classics_png/楷/彩_6-张公礼.svg.png
+./classics_png/楷/彩_7-智永.svg.png

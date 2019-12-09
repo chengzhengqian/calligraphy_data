@@ -1,0 +1,6 @@
+./classics_png/楷/甫_0-褚遂良.svg.png
+./classics_png/楷/甫_1-欧阳询.svg.png
+./classics_png/楷/甫_2-王献之.svg.png
+./classics_png/楷/甫_3-颜真卿.svg.png
+./classics_png/楷/甫_4-颜真卿.svg.png
+./classics_png/楷/甫_5-赵之谦.svg.png

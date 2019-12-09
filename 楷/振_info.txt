@@ -1,0 +1,6 @@
+./classics_png/楷/振_0-褚遂良.svg.png
+./classics_png/楷/振_1-褚遂良.svg.png
+./classics_png/楷/振_2-爨龙颜碑.svg.png
+./classics_png/楷/振_3-颜真卿.svg.png
+./classics_png/楷/振_4-元珍墓志.svg.png
+./classics_png/楷/振_5-赵孟頫.svg.png

@@ -1,0 +1,5 @@
+./classics_png/楷/练_0-颜真卿.svg.png
+./classics_png/楷/练_1-颜真卿.svg.png
+./classics_png/楷/练_2-欧阳询.svg.png
+./classics_png/楷/练_3-欧阳询.svg.png
+./classics_png/楷/练_4-柳公权.svg.png

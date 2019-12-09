@@ -1,0 +1,4 @@
+./classics_png/楷/盗_0-颜真卿.svg.png
+./classics_png/楷/盗_1-赵佶.svg.png
+./classics_png/楷/盗_2-智永.svg.png
+./classics_png/楷/盗_3-智永.svg.png

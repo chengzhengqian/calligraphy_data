@@ -1,0 +1,8 @@
+./classics_png/楷/隶_0-揭傒斯.svg.png
+./classics_png/楷/隶_1-卫夫人.svg.png
+./classics_png/楷/隶_2-颜真卿.svg.png
+./classics_png/楷/隶_3-颜真卿.svg.png
+./classics_png/楷/隶_4-颜真卿.svg.png
+./classics_png/楷/隶_5-赵佶.svg.png
+./classics_png/楷/隶_6-赵孟頫.svg.png
+./classics_png/楷/隶_7-智永.svg.png

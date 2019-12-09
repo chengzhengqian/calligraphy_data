@@ -1,0 +1,6 @@
+./classics_png/楷/诲_0-褚遂良.svg.png
+./classics_png/楷/诲_1-黄庭坚.svg.png
+./classics_png/楷/诲_2-柳公权.svg.png
+./classics_png/楷/诲_3-欧阳通.svg.png
+./classics_png/楷/诲_4-颜真卿.svg.png
+./classics_png/楷/诲_5-颜真卿.svg.png

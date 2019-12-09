@@ -1,0 +1,7 @@
+./classics_png/楷/印_0-褚遂良.svg.png
+./classics_png/楷/印_1-褚遂良.svg.png
+./classics_png/楷/印_2-李邕.svg.png
+./classics_png/楷/印_3-欧阳通.svg.png
+./classics_png/楷/印_4-颜真卿.svg.png
+./classics_png/楷/印_5-颜真卿.svg.png
+./classics_png/楷/印_6-主峰禅师碑.svg.png

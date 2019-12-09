@@ -1,0 +1,6 @@
+./classics_png/楷/厚_0-蔡襄.svg.png
+./classics_png/楷/厚_1-苏孝慈墓志.svg.png
+./classics_png/楷/厚_2-王羲之.svg.png
+./classics_png/楷/厚_3-徐浩碑.svg.png
+./classics_png/楷/厚_4-颜真卿.svg.png
+./classics_png/楷/厚_5-赵之谦.svg.png

@@ -1,0 +1,5 @@
+./classics_png/楷/逝_0-欧阳通.svg.png
+./classics_png/楷/逝_1-苏轼.svg.png
+./classics_png/楷/逝_2-王羲之.svg.png
+./classics_png/楷/逝_3-颜真卿.svg.png
+./classics_png/楷/逝_4-虞世南.svg.png

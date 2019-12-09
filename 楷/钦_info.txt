@@ -1,0 +1,6 @@
+./classics_png/楷/钦_0-王羲之.svg.png
+./classics_png/楷/钦_1-鲜于枢.svg.png
+./classics_png/楷/钦_2-颜真卿.svg.png
+./classics_png/楷/钦_3-颜真卿.svg.png
+./classics_png/楷/钦_4-虞世南.svg.png
+./classics_png/楷/钦_5-虞世南.svg.png

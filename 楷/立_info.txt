@@ -1,0 +1,7 @@
+./classics_png/楷/立_0-北海王造像.svg.png
+./classics_png/楷/立_1-褚遂良.svg.png
+./classics_png/楷/立_2-褚遂良.svg.png
+./classics_png/楷/立_3-欧阳询.svg.png
+./classics_png/楷/立_4-欧阳询.svg.png
+./classics_png/楷/立_5-王献之.svg.png
+./classics_png/楷/立_6-颜真卿.svg.png

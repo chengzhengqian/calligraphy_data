@@ -1,0 +1,4 @@
+./classics_png/楷/旬_0-欧阳通.svg.png
+./classics_png/楷/旬_1-欧阳询.svg.png
+./classics_png/楷/旬_2-欧阳询.svg.png
+./classics_png/楷/旬_3-颜真卿.svg.png

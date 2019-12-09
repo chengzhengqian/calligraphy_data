@@ -1,0 +1,5 @@
+./classics_png/楷/浸_0-褚遂良.svg.png
+./classics_png/楷/浸_1-颜真卿.svg.png
+./classics_png/楷/浸_2-虞世南.svg.png
+./classics_png/楷/浸_3-虞世南.svg.png
+./classics_png/楷/浸_4-赵之谦.svg.png

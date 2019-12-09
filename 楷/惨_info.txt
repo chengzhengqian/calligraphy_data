@@ -1,0 +1,3 @@
+./classics_png/楷/惨_0-颜真卿.svg.png
+./classics_png/楷/惨_1-颜真卿.svg.png
+./classics_png/楷/惨_2-赵孟頫.svg.png

@@ -1,0 +1,4 @@
+./classics_png/楷/丸_0-王献之.svg.png
+./classics_png/楷/丸_1-颜真卿.svg.png
+./classics_png/楷/丸_2-智永.svg.png
+./classics_png/楷/丸_3-智永.svg.png

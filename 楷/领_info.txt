@@ -1,0 +1,7 @@
+./classics_png/楷/领_0-褚遂良.svg.png
+./classics_png/楷/领_1-褚遂良.svg.png
+./classics_png/楷/领_2-苏孝慈墓志.svg.png
+./classics_png/楷/领_3-颜真卿.svg.png
+./classics_png/楷/领_4-赵佶.svg.png
+./classics_png/楷/领_5-智永.svg.png
+./classics_png/楷/领_6-智永.svg.png

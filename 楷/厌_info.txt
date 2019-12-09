@@ -1,0 +1,5 @@
+./classics_png/楷/厌_0-欧阳通.svg.png
+./classics_png/楷/厌_1-王庭筠.svg.png
+./classics_png/楷/厌_2-颜真卿.svg.png
+./classics_png/楷/厌_3-颜真卿.svg.png
+./classics_png/楷/厌_4-智永.svg.png

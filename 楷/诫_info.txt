@@ -1,0 +1,5 @@
+./classics_png/楷/诫_0-颜真卿.svg.png
+./classics_png/楷/诫_1-颜真卿.svg.png
+./classics_png/楷/诫_2-赵佶.svg.png
+./classics_png/楷/诫_3-赵孟頫.svg.png
+./classics_png/楷/诫_4-智永.svg.png

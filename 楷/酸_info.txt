@@ -1,0 +1,6 @@
+./classics_png/楷/酸_0-高湛墓志.svg.png
+./classics_png/楷/酸_1-颜真卿.svg.png
+./classics_png/楷/酸_2-蔡襄.svg.png
+./classics_png/楷/酸_3-萧纲.svg.png
+./classics_png/楷/酸_4-欧阳询.svg.png
+./classics_png/楷/酸_5-崔敬邕墓志.svg.png

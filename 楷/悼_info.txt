@@ -1,0 +1,4 @@
+./classics_png/楷/悼_0-褚遂良.svg.png
+./classics_png/楷/悼_1-王献之.svg.png
+./classics_png/楷/悼_2-魏灵藏造像.svg.png
+./classics_png/楷/悼_3-颜真卿.svg.png

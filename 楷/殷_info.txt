@@ -1,0 +1,7 @@
+./classics_png/楷/殷_0-白石君碑.svg.png
+./classics_png/楷/殷_1-崔敬邕墓志.svg.png
+./classics_png/楷/殷_2-高贞碑.svg.png
+./classics_png/楷/殷_3-欧阳询.svg.png
+./classics_png/楷/殷_4-颜真卿.svg.png
+./classics_png/楷/殷_5-颜真卿.svg.png
+./classics_png/楷/殷_6-智果.svg.png

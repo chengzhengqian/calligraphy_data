@@ -1,0 +1,5 @@
+./classics_png/楷/贪_0-柳公权.svg.png
+./classics_png/楷/贪_1-欧阳通.svg.png
+./classics_png/楷/贪_2-欧阳询.svg.png
+./classics_png/楷/贪_3-颜真卿.svg.png
+./classics_png/楷/贪_4-颜真卿.svg.png

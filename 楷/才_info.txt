@@ -1,0 +1,7 @@
+./classics_png/楷/才_0-褚遂良.svg.png
+./classics_png/楷/才_1-李璧碑.svg.png
+./classics_png/楷/才_2-石婉墓志.svg.png
+./classics_png/楷/才_3-孙秋生造像.svg.png
+./classics_png/楷/才_4-颜真卿.svg.png
+./classics_png/楷/才_5-颜真卿.svg.png
+./classics_png/楷/才_6-虞世南.svg.png

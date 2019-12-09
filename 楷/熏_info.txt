@@ -1,0 +1,2 @@
+./classics_png/楷/熏_0-颜真卿.svg.png
+./classics_png/楷/熏_1-赵之谦.svg.png

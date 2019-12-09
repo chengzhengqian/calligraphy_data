@@ -1,0 +1,10 @@
+./classics_png/楷/摄_0-褚遂良.svg.png
+./classics_png/楷/摄_1-褚遂良.svg.png
+./classics_png/楷/摄_2-欧阳通.svg.png
+./classics_png/楷/摄_3-王知敬.svg.png
+./classics_png/楷/摄_4-颜真卿.svg.png
+./classics_png/楷/摄_5-颜真卿.svg.png
+./classics_png/楷/摄_6-颜真卿.svg.png
+./classics_png/楷/摄_7-赵佶.svg.png
+./classics_png/楷/摄_8-赵之谦.svg.png
+./classics_png/楷/摄_9-智永.svg.png

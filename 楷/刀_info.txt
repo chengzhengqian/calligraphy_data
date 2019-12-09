@@ -1,0 +1,4 @@
+./classics_png/楷/刀_0-柳公权.svg.png
+./classics_png/楷/刀_1-柳公权.svg.png
+./classics_png/楷/刀_2-欧阳询.svg.png
+./classics_png/楷/刀_3-颜真卿.svg.png

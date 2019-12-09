@@ -1,0 +1,7 @@
+./classics_png/楷/柱_0-褚遂良.svg.png
+./classics_png/楷/柱_1-李邕.svg.png
+./classics_png/楷/柱_2-柳公权.svg.png
+./classics_png/楷/柱_3-柳公权.svg.png
+./classics_png/楷/柱_4-欧阳询.svg.png
+./classics_png/楷/柱_5-颜真卿.svg.png
+./classics_png/楷/柱_6-赵之谦.svg.png

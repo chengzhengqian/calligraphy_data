@@ -1,0 +1,6 @@
+./classics_png/楷/萧_0-褚遂良.svg.png
+./classics_png/楷/萧_1-褚遂良.svg.png
+./classics_png/楷/萧_2-孙秋生造像.svg.png
+./classics_png/楷/萧_3-颜真卿.svg.png
+./classics_png/楷/萧_4-颜真卿.svg.png
+./classics_png/楷/萧_5-张公礼.svg.png

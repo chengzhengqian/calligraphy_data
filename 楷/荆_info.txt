@@ -1,0 +1,4 @@
+./classics_png/楷/荆_0-米芾.svg.png
+./classics_png/楷/荆_1-石婉墓志.svg.png
+./classics_png/楷/荆_2-颜真卿.svg.png
+./classics_png/楷/荆_3-张旭.svg.png

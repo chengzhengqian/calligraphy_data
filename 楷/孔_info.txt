@@ -1,0 +1,6 @@
+./classics_png/楷/孔_0-蔡襄.svg.png
+./classics_png/楷/孔_1-褚遂良.svg.png
+./classics_png/楷/孔_2-褚遂良.svg.png
+./classics_png/楷/孔_3-李璧碑.svg.png
+./classics_png/楷/孔_4-颜真卿.svg.png
+./classics_png/楷/孔_5-虞世南.svg.png

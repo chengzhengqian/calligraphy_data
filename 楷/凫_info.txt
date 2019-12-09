@@ -1,0 +1,5 @@
+./classics_png/楷/凫_0-颜真卿.svg.png
+./classics_png/楷/凫_1-颜真卿.svg.png
+./classics_png/楷/凫_2-赵孟頫.svg.png
+./classics_png/楷/凫_3-欧阳通.svg.png
+./classics_png/楷/凫_4-张猛龙碑.svg.png

@@ -1,0 +1,7 @@
+./classics_png/楷/左_0-解伯都造像.svg.png
+./classics_png/楷/左_1-柳公权.svg.png
+./classics_png/楷/左_2-柳公权.svg.png
+./classics_png/楷/左_3-王献之.svg.png
+./classics_png/楷/左_4-元珍墓志.svg.png
+./classics_png/楷/左_5-赵孟頫.svg.png
+./classics_png/楷/左_6-智永.svg.png

@@ -1,0 +1,6 @@
+./classics_png/楷/泛_0-褚遂良.svg.png
+./classics_png/楷/泛_1-欧阳通.svg.png
+./classics_png/楷/泛_2-苏孝慈墓志.svg.png
+./classics_png/楷/泛_3-唐寅.svg.png
+./classics_png/楷/泛_4-颜真卿.svg.png
+./classics_png/楷/泛_5-昭仁寺碑.svg.png

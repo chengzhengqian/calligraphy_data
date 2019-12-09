@@ -1,0 +1,3 @@
+./classics_png/楷/拓_0-李君佛龛碑.svg.png
+./classics_png/楷/拓_1-颜真卿.svg.png
+./classics_png/楷/拓_2-赵之谦.svg.png

@@ -1,0 +1,6 @@
+./classics_png/楷/凭_0-褚遂良.svg.png
+./classics_png/楷/凭_1-褚遂良.svg.png
+./classics_png/楷/凭_2-苏轼.svg.png
+./classics_png/楷/凭_3-颜真卿.svg.png
+./classics_png/楷/凭_4-颜真卿.svg.png
+./classics_png/楷/凭_5-颜真卿.svg.png

@@ -1,0 +1,9 @@
+./classics_png/楷/践_0-褚遂良.svg.png
+./classics_png/楷/践_1-褚遂良.svg.png
+./classics_png/楷/践_2-欧阳通.svg.png
+./classics_png/楷/践_3-颜真卿.svg.png
+./classics_png/楷/践_4-颜真卿.svg.png
+./classics_png/楷/践_5-颜真卿.svg.png
+./classics_png/楷/践_6-张裕钊.svg.png
+./classics_png/楷/践_7-赵孟頫.svg.png
+./classics_png/楷/践_8-智永.svg.png

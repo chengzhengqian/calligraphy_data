@@ -1,0 +1,3 @@
+./classics_png/楷/础_0-欧阳通.svg.png
+./classics_png/楷/础_1-颜真卿.svg.png
+./classics_png/楷/础_2-颜真卿.svg.png

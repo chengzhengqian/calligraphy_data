@@ -1,0 +1,4 @@
+./classics_png/楷/聘_0-苏孝慈墓志.svg.png
+./classics_png/楷/聘_1-苏孝慈墓志.svg.png
+./classics_png/楷/聘_2-五经文字.svg.png
+./classics_png/楷/聘_3-颜真卿.svg.png

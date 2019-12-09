@@ -1,0 +1,6 @@
+./classics_png/楷/屈_0-李世民.svg.png
+./classics_png/楷/屈_1-欧阳询.svg.png
+./classics_png/楷/屈_2-王羲之.svg.png
+./classics_png/楷/屈_3-颜真卿.svg.png
+./classics_png/楷/屈_4-殷令名.svg.png
+./classics_png/楷/屈_5-元倪墓志.svg.png

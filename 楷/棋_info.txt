@@ -1,0 +1,5 @@
+./classics_png/楷/棋_0-董美人墓志.svg.png
+./classics_png/楷/棋_1-欧阳询.svg.png
+./classics_png/楷/棋_2-颜真卿.svg.png
+./classics_png/楷/棋_3-昭仁寺碑.svg.png
+./classics_png/楷/棋_4-昭仁寺碑.svg.png

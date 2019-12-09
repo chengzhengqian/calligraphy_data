@@ -1,0 +1,3 @@
+./classics_png/楷/输_0-柳公权.svg.png
+./classics_png/楷/输_1-颜真卿.svg.png
+./classics_png/楷/输_2-颜真卿.svg.png

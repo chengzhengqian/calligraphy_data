@@ -1,0 +1,7 @@
+./classics_png/楷/壁_0-蔡襄.svg.png
+./classics_png/楷/壁_1-枋口河记.svg.png
+./classics_png/楷/壁_2-欧阳询.svg.png
+./classics_png/楷/壁_3-欧阳询.svg.png
+./classics_png/楷/壁_4-颜真卿.svg.png
+./classics_png/楷/壁_5-赵孟頫.svg.png
+./classics_png/楷/壁_6-智永.svg.png

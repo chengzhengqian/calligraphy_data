@@ -1,0 +1,4 @@
+./classics_png/楷/贬_0-蔡襄.svg.png
+./classics_png/楷/贬_1-颜真卿.svg.png
+./classics_png/楷/贬_2-颜真卿.svg.png
+./classics_png/楷/贬_3-虞世南.svg.png

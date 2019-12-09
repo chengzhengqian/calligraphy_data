@@ -1,0 +1,5 @@
+./classics_png/楷/预_0-欧阳询.svg.png
+./classics_png/楷/预_1-颜真卿.svg.png
+./classics_png/楷/预_2-虞世南.svg.png
+./classics_png/楷/预_3-虞世南.svg.png
+./classics_png/楷/预_4-赵孟頫.svg.png

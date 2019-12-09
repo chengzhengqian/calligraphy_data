@@ -1,0 +1,5 @@
+./classics_png/楷/醇_0-欧阳通.svg.png
+./classics_png/楷/醇_1-颜真卿.svg.png
+./classics_png/楷/醇_2-张从申.svg.png
+./classics_png/楷/醇_3-郑板桥.svg.png
+./classics_png/楷/醇_4-中岳灵庙碑.svg.png

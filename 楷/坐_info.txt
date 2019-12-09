@@ -1,0 +1,5 @@
+./classics_png/楷/坐_0-李璧碑.svg.png
+./classics_png/楷/坐_1-欧阳通.svg.png
+./classics_png/楷/坐_2-颜真卿.svg.png
+./classics_png/楷/坐_3-张公礼.svg.png
+./classics_png/楷/坐_4-赵佶.svg.png

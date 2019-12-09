@@ -1,0 +1,4 @@
+./classics_png/楷/裳_0-石经礼记.svg.png
+./classics_png/楷/裳_1-颜真卿.svg.png
+./classics_png/楷/裳_2-智永.svg.png
+./classics_png/楷/裳_3-智永.svg.png

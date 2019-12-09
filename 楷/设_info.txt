@@ -1,0 +1,10 @@
+./classics_png/楷/设_0-褚遂良.svg.png
+./classics_png/楷/设_1-董其昌.svg.png
+./classics_png/楷/设_2-柳公权.svg.png
+./classics_png/楷/设_3-欧阳询.svg.png
+./classics_png/楷/设_4-欧阳询.svg.png
+./classics_png/楷/设_5-颜真卿.svg.png
+./classics_png/楷/设_6-颜真卿.svg.png
+./classics_png/楷/设_7-虞世南.svg.png
+./classics_png/楷/设_8-赵孟頫.svg.png
+./classics_png/楷/设_9-智永.svg.png

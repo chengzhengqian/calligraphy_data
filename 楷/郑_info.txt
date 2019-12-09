@@ -1,0 +1,5 @@
+./classics_png/楷/郑_0-褚遂良.svg.png
+./classics_png/楷/郑_1-褚遂良.svg.png
+./classics_png/楷/郑_2-颜真卿.svg.png
+./classics_png/楷/郑_3-颜真卿.svg.png
+./classics_png/楷/郑_4-郑长猷造像.svg.png

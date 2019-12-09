@@ -1,0 +1,10 @@
+./classics_png/楷/即_0-北海王造像.svg.png
+./classics_png/楷/即_1-高贞碑.svg.png
+./classics_png/楷/即_2-敬客.svg.png
+./classics_png/楷/即_3-李世民.svg.png
+./classics_png/楷/即_4-柳公权.svg.png
+./classics_png/楷/即_5-王羲之.svg.png
+./classics_png/楷/即_6-薛曜.svg.png
+./classics_png/楷/即_7-颜真卿.svg.png
+./classics_png/楷/即_8-颜真卿.svg.png
+./classics_png/楷/即_9-智永.svg.png

@@ -1,0 +1,5 @@
+./classics_png/楷/英_0-欧阳询.svg.png
+./classics_png/楷/英_1-欧阳询.svg.png
+./classics_png/楷/英_2-王知敬.svg.png
+./classics_png/楷/英_3-颜真卿.svg.png
+./classics_png/楷/英_4-杨大眼造像.svg.png

@@ -1,0 +1,8 @@
+./classics_png/楷/泰_0-褚遂良.svg.png
+./classics_png/楷/泰_1-柳公权.svg.png
+./classics_png/楷/泰_2-欧阳询.svg.png
+./classics_png/楷/泰_3-欧阳询.svg.png
+./classics_png/楷/泰_4-颜真卿.svg.png
+./classics_png/楷/泰_5-颜真卿.svg.png
+./classics_png/楷/泰_6-虞世南.svg.png
+./classics_png/楷/泰_7-虞世南.svg.png

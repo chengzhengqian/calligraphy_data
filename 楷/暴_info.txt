@@ -1,0 +1,3 @@
+./classics_png/楷/暴_0-王庭筠.svg.png
+./classics_png/楷/暴_1-颜真卿.svg.png
+./classics_png/楷/暴_2-赵孟頫.svg.png

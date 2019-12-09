@@ -1,0 +1,5 @@
+./classics_png/楷/巡_0-褚遂良.svg.png
+./classics_png/楷/巡_1-褚遂良.svg.png
+./classics_png/楷/巡_2-古碑文.svg.png
+./classics_png/楷/巡_3-颜真卿.svg.png
+./classics_png/楷/巡_4-昭仁寺碑.svg.png

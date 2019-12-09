@@ -1,0 +1,10 @@
+./classics_png/楷/谈_0-黄庭坚.svg.png
+./classics_png/楷/谈_1-揭傒斯.svg.png
+./classics_png/楷/谈_2-柳公权.svg.png
+./classics_png/楷/谈_3-柳公权.svg.png
+./classics_png/楷/谈_4-欧阳通.svg.png
+./classics_png/楷/谈_5-颜真卿.svg.png
+./classics_png/楷/谈_6-颜真卿.svg.png
+./classics_png/楷/谈_7-虞世南.svg.png
+./classics_png/楷/谈_8-张玄墓志.svg.png
+./classics_png/楷/谈_9-赵佶.svg.png

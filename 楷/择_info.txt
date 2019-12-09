@@ -1,0 +1,3 @@
+./classics_png/楷/择_0-褚遂良.svg.png
+./classics_png/楷/择_1-柳公权.svg.png
+./classics_png/楷/择_2-石经孝经.svg.png

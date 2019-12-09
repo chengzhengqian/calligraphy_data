@@ -1,0 +1,6 @@
+./classics_png/楷/辟_0-陈兴义.svg.png
+./classics_png/楷/辟_1-柳公权.svg.png
+./classics_png/楷/辟_2-欧阳通.svg.png
+./classics_png/楷/辟_3-欧阳询.svg.png
+./classics_png/楷/辟_4-颜真卿.svg.png
+./classics_png/楷/辟_5-颜真卿.svg.png

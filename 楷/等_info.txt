@@ -1,0 +1,6 @@
+./classics_png/楷/等_0-柳公权.svg.png
+./classics_png/楷/等_1-孙秋生造像.svg.png
+./classics_png/楷/等_2-翁闓运.svg.png
+./classics_png/楷/等_3-颜真卿.svg.png
+./classics_png/楷/等_4-虞世南.svg.png
+./classics_png/楷/等_5-虞世南.svg.png

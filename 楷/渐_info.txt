@@ -1,0 +1,7 @@
+./classics_png/楷/渐_0-哀帝.svg.png
+./classics_png/楷/渐_1-辟雍碑.svg.png
+./classics_png/楷/渐_2-爨宝子碑.svg.png
+./classics_png/楷/渐_3-王知敬.svg.png
+./classics_png/楷/渐_4-颜真卿.svg.png
+./classics_png/楷/渐_5-颜真卿.svg.png
+./classics_png/楷/渐_6-郑道昭.svg.png

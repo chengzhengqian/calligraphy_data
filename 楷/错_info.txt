@@ -1,0 +1,5 @@
+./classics_png/楷/错_0-颜真卿.svg.png
+./classics_png/楷/错_1-颜真卿.svg.png
+./classics_png/楷/错_2-颜真卿.svg.png
+./classics_png/楷/错_3-殷令名.svg.png
+./classics_png/楷/错_4-中岳灵庙碑.svg.png

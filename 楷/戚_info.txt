@@ -1,0 +1,6 @@
+./classics_png/楷/戚_0-褚遂良.svg.png
+./classics_png/楷/戚_1-高贞碑.svg.png
+./classics_png/楷/戚_2-李璧碑.svg.png
+./classics_png/楷/戚_3-颜真卿.svg.png
+./classics_png/楷/戚_4-智永.svg.png
+./classics_png/楷/戚_5-钟繇.svg.png

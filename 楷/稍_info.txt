@@ -1,0 +1,4 @@
+./classics_png/楷/稍_0-柳公权.svg.png
+./classics_png/楷/稍_1-颜真卿.svg.png
+./classics_png/楷/稍_2-元倪墓志.svg.png
+./classics_png/楷/稍_3-张裕钊.svg.png

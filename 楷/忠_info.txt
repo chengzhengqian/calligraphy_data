@@ -1,0 +1,6 @@
+./classics_png/楷/忠_0-欧阳询.svg.png
+./classics_png/楷/忠_1-颜真卿.svg.png
+./classics_png/楷/忠_2-元珍墓志.svg.png
+./classics_png/楷/忠_3-赵孟頫.svg.png
+./classics_png/楷/忠_4-赵孟頫.svg.png
+./classics_png/楷/忠_5-智永.svg.png

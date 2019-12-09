@@ -1,0 +1,10 @@
+./classics_png/楷/岩_0-褚遂良.svg.png
+./classics_png/楷/岩_1-高正臣.svg.png
+./classics_png/楷/岩_2-欧阳通.svg.png
+./classics_png/楷/岩_3-魏栖梧.svg.png
+./classics_png/楷/岩_4-颜真卿.svg.png
+./classics_png/楷/岩_5-颜真卿.svg.png
+./classics_png/楷/岩_6-颜真卿.svg.png
+./classics_png/楷/岩_7-张猛龙碑.svg.png
+./classics_png/楷/岩_8-赵孟頫.svg.png
+./classics_png/楷/岩_9-智永.svg.png

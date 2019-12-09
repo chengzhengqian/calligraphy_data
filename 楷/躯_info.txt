@@ -1,0 +1,4 @@
+./classics_png/楷/躯_0-王献之.svg.png
+./classics_png/楷/躯_1-颜真卿.svg.png
+./classics_png/楷/躯_2-颜真卿.svg.png
+./classics_png/楷/躯_3-郑长猷造像.svg.png

@@ -1,0 +1,11 @@
+./classics_png/楷/升_0-褚遂良.svg.png
+./classics_png/楷/升_1-褚遂良.svg.png
+./classics_png/楷/升_2-欧阳通.svg.png
+./classics_png/楷/升_3-苏轼.svg.png
+./classics_png/楷/升_4-颜真卿.svg.png
+./classics_png/楷/升_5-虞世南.svg.png
+./classics_png/楷/升_6-虞世南.svg.png
+./classics_png/楷/升_7-虞世南.svg.png
+./classics_png/楷/升_8-赵孟頫.svg.png
+./classics_png/楷/升_9-赵孟頫.svg.png
+./classics_png/楷/升_10-智永.svg.png

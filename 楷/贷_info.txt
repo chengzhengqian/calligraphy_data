@@ -1,0 +1,4 @@
+./classics_png/楷/贷_0-残莲花经.svg.png
+./classics_png/楷/贷_1-颜真卿.svg.png
+./classics_png/楷/贷_2-颜真卿.svg.png
+./classics_png/楷/贷_3-赵之谦.svg.png

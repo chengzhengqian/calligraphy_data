@@ -1,0 +1,4 @@
+./classics_png/楷/似_0-颜真卿.svg.png
+./classics_png/楷/似_1-虞世南.svg.png
+./classics_png/楷/似_2-柳公权.svg.png
+./classics_png/楷/似_3-智永.svg.png

@@ -1,0 +1,5 @@
+./classics_png/楷/朝_0-褚遂良.svg.png
+./classics_png/楷/朝_1-褚遂良.svg.png
+./classics_png/楷/朝_2-柳公权.svg.png
+./classics_png/楷/朝_3-欧阳询.svg.png
+./classics_png/楷/朝_4-颜真卿.svg.png

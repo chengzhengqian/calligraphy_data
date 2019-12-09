@@ -1,0 +1,6 @@
+./classics_png/楷/径_0-褚遂良.svg.png
+./classics_png/楷/径_1-何绍基.svg.png
+./classics_png/楷/径_2-柳公权.svg.png
+./classics_png/楷/径_3-王良相.svg.png
+./classics_png/楷/径_4-颜真卿.svg.png
+./classics_png/楷/径_5-颜真卿.svg.png

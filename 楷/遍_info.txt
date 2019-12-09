@@ -1,0 +1,5 @@
+./classics_png/楷/遍_0-柳公权.svg.png
+./classics_png/楷/遍_1-魏栖梧.svg.png
+./classics_png/楷/遍_2-颜真卿.svg.png
+./classics_png/楷/遍_3-虞世南.svg.png
+./classics_png/楷/遍_4-虞世南.svg.png

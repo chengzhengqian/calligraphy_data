@@ -1,0 +1,3 @@
+./classics_png/楷/萨_0-颜真卿.svg.png
+./classics_png/楷/萨_1-颜真卿.svg.png
+./classics_png/楷/萨_2-颜真卿.svg.png

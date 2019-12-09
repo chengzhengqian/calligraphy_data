@@ -1,0 +1,5 @@
+./classics_png/楷/聪_0-褚遂良.svg.png
+./classics_png/楷/聪_1-欧阳通.svg.png
+./classics_png/楷/聪_2-欧阳询.svg.png
+./classics_png/楷/聪_3-石婉墓志.svg.png
+./classics_png/楷/聪_4-颜真卿.svg.png

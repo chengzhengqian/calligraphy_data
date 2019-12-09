@@ -1,0 +1,6 @@
+./classics_png/楷/嘉_0-褚遂良.svg.png
+./classics_png/楷/嘉_1-褚遂良.svg.png
+./classics_png/楷/嘉_2-爨宝子碑.svg.png
+./classics_png/楷/嘉_3-王献之.svg.png
+./classics_png/楷/嘉_4-颜真卿.svg.png
+./classics_png/楷/嘉_5-颜真卿.svg.png

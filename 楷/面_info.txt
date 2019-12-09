@@ -1,0 +1,8 @@
+./classics_png/楷/面_0-褚遂良.svg.png
+./classics_png/楷/面_1-宋头伯造象.svg.png
+./classics_png/楷/面_2-颜真卿.svg.png
+./classics_png/楷/面_3-颜真卿.svg.png
+./classics_png/楷/面_4-颜真卿.svg.png
+./classics_png/楷/面_5-张猛龙碑.svg.png
+./classics_png/楷/面_6-赵佶.svg.png
+./classics_png/楷/面_7-智永.svg.png

@@ -1,0 +1,5 @@
+./classics_png/楷/种_0-柳公权.svg.png
+./classics_png/楷/种_1-嵩山陀罗尼经.svg.png
+./classics_png/楷/种_2-颜真卿.svg.png
+./classics_png/楷/种_3-颜真卿.svg.png
+./classics_png/楷/种_4-张公礼.svg.png

@@ -1,0 +1,5 @@
+./classics_png/楷/浩_0-颜真卿.svg.png
+./classics_png/楷/浩_1-颜真卿.svg.png
+./classics_png/楷/浩_2-张廉卿.svg.png
+./classics_png/楷/浩_3-赵孟頫.svg.png
+./classics_png/楷/浩_4-赵之谦.svg.png

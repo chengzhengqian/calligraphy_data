@@ -1,0 +1,5 @@
+./classics_png/楷/颇_0-柳公权.svg.png
+./classics_png/楷/颇_1-颜真卿.svg.png
+./classics_png/楷/颇_2-颜真卿.svg.png
+./classics_png/楷/颇_3-颜真卿.svg.png
+./classics_png/楷/颇_4-智永.svg.png

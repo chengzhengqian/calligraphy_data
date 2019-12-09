@@ -1,0 +1,8 @@
+./classics_png/楷/寺_0-褚遂良.svg.png
+./classics_png/楷/寺_1-褚遂良.svg.png
+./classics_png/楷/寺_2-褚遂良.svg.png
+./classics_png/楷/寺_3-柳公权.svg.png
+./classics_png/楷/寺_4-柳公权.svg.png
+./classics_png/楷/寺_5-颜真卿.svg.png
+./classics_png/楷/寺_6-颜真卿.svg.png
+./classics_png/楷/寺_7-赵孟頫.svg.png

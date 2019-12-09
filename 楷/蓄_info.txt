@@ -1,0 +1,3 @@
+./classics_png/楷/蓄_0-陆丞相.svg.png
+./classics_png/楷/蓄_1-颜真卿.svg.png
+./classics_png/楷/蓄_2-张裕钊.svg.png

@@ -1,0 +1,3 @@
+./classics_png/楷/棕_0-褚遂良.svg.png
+./classics_png/楷/棕_1-翁闓运.svg.png
+./classics_png/楷/棕_2-颜真卿.svg.png

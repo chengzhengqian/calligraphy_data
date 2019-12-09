@@ -1,0 +1,4 @@
+./classics_png/楷/坊_0-高贞碑.svg.png
+./classics_png/楷/坊_1-石婉墓志.svg.png
+./classics_png/楷/坊_2-颜师古.svg.png
+./classics_png/楷/坊_3-颜真卿.svg.png

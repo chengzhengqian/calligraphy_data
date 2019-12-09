@@ -1,0 +1,3 @@
+./classics_png/楷/妥_0-颜真卿.svg.png
+./classics_png/楷/妥_1-张廉卿.svg.png
+./classics_png/楷/妥_2-赵之谦.svg.png

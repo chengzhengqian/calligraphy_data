@@ -1,0 +1,2 @@
+./classics_png/楷/诡_0-李超墓志.svg.png
+./classics_png/楷/诡_1-龙藏寺碑.svg.png

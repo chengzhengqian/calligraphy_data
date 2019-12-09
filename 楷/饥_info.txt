@@ -1,0 +1,6 @@
+./classics_png/楷/饥_0-褚遂良.svg.png
+./classics_png/楷/饥_1-颜真卿.svg.png
+./classics_png/楷/饥_2-颜真卿.svg.png
+./classics_png/楷/饥_3-元珍墓志.svg.png
+./classics_png/楷/饥_4-智永.svg.png
+./classics_png/楷/饥_5-智永.svg.png

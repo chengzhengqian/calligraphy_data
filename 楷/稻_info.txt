@@ -1,0 +1,3 @@
+./classics_png/楷/稻_0-柳公权.svg.png
+./classics_png/楷/稻_1-颜真卿.svg.png
+./classics_png/楷/稻_2-赵之谦.svg.png

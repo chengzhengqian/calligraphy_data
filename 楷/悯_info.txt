@@ -1,0 +1,4 @@
+./classics_png/楷/悯_0-柳公权.svg.png
+./classics_png/楷/悯_1-乃贤.svg.png
+./classics_png/楷/悯_2-颜真卿.svg.png
+./classics_png/楷/悯_3-颜真卿.svg.png

@@ -1,0 +1,4 @@
+./classics_png/楷/挽_0-隶辨.svg.png
+./classics_png/楷/挽_1-颜真卿.svg.png
+./classics_png/楷/挽_2-颜真卿.svg.png
+./classics_png/楷/挽_3-元珍墓志.svg.png

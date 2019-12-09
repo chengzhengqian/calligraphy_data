@@ -1,0 +1,6 @@
+./classics_png/楷/块_0-褚遂良.svg.png
+./classics_png/楷/块_1-褚遂良.svg.png
+./classics_png/楷/块_2-柳公权.svg.png
+./classics_png/楷/块_3-裴氏墓志.svg.png
+./classics_png/楷/块_4-颜真卿.svg.png
+./classics_png/楷/块_5-颜真卿.svg.png

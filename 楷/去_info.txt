@@ -1,0 +1,8 @@
+./classics_png/楷/去_0-道匠造像.svg.png
+./classics_png/楷/去_1-李璧碑.svg.png
+./classics_png/楷/去_2-马鸣寺碑.svg.png
+./classics_png/楷/去_3-欧阳通.svg.png
+./classics_png/楷/去_4-欧阳询.svg.png
+./classics_png/楷/去_5-欧阳询.svg.png
+./classics_png/楷/去_6-颜真卿.svg.png
+./classics_png/楷/去_7-虞世南.svg.png

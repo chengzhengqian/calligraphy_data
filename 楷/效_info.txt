@@ -1,0 +1,10 @@
+./classics_png/楷/效_0-符麟碑.svg.png
+./classics_png/楷/效_1-敬使君碑.svg.png
+./classics_png/楷/效_2-柳公权.svg.png
+./classics_png/楷/效_3-欧阳询.svg.png
+./classics_png/楷/效_4-欧阳询.svg.png
+./classics_png/楷/效_5-欧阳询.svg.png
+./classics_png/楷/效_6-欧阳询.svg.png
+./classics_png/楷/效_7-颜真卿.svg.png
+./classics_png/楷/效_8-智永.svg.png
+./classics_png/楷/效_9-智永.svg.png

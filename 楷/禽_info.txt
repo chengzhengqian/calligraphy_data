@@ -1,0 +1,8 @@
+./classics_png/楷/禽_0-揭傒斯.svg.png
+./classics_png/楷/禽_1-欧阳通.svg.png
+./classics_png/楷/禽_2-欧阳询.svg.png
+./classics_png/楷/禽_3-苏轼.svg.png
+./classics_png/楷/禽_4-王羲之.svg.png
+./classics_png/楷/禽_5-颜真卿.svg.png
+./classics_png/楷/禽_6-赵佶.svg.png
+./classics_png/楷/禽_7-赵孟頫.svg.png

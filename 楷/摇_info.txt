@@ -1,0 +1,6 @@
+./classics_png/楷/摇_0-褚遂良.svg.png
+./classics_png/楷/摇_1-揭傒斯.svg.png
+./classics_png/楷/摇_2-述圣颂.svg.png
+./classics_png/楷/摇_3-颜真卿.svg.png
+./classics_png/楷/摇_4-赵孟頫.svg.png
+./classics_png/楷/摇_5-智永.svg.png

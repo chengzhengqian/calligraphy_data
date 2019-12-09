@@ -1,0 +1,11 @@
+./classics_png/楷/详_0-揭傒斯.svg.png
+./classics_png/楷/详_1-敬客.svg.png
+./classics_png/楷/详_2-柳公权.svg.png
+./classics_png/楷/详_3-颜真卿.svg.png
+./classics_png/楷/详_4-颜真卿.svg.png
+./classics_png/楷/详_5-元详造像.svg.png
+./classics_png/楷/详_6-张从申.svg.png
+./classics_png/楷/详_7-张猛龙碑.svg.png
+./classics_png/楷/详_8-赵佶.svg.png
+./classics_png/楷/详_9-赵孟頫.svg.png
+./classics_png/楷/详_10-智永.svg.png

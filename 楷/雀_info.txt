@@ -1,0 +1,3 @@
+./classics_png/楷/雀_0-圣母寺造象.svg.png
+./classics_png/楷/雀_1-孙秋生造像.svg.png
+./classics_png/楷/雀_2-颜真卿.svg.png

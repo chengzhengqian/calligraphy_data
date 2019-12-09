@@ -1,0 +1,3 @@
+./classics_png/楷/怖_0-古写经.svg.png
+./classics_png/楷/怖_1-柳公权.svg.png
+./classics_png/楷/怖_2-颜真卿.svg.png

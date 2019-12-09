@@ -1,0 +1,6 @@
+./classics_png/楷/戏_0-黄庭坚.svg.png
+./classics_png/楷/戏_1-李世民.svg.png
+./classics_png/楷/戏_2-欧阳询.svg.png
+./classics_png/楷/戏_3-颜真卿.svg.png
+./classics_png/楷/戏_4-颜真卿.svg.png
+./classics_png/楷/戏_5-颜真卿.svg.png

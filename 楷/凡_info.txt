@@ -1,0 +1,9 @@
+./classics_png/楷/凡_0-褚遂良.svg.png
+./classics_png/楷/凡_1-褚遂良.svg.png
+./classics_png/楷/凡_2-褚遂良.svg.png
+./classics_png/楷/凡_3-柳公权.svg.png
+./classics_png/楷/凡_4-柳公权.svg.png
+./classics_png/楷/凡_5-魏灵藏造像.svg.png
+./classics_png/楷/凡_6-颜真卿.svg.png
+./classics_png/楷/凡_7-颜真卿.svg.png
+./classics_png/楷/凡_8-赵孟頫.svg.png

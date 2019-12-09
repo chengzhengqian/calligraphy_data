@@ -1,0 +1,6 @@
+./classics_png/楷/惑_0-褚遂良.svg.png
+./classics_png/楷/惑_1-褚遂良.svg.png
+./classics_png/楷/惑_2-褚遂良.svg.png
+./classics_png/楷/惑_3-欧阳询.svg.png
+./classics_png/楷/惑_4-颜真卿.svg.png
+./classics_png/楷/惑_5-张从申.svg.png

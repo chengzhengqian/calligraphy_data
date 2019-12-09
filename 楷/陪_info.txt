@@ -1,0 +1,6 @@
+./classics_png/楷/陪_0-李璧碑.svg.png
+./classics_png/楷/陪_1-李邕.svg.png
+./classics_png/楷/陪_2-欧阳通.svg.png
+./classics_png/楷/陪_3-颜真卿.svg.png
+./classics_png/楷/陪_4-赵孟頫.svg.png
+./classics_png/楷/陪_5-智永.svg.png

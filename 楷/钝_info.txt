@@ -1,0 +1,3 @@
+./classics_png/楷/钝_0-大佑.svg.png
+./classics_png/楷/钝_1-颜真卿.svg.png
+./classics_png/楷/钝_2-颜真卿.svg.png

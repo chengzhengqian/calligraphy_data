@@ -1,0 +1,6 @@
+./classics_png/楷/收_0-欧阳询.svg.png
+./classics_png/楷/收_1-王知敬.svg.png
+./classics_png/楷/收_2-颜真卿.svg.png
+./classics_png/楷/收_3-颜真卿.svg.png
+./classics_png/楷/收_4-赵孟頫.svg.png
+./classics_png/楷/收_5-智永.svg.png

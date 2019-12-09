@@ -1,0 +1,2 @@
+./classics_png/楷/薪_0-颜真卿.svg.png
+./classics_png/楷/薪_1-智永.svg.png

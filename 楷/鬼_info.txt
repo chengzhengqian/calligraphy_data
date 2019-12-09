@@ -1,0 +1,5 @@
+./classics_png/楷/鬼_0-李邕.svg.png
+./classics_png/楷/鬼_1-颜真卿.svg.png
+./classics_png/楷/鬼_2-张公礼.svg.png
+./classics_png/楷/鬼_3-赵孟頫.svg.png
+./classics_png/楷/鬼_4-钟繇.svg.png

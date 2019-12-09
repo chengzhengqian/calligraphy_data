@@ -1,0 +1,7 @@
+./classics_png/楷/火_0-褚遂良.svg.png
+./classics_png/楷/火_1-褚遂良.svg.png
+./classics_png/楷/火_2-欧阳通.svg.png
+./classics_png/楷/火_3-颜真卿.svg.png
+./classics_png/楷/火_4-颜真卿.svg.png
+./classics_png/楷/火_5-智永.svg.png
+./classics_png/楷/火_6-智永.svg.png

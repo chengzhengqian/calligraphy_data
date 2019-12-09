@@ -1,0 +1,10 @@
+./classics_png/楷/获_0-褚遂良.svg.png
+./classics_png/楷/获_1-褚遂良.svg.png
+./classics_png/楷/获_2-揭傒斯.svg.png
+./classics_png/楷/获_3-柳公权.svg.png
+./classics_png/楷/获_4-颜真卿.svg.png
+./classics_png/楷/获_5-颜真卿.svg.png
+./classics_png/楷/获_6-颜真卿.svg.png
+./classics_png/楷/获_7-赵孟頫.svg.png
+./classics_png/楷/获_8-赵孟頫.svg.png
+./classics_png/楷/获_9-智永.svg.png

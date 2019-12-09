@@ -1,0 +1,5 @@
+./classics_png/楷/控_0-褚遂良.svg.png
+./classics_png/楷/控_1-爨龙颜碑.svg.png
+./classics_png/楷/控_2-欧阳询.svg.png
+./classics_png/楷/控_3-颜真卿.svg.png
+./classics_png/楷/控_4-殷令名.svg.png

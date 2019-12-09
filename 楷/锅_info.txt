@@ -1,0 +1,2 @@
+./classics_png/楷/锅_0-颜真卿.svg.png
+./classics_png/楷/锅_1-颜真卿.svg.png

@@ -1,0 +1,7 @@
+./classics_png/楷/赖_0-龙藏寺碑.svg.png
+./classics_png/楷/赖_1-颜真卿.svg.png
+./classics_png/楷/赖_2-颜真卿.svg.png
+./classics_png/楷/赖_3-张猛龙碑.svg.png
+./classics_png/楷/赖_4-赵佶.svg.png
+./classics_png/楷/赖_5-赵孟頫.svg.png
+./classics_png/楷/赖_6-智永.svg.png

@@ -1,0 +1,7 @@
+./classics_png/楷/彰_0-欧阳询.svg.png
+./classics_png/楷/彰_1-王知敬.svg.png
+./classics_png/楷/彰_2-薛稷.svg.png
+./classics_png/楷/彰_3-颜真卿.svg.png
+./classics_png/楷/彰_4-元珍墓志.svg.png
+./classics_png/楷/彰_5-张贵南墓志.svg.png
+./classics_png/楷/彰_6-赵孟頫.svg.png

@@ -1,0 +1,5 @@
+./classics_png/楷/恼_0-嵩山陀罗尼经.svg.png
+./classics_png/楷/恼_1-苏轼.svg.png
+./classics_png/楷/恼_2-薛稷.svg.png
+./classics_png/楷/恼_3-颜真卿.svg.png
+./classics_png/楷/恼_4-颜真卿.svg.png

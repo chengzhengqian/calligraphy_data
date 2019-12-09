@@ -1,0 +1,4 @@
+./classics_png/楷/隘_0-褚遂良.svg.png
+./classics_png/楷/隘_1-陆柬之.svg.png
+./classics_png/楷/隘_2-欧阳通.svg.png
+./classics_png/楷/隘_3-颜真卿.svg.png

@@ -1,0 +1,4 @@
+./classics_png/楷/触_0-柳公权.svg.png
+./classics_png/楷/触_1-石婉墓志.svg.png
+./classics_png/楷/触_2-颜真卿.svg.png
+./classics_png/楷/触_3-颜真卿.svg.png

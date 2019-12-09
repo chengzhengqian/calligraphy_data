@@ -1,0 +1,9 @@
+./classics_png/楷/坤_0-蔡襄.svg.png
+./classics_png/楷/坤_1-褚遂良.svg.png
+./classics_png/楷/坤_2-褚遂良.svg.png
+./classics_png/楷/坤_3-李邕.svg.png
+./classics_png/楷/坤_4-柳公权.svg.png
+./classics_png/楷/坤_5-欧阳询.svg.png
+./classics_png/楷/坤_6-颜真卿.svg.png
+./classics_png/楷/坤_7-张猛龙碑.svg.png
+./classics_png/楷/坤_8-赵之谦.svg.png

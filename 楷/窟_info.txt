@@ -1,0 +1,2 @@
+./classics_png/楷/窟_0-颜真卿.svg.png
+./classics_png/楷/窟_1-杨大眼造像.svg.png

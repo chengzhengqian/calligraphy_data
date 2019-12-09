@@ -1,0 +1,4 @@
+./classics_png/楷/愤_0-颜真卿.svg.png
+./classics_png/楷/愤_1-颜真卿.svg.png
+./classics_png/楷/愤_2-颜真卿.svg.png
+./classics_png/楷/愤_3-钟繇.svg.png

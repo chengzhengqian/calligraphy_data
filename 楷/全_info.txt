@@ -1,0 +1,4 @@
+./classics_png/楷/全_0-褚遂良.svg.png
+./classics_png/楷/全_1-李秀残碑.svg.png
+./classics_png/楷/全_2-颜真卿.svg.png
+./classics_png/楷/全_3-颜真卿.svg.png

@@ -1,0 +1,5 @@
+./classics_png/楷/廓_0-陆柬之.svg.png
+./classics_png/楷/廓_1-欧阳通.svg.png
+./classics_png/楷/廓_2-王羲之.svg.png
+./classics_png/楷/廓_3-颜真卿.svg.png
+./classics_png/楷/廓_4-张公礼.svg.png

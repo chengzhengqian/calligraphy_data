@@ -1,0 +1,5 @@
+./classics_png/楷/匿_0-褚遂良.svg.png
+./classics_png/楷/匿_1-褚遂良.svg.png
+./classics_png/楷/匿_2-褚遂良.svg.png
+./classics_png/楷/匿_3-石经尔雅.svg.png
+./classics_png/楷/匿_4-颜真卿.svg.png

@@ -1,0 +1,3 @@
+./classics_png/楷/絮_0-唐寅.svg.png
+./classics_png/楷/絮_1-颜真卿.svg.png
+./classics_png/楷/絮_2-袁桷.svg.png

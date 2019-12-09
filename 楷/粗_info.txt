@@ -1,0 +1,4 @@
+./classics_png/楷/粗_0-褚遂良.svg.png
+./classics_png/楷/粗_1-黄庭坚.svg.png
+./classics_png/楷/粗_2-颜真卿.svg.png
+./classics_png/楷/粗_3-张公礼.svg.png

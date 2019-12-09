@@ -1,0 +1,9 @@
+./classics_png/楷/辩_0-褚遂良.svg.png
+./classics_png/楷/辩_1-褚遂良.svg.png
+./classics_png/楷/辩_2-柳公权.svg.png
+./classics_png/楷/辩_3-柳公权.svg.png
+./classics_png/楷/辩_4-米芾.svg.png
+./classics_png/楷/辩_5-颜真卿.svg.png
+./classics_png/楷/辩_6-颜真卿.svg.png
+./classics_png/楷/辩_7-虞世南.svg.png
+./classics_png/楷/辩_8-智永.svg.png

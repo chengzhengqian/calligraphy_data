@@ -1,0 +1,5 @@
+./classics_png/楷/姿_0-高贞碑.svg.png
+./classics_png/楷/姿_1-欧阳通.svg.png
+./classics_png/楷/姿_2-颜真卿.svg.png
+./classics_png/楷/姿_3-颜真卿.svg.png
+./classics_png/楷/姿_4-智永.svg.png

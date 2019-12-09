@@ -1,0 +1,3 @@
+./classics_png/楷/秽_0-颜真卿.svg.png
+./classics_png/楷/秽_1-颜真卿.svg.png
+./classics_png/楷/秽_2-杨大眼造像.svg.png

@@ -1,0 +1,5 @@
+./classics_png/楷/顿_0-石经左传.svg.png
+./classics_png/楷/顿_1-王徽之.svg.png
+./classics_png/楷/顿_2-颜真卿.svg.png
+./classics_png/楷/顿_3-智永.svg.png
+./classics_png/楷/顿_4-钟繇.svg.png

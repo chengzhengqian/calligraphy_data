@@ -1,0 +1,3 @@
+./classics_png/楷/褐_0-褚遂良.svg.png
+./classics_png/楷/褐_1-敬使君碑.svg.png
+./classics_png/楷/褐_2-颜真卿.svg.png
